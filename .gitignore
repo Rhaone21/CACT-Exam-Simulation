@@ -8,3 +8,10 @@ desktop.ini
 
 # Sumber PDF (besar, bukan bagian web)
 *.pdf
+
+# Rahasia / environment
+.env
+.env.*
+
+# Dokumentasi internal (lokal saja)
+docs/
