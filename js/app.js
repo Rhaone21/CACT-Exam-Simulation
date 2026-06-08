@@ -287,7 +287,7 @@
       '<div class="screen">' +
       '<div class="quiz-bar">' +
       '<div class="progress"><div class="progress__meta"><span>Soal ' + (i + 1) + ' / ' + s.total() + '</span>' +
-      '<span>' + s.countAnswered() + ' terjawab</span></div>' +
+      '<span id="answered-meta">' + s.countAnswered() + ' terjawab</span></div>' +
       '<div class="progress__bar"><div class="progress__fill" style="width:' + pct + '%"></div></div></div>' +
       timerHtml +
       '</div>' +
@@ -303,14 +303,38 @@
     app.querySelectorAll(".option").forEach(function (b) {
       b.onclick = function () {
         var idx = parseInt(b.dataset.opt, 10);
+        if (praktik && s.terbuka[i]) return;
         s.answer(idx);
-        if (praktik) { s.terbuka[i] = true; renderQuiz(); }
-        else { renderQuiz(); }
+        if (praktik) {
+          s.terbuka[i] = true;
+          app.querySelectorAll(".option").forEach(function (o, oi) {
+            o.disabled = true;
+            o.classList.remove("is-selected");
+            if (oi === soal.jawaban) o.classList.add("is-correct");
+            else if (oi === idx) o.classList.add("is-wrong");
+          });
+          if (!app.querySelector(".explain")) {
+            var benar = idx === soal.jawaban;
+            var ex = el('<div class="explain' + (soal.pembahasan ? "" : " explain--empty") + '">' +
+              '<div class="explain__title">' + I.bulb + (benar ? " Benar! " : " Kurang tepat · ") + 'Jawaban: ' + "ABCD"[soal.jawaban] + '</div>' +
+              (soal.pembahasan ? esc(soal.pembahasan) : "Pembahasan untuk soal ini belum tersedia.") + '</div>');
+            app.querySelector(".options").insertAdjacentElement("afterend", ex);
+          }
+        } else {
+          app.querySelectorAll(".option").forEach(function (o) { o.classList.remove("is-selected"); });
+          b.classList.add("is-selected");
+          var meta = document.getElementById("answered-meta");
+          if (meta) meta.textContent = s.countAnswered() + " terjawab";
+        }
       };
     });
     bind("prev", function () { s.prev(); renderQuiz(); });
     bind("next", function () { s.next(); renderQuiz(); });
-    bind("flag", function () { s.toggleFlag(); renderQuiz(); });
+    bind("flag", function () {
+      s.toggleFlag();
+      var fb = document.getElementById("flag");
+      if (fb) { fb.classList.toggle("is-flagged", s.isFlagged(i)); fb.innerHTML = I.flag + (s.isFlagged(i) ? " Ditandai" : " Ragu"); }
+    });
     bind("toreview", renderReview);
     bind("finish", finish);
     bind("quit", function () { if (confirm("Keluar dari sesi ini? Progres tidak disimpan.")) renderHome(); });
@@ -329,7 +353,7 @@
       var btn = app.querySelector('.option[data-opt="' + idx + '"]'); if (btn) btn.click();
     } else if (e.key === "ArrowRight") { var n = document.getElementById("next"); if (n) n.click(); }
     else if (e.key === "ArrowLeft") { var p = document.getElementById("prev"); if (p) p.click(); }
-    else if (k === "f" && !praktik) { s.toggleFlag(); renderQuiz(); }
+    else if (k === "f" && !praktik) { var fb = document.getElementById("flag"); if (fb) fb.click(); }
   });
 
   /* ================= LAYAR: TINJAU ================= */
