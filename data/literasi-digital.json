@@ -1,0 +1,2251 @@
+[
+ {
+  "id": "LD-001",
+  "kompetensi": "literasi-digital",
+  "q": "Apa yang dimaksud dengan literasi digital?",
+  "opsi": [
+   "Kemampuan menggunakan perangkat keras komputer",
+   "Kemampuan mengetik cepat",
+   "Kemampuan memahami, menggunakan, dan mengevaluasi informasi digital secara kritis",
+   "Kemampuan membuat jaringan komputer"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kemampuan memahami, menggunakan, dan mengevaluasi informasi digital secara kritis. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-002",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu manfaat literasi digital dalam pekerjaan ASN adalah:",
+  "opsi": [
+   "Mengurangi penggunaan teknologi",
+   "Menghindari penggunaan media sosial",
+   "Meningkatkan efisiensi kerja dan komunikasi digital",
+   "Mengurangi interaksi dengan publik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan efisiensi kerja dan komunikasi digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-003",
+  "kompetensi": "literasi-digital",
+  "q": "Mengapa ASN perlu memahami keamanan siber?",
+  "opsi": [
+   "Untuk bisa meretas data orang lain",
+   "Agar bisa memblokir media sosial",
+   "Untuk melindungi data pribadi dan informasi instansi",
+   "Untuk menghapus semua email masuk"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Untuk melindungi data pribadi dan informasi instansi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-004",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh tindakan tidak etis dalam penggunaan email dinas adalah:",
+  "opsi": [
+   "Menggunakan bahasa formal",
+   "Membuka lampiran dengan hati-hati",
+   "Menyebarkan hoaks atau informasi palsu",
+   "Memberikan informasi sesuai tugas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyebarkan hoaks atau informasi palsu. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-005",
+  "kompetensi": "literasi-digital",
+  "q": "Dalam penggunaan aplikasi rapat daring, ASN harus mampu:",
+  "opsi": [
+   "Menghindari kamera",
+   "Memastikan suara bising terdengar",
+   "Menggunakan fitur dengan efektif dan menjaga etika digital",
+   "Mengandalkan rekan kerja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menggunakan fitur dengan efektif dan menjaga etika digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-006",
+  "kompetensi": "literasi-digital",
+  "q": "Apa yang harus dilakukan saat menerima email mencurigakan?",
+  "opsi": [
+   "Segera dibuka",
+   "Dibalas",
+   "Dihapus atau dilaporkan ke bagian TI",
+   "Disebarkan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dihapus atau dilaporkan ke bagian TI. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-007",
+  "kompetensi": "literasi-digital",
+  "q": "Penggunaan media sosial oleh ASN harus:",
+  "opsi": [
+   "Bebas tanpa aturan",
+   "Sesuai dengan etika dan peraturan pemerintah",
+   "Hanya untuk hiburan",
+   "Digunakan untuk menyindir pimpinan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Sesuai dengan etika dan peraturan pemerintah. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-008",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh perangkat lunak kolaborasi daring adalah:",
+  "opsi": [
+   "Paint",
+   "Google Docs",
+   "Calculator",
+   "Winamp"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Google Docs. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-009",
+  "kompetensi": "literasi-digital",
+  "q": "Jejak digital adalah:",
+  "opsi": [
+   "File yang dihapus",
+   "Rekaman aktivitas seseorang di dunia digital",
+   "Dokumen cetak",
+   "Gambar latar komputer"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Rekaman aktivitas seseorang di dunia digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-010",
+  "kompetensi": "literasi-digital",
+  "q": "Kata sandi yang kuat sebaiknya:",
+  "opsi": [
+   "Nama lengkap",
+   "Tanggal lahir",
+   "Kombinasi huruf besar, kecil, angka, dan simbol",
+   "Kata yang mudah diingat orang"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kombinasi huruf besar, kecil, angka, dan simbol. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-011",
+  "kompetensi": "literasi-digital",
+  "q": "Cloud storage berguna untuk:",
+  "opsi": [
+   "Membeli komputer",
+   "Menyimpan data secara lokal",
+   "Menyimpan dan mengakses data secara daring",
+   "Menghapus semua file"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyimpan dan mengakses data secara daring. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-012",
+  "kompetensi": "literasi-digital",
+  "q": "Data pribadi ASN termasuk informasi yang harus:",
+  "opsi": [
+   "Dibagikan secara luas",
+   "Diunggah ke media sosial",
+   "Dirahasiakan dan dijaga keamanannya",
+   "Diabaikan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dirahasiakan dan dijaga keamanannya. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-013",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh penyalahgunaan teknologi digital oleh ASN:",
+  "opsi": [
+   "Menggunakan aplikasi presensi",
+   "Mengirim laporan melalui email",
+   "Mengakses situs ilegal di jam kerja",
+   "Rapat daring"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengakses situs ilegal di jam kerja. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-014",
+  "kompetensi": "literasi-digital",
+  "q": "Etika digital dalam komunikasi daring mencakup:",
+  "opsi": [
+   "Sopan santun dan menghargai privasi orang lain",
+   "Mengkritik tanpa filter",
+   "Mengunggah semua informasi",
+   "Menggunakan huruf kapital terus-menerus"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Sopan santun dan menghargai privasi orang lain. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-015",
+  "kompetensi": "literasi-digital",
+  "q": "Aplikasi e-government bertujuan untuk:",
+  "opsi": [
+   "Menambah beban kerja",
+   "Memudahkan koordinasi antarinstansi",
+   "Mengurangi interaksi",
+   "Menghapus proses administrasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memudahkan koordinasi antarinstansi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-016",
+  "kompetensi": "literasi-digital",
+  "q": "Phishing adalah bentuk kejahatan digital yang bertujuan:",
+  "opsi": [
+   "Memperbaiki jaringan",
+   "Menangkap ikan",
+   "Mencuri data pribadi dengan cara menipu",
+   "Membuat desain"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mencuri data pribadi dengan cara menipu. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-017",
+  "kompetensi": "literasi-digital",
+  "q": "Tindakan aman saat menggunakan Wi-Fi publik adalah:",
+  "opsi": [
+   "Login ke akun penting",
+   "Menonaktifkan firewall",
+   "Tidak mengakses data sensitif",
+   "Membagikan kata sandi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tidak mengakses data sensitif. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-018",
+  "kompetensi": "literasi-digital",
+  "q": "E-learning memudahkan ASN untuk:",
+  "opsi": [
+   "Tidur lebih lama",
+   "Belajar dan mengembangkan kompetensi secara fleksibel",
+   "Menghindari pelatihan",
+   "Mengurangi pekerjaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Belajar dan mengembangkan kompetensi secara fleksibel. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-019",
+  "kompetensi": "literasi-digital",
+  "q": "Apa itu malware?",
+  "opsi": [
+   "Sistem keamanan",
+   "Perangkat lunak berbahaya",
+   "Aplikasi kerja",
+   "Mesin pencari"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Perangkat lunak berbahaya. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-020",
+  "kompetensi": "literasi-digital",
+  "q": "Tanda email phishing antara lain:",
+  "opsi": [
+   "Alamat pengirim tidak dikenal dan permintaan data pribadi",
+   "Salam sopan dan resmi",
+   "Menggunakan domain pemerintah",
+   "Berisi laporan keuangan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Alamat pengirim tidak dikenal dan permintaan data pribadi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-021",
+  "kompetensi": "literasi-digital",
+  "q": "Mengapa ASN perlu memiliki keterampilan literasi digital?",
+  "opsi": [
+   "Supaya lebih terkenal",
+   "Agar lebih sering main gadget",
+   "Untuk mendukung pelayanan publik berbasis teknologi",
+   "Supaya bisa membuat game"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Untuk mendukung pelayanan publik berbasis teknologi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-022",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh penyimpanan data digital yang aman:",
+  "opsi": [
+   "Flashdisk terbuka",
+   "Folder publik",
+   "Cloud storage dengan autentikasi dua faktor",
+   "Email pribadi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Cloud storage dengan autentikasi dua faktor. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-023",
+  "kompetensi": "literasi-digital",
+  "q": "Apa yang dimaksud dengan autentikasi dua faktor?",
+  "opsi": [
+   "Dua akun sekaligus",
+   "Dua perangkat digunakan",
+   "Verifikasi tambahan selain kata sandi",
+   "Dua pengguna berbagi akun"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Verifikasi tambahan selain kata sandi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-024",
+  "kompetensi": "literasi-digital",
+  "q": "Dalam pengelolaan dokumen digital, hal penting yang perlu diperhatikan:",
+  "opsi": [
+   "Nama file unik saja",
+   "File tidak perlu diberi password",
+   "Struktur folder yang rapi dan backup data secara berkala",
+   "Biarkan file tersebar"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Struktur folder yang rapi dan backup data secara berkala. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-025",
+  "kompetensi": "literasi-digital",
+  "q": "Hoaks bisa dicek kebenarannya melalui:",
+  "opsi": [
+   "Insting",
+   "Media sosial",
+   "Situs cek fakta terpercaya",
+   "Komentar warganet"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Situs cek fakta terpercaya. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-026",
+  "kompetensi": "literasi-digital",
+  "q": "Dampak buruk dari hoaks bagi ASN adalah:",
+  "opsi": [
+   "Menambah semangat",
+   "Meningkatkan produktivitas",
+   "Menurunkan kepercayaan publik dan merusak reputasi",
+   "Membuat viral"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menurunkan kepercayaan publik dan merusak reputasi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-027",
+  "kompetensi": "literasi-digital",
+  "q": "ASN menyebarkan hoaks bisa dikenai sanksi karena:",
+  "opsi": [
+   "Melanggar jam kerja",
+   "Menggunakan data kantor",
+   "Melanggar kode etik dan UU ITE",
+   "Kurang kreatif"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melanggar kode etik dan UU ITE. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-028",
+  "kompetensi": "literasi-digital",
+  "q": "Dalam bekerja dari rumah (WFH), ASN perlu memastikan:",
+  "opsi": [
+   "Layar laptop menghadap jendela",
+   "Koneksi internet stabil dan perangkat kerja tersedia",
+   "Sering membuka media sosial",
+   "Menghindari rapat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Koneksi internet stabil dan perangkat kerja tersedia. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-029",
+  "kompetensi": "literasi-digital",
+  "q": "Saat mengadakan rapat daring, fitur mute berguna untuk:",
+  "opsi": [
+   "Menghilangkan suara semua orang",
+   "Menonaktifkan video",
+   "Menghindari gangguan suara saat tidak berbicara",
+   "Menyembunyikan data"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menghindari gangguan suara saat tidak berbicara. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-030",
+  "kompetensi": "literasi-digital",
+  "q": "Google Drive adalah contoh dari:",
+  "opsi": [
+   "Perangkat keras",
+   "Perangkat lunak hiburan",
+   "Layanan penyimpanan dan kolaborasi daring",
+   "Mesin pencetak"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Layanan penyimpanan dan kolaborasi daring. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-031",
+  "kompetensi": "literasi-digital",
+  "q": "Dalam pengelolaan dokumen digital, metadata berfungsi untuk:",
+  "opsi": [
+   "Menghapus file",
+   "Menyembunyikan isi",
+   "Memberi informasi tentang dokumen seperti tanggal dan penulis",
+   "Menambah virus"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberi informasi tentang dokumen seperti tanggal dan penulis. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-032",
+  "kompetensi": "literasi-digital",
+  "q": "ASN sebaiknya membuat kata sandi baru setiap:",
+  "opsi": [
+   "10 tahun",
+   "2 tahun",
+   "Beberapa bulan sekali, tergantung kebijakan keamanan",
+   "Jika diminta oleh atasan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Beberapa bulan sekali, tergantung kebijakan keamanan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-033",
+  "kompetensi": "literasi-digital",
+  "q": "Teknologi yang mempermudah pelacakan progres proyek disebut:",
+  "opsi": [
+   "TV",
+   "Task management system (misalnya Trello, Asana)",
+   "Remote control",
+   "Browser"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Task management system (misalnya Trello, Asana). Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-034",
+  "kompetensi": "literasi-digital",
+  "q": "Data yang disimpan secara daring harus:",
+  "opsi": [
+   "Dibuka oleh semua orang",
+   "Disimpan di media sosial",
+   "Dijaga kerahasiaannya dan diakses hanya oleh yang berwenang",
+   "Dipublikasikan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dijaga kerahasiaannya dan diakses hanya oleh yang berwenang. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-035",
+  "kompetensi": "literasi-digital",
+  "q": "Aplikasi yang membantu kolaborasi dan komunikasi tim:",
+  "opsi": [
+   "Instagram",
+   "WhatsApp dan Slack",
+   "TikTok",
+   "YouTube"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) WhatsApp dan Slack. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-036",
+  "kompetensi": "literasi-digital",
+  "q": "Penyalahgunaan media sosial oleh ASN bisa menyebabkan:",
+  "opsi": [
+   "Kenaikan pangkat",
+   "Pujian",
+   "Teguran atau sanksi disiplin",
+   "Bonus tambahan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Teguran atau sanksi disiplin. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-037",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh perilaku etis dalam grup WhatsApp kerja:",
+  "opsi": [
+   "Mengirim meme sepanjang hari",
+   "Menyampaikan informasi penting secara jelas",
+   "Menyebarkan hoaks",
+   "Mempromosikan produk pribadi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menyampaikan informasi penting secara jelas. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-038",
+  "kompetensi": "literasi-digital",
+  "q": "Kelebihan dokumen digital dibanding fisik adalah:",
+  "opsi": [
+   "Lebih berat",
+   "Tidak bisa dihapus",
+   "Mudah diakses, disimpan, dan dibagikan",
+   "Harus dicetak"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mudah diakses, disimpan, dan dibagikan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-039",
+  "kompetensi": "literasi-digital",
+  "q": "Risiko dari penggunaan kata sandi yang sama di banyak akun adalah:",
+  "opsi": [
+   "Mudah diingat",
+   "Aman",
+   "Jika satu akun dibobol, semua akun rentan",
+   "Menjadi lebih profesional"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Jika satu akun dibobol, semua akun rentan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-040",
+  "kompetensi": "literasi-digital",
+  "q": "Bentuk literasi digital yang baik saat browsing informasi adalah:",
+  "opsi": [
+   "Membaca semua artikel",
+   "Memastikan sumber kredibel dan mengecek kebenaran",
+   "Mencari yang viral saja",
+   "Menyalin semua isi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memastikan sumber kredibel dan mengecek kebenaran. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-041",
+  "kompetensi": "literasi-digital",
+  "q": "E-mail resmi instansi pemerintah biasanya berakhiran:",
+  "opsi": [
+   "@gmail.com",
+   "@yahoo.com",
+   "@go.id",
+   "@mail.com"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) @go.id. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-042",
+  "kompetensi": "literasi-digital",
+  "q": "Istilah “spam” dalam email berarti:",
+  "opsi": [
+   "Pesan pribadi",
+   "Iklan atau pesan tidak diinginkan",
+   "File resmi",
+   "Informasi penting"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Iklan atau pesan tidak diinginkan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-043",
+  "kompetensi": "literasi-digital",
+  "q": "Apa itu VPN (Virtual Private Network)?",
+  "opsi": [
+   "Layanan untuk main game",
+   "Sistem login",
+   "Jaringan aman untuk melindungi aktivitas daring",
+   "Antivirus"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Jaringan aman untuk melindungi aktivitas daring. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-044",
+  "kompetensi": "literasi-digital",
+  "q": "Informasi publik yang dibagikan ASN harus:",
+  "opsi": [
+   "Viral",
+   "Asal cepat",
+   "Sesuai aturan keterbukaan dan etika komunikasi",
+   "Dirancang lucu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Sesuai aturan keterbukaan dan etika komunikasi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-045",
+  "kompetensi": "literasi-digital",
+  "q": "Prinsip penting dalam komunikasi digital yang efektif adalah:",
+  "opsi": [
+   "Panjang dan rinci",
+   "Berbelit",
+   "Jelas, ringkas, dan sopan",
+   "Banyak emoji"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Jelas, ringkas, dan sopan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-046",
+  "kompetensi": "literasi-digital",
+  "q": "Tantangan utama transformasi digital dalam pemerintahan adalah:",
+  "opsi": [
+   "Biaya listrik",
+   "Kurangnya pelatihan dan kesiapan SDM",
+   "Banyak komputer",
+   "Akses internet cepat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Kurangnya pelatihan dan kesiapan SDM. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-047",
+  "kompetensi": "literasi-digital",
+  "q": "ASN harus menggunakan perangkat digital secara:",
+  "opsi": [
+   "Bebas tanpa batas",
+   "Sembarangan",
+   "Bertanggung jawab dan sesuai kebutuhan",
+   "Hanya saat ujian"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bertanggung jawab dan sesuai kebutuhan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-048",
+  "kompetensi": "literasi-digital",
+  "q": "Jejak digital bisa berdampak pada:",
+  "opsi": [
+   "Nilai tukar rupiah",
+   "Reputasi dan kepercayaan publik",
+   "Cuaca",
+   "Hasil panen"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Reputasi dan kepercayaan publik. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-049",
+  "kompetensi": "literasi-digital",
+  "q": "Pelanggaran data pribadi dapat dijerat dengan:",
+  "opsi": [
+   "UU ITE dan regulasi perlindungan data",
+   "Hukuman sosial",
+   "Peringatan saja",
+   "Sanksi moral"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) UU ITE dan regulasi perlindungan data. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-050",
+  "kompetensi": "literasi-digital",
+  "q": "Tujuan utama literasi digital bagi ASN adalah:",
+  "opsi": [
+   "Menambah jam main gadget",
+   "Mempercepat viralitas",
+   "Mendukung pelayanan publik berbasis teknologi dan keamanan informasi",
+   "Menjadi influencer"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mendukung pelayanan publik berbasis teknologi dan keamanan informasi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-051",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh perilaku etis dalam dunia digital adalah:",
+  "opsi": [
+   "Mengunduh software bajakan",
+   "Membagikan data pribadi rekan kerja",
+   "Menghormati hak cipta dan menjaga privasi",
+   "Menyalin artikel tanpa menyebut sumber"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menghormati hak cipta dan menjaga privasi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-052",
+  "kompetensi": "literasi-digital",
+  "q": "Kata sandi (password) yang kuat sebaiknya:",
+  "opsi": [
+   "Nama sendiri dan tanggal lahir",
+   "“123456”",
+   "Kombinasi huruf besar, kecil, angka, dan simbol",
+   "Kata umum yang mudah ditebak"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kombinasi huruf besar, kecil, angka, dan simbol. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-053",
+  "kompetensi": "literasi-digital",
+  "q": "Phishing adalah bentuk kejahatan digital berupa:",
+  "opsi": [
+   "Mencetak dokumen",
+   "Penipuan lewat email atau situs palsu untuk mencuri data",
+   "Membuka situs berita",
+   "Menyebar iklan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Penipuan lewat email atau situs palsu untuk mencuri data. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-054",
+  "kompetensi": "literasi-digital",
+  "q": "Mengapa penting memahami hak cipta di dunia digital?",
+  "opsi": [
+   "Supaya bisa menyalin bebas",
+   "Agar bisa menjual karya orang lain",
+   "Untuk menghormati dan melindungi karya orang lain",
+   "Untuk mendapatkan lebih banyak file"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Untuk menghormati dan melindungi karya orang lain. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-055",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh penggunaan teknologi digital untuk meningkatkan kinerja ASN adalah:",
+  "opsi": [
+   "Menggunakan media sosial selama jam kerja",
+   "Mencetak dokumen tanpa membaca",
+   "Mengelola data dengan aplikasi spreadsheet",
+   "Bermain game saat rapat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengelola data dengan aplikasi spreadsheet. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-056",
+  "kompetensi": "literasi-digital",
+  "q": "Informasi hoaks dapat dikenali dengan cara:",
+  "opsi": [
+   "Percaya langsung pada berita viral",
+   "Memastikan sumber informasi yang kredibel dan resmi",
+   "Membagikan tanpa membaca",
+   "Hanya melihat judul"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memastikan sumber informasi yang kredibel dan resmi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-057",
+  "kompetensi": "literasi-digital",
+  "q": "Untuk menghindari virus digital, sebaiknya:",
+  "opsi": [
+   "Membuka semua lampiran email",
+   "Menginstal antivirus dan tidak sembarangan mengunduh",
+   "Mengabaikan pembaruan sistem",
+   "Mengklik semua iklan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menginstal antivirus dan tidak sembarangan mengunduh. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-058",
+  "kompetensi": "literasi-digital",
+  "q": "Aplikasi penyimpan data secara online disebut:",
+  "opsi": [
+   "Cloud storage",
+   "Disket",
+   "Printer",
+   "Keyboard"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Cloud storage. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-059",
+  "kompetensi": "literasi-digital",
+  "q": "Tindakan melindungi data pribadi di internet penting agar:",
+  "opsi": [
+   "Data bisa disebar bebas",
+   "Orang lain bisa membantu",
+   "Tidak disalahgunakan oleh pihak tak bertanggung jawab",
+   "Menjadi lebih populer"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tidak disalahgunakan oleh pihak tak bertanggung jawab. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-060",
+  "kompetensi": "literasi-digital",
+  "q": "Enkripsi berfungsi untuk:",
+  "opsi": [
+   "Menyulitkan pengguna",
+   "Mengunci aplikasi",
+   "Melindungi informasi dari akses tidak sah",
+   "Mempercepat internet"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melindungi informasi dari akses tidak sah. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-061",
+  "kompetensi": "literasi-digital",
+  "q": "ASN sebaiknya menggunakan media sosial untuk:",
+  "opsi": [
+   "Menyebar informasi pribadi",
+   "Menyebarkan hoaks",
+   "Mempromosikan kinerja positif instansi secara etis",
+   "Mengkritik pimpinan secara terbuka"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mempromosikan kinerja positif instansi secara etis. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-062",
+  "kompetensi": "literasi-digital",
+  "q": "Yang termasuk perilaku tidak etis dalam komunikasi digital adalah:",
+  "opsi": [
+   "Memberi kritik membangun",
+   "Menggunakan bahasa sopan",
+   "Menyebar ujaran kebencian",
+   "Menghormati pendapat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyebar ujaran kebencian. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-063",
+  "kompetensi": "literasi-digital",
+  "q": "Sistem keamanan dua faktor (2FA) bermanfaat untuk:",
+  "opsi": [
+   "Membuat akun lebih mudah dibuka",
+   "Menambah waktu login",
+   "Memberi lapisan keamanan tambahan",
+   "Membagikan kata sandi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberi lapisan keamanan tambahan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-064",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu ancaman dalam dunia digital adalah:",
+  "opsi": [
+   "Email resmi",
+   "Malware",
+   "Zoom meeting",
+   "Pemindai sidik jari"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Malware. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-065",
+  "kompetensi": "literasi-digital",
+  "q": "ASN yang cakap digital akan:",
+  "opsi": [
+   "Menolak teknologi",
+   "Membuka semua pesan spam",
+   "Menggunakan teknologi untuk efisiensi kerja",
+   "Menghapus email penting"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menggunakan teknologi untuk efisiensi kerja. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-066",
+  "kompetensi": "literasi-digital",
+  "q": "Apa itu spam?",
+  "opsi": [
+   "Surat resmi",
+   "Email palsu yang tidak diinginkan dan dikirim massal",
+   "Email dari atasan",
+   "Laporan kepegawaian"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Email palsu yang tidak diinginkan dan dikirim massal. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-067",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu cara menjaga keamanan perangkat digital adalah:",
+  "opsi": [
+   "Membiarkannya terbuka",
+   "Menggunakan kata sandi kuat dan tidak membaginya",
+   "Menuliskan password di monitor",
+   "Mengabaikan pembaruan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menggunakan kata sandi kuat dan tidak membaginya. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-068",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh pelanggaran etika digital adalah:",
+  "opsi": [
+   "Mengutip dengan menyebut sumber",
+   "Menyalin karya orang tanpa izin",
+   "Menyebarkan informasi benar",
+   "Menghormati pendapat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menyalin karya orang tanpa izin. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-069",
+  "kompetensi": "literasi-digital",
+  "q": "Tujuan utama dari penggunaan digital signature adalah:",
+  "opsi": [
+   "Menambahkan emoji pada pesan",
+   "Mengamankan data dan menjamin keaslian dokumen",
+   "Meningkatkan estetika dokumen",
+   "Menyederhanakan penulisan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengamankan data dan menjamin keaslian dokumen. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-070",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh tindakan yang melanggar etika digital adalah:",
+  "opsi": [
+   "Menyebar informasi pribadi orang lain tanpa izin",
+   "Menghargai pendapat di media sosial",
+   "Menggunakan email dinas untuk kepentingan pekerjaan",
+   "Menjawab email dengan sopan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Menyebar informasi pribadi orang lain tanpa izin. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-071",
+  "kompetensi": "literasi-digital",
+  "q": "Saat menggunakan platform daring untuk rapat, sebaiknya ASN:",
+  "opsi": [
+   "Tidak mengaktifkan kamera atau suara",
+   "Mengabaikan etika berkomunikasi",
+   "Menggunakan latar belakang yang profesional dan sopan",
+   "Menyalakan TV saat rapat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menggunakan latar belakang yang profesional dan sopan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-072",
+  "kompetensi": "literasi-digital",
+  "q": "Tindakan tepat saat menerima file dari sumber tak dikenal:",
+  "opsi": [
+   "Langsung dibuka",
+   "Diunduh dan dibagikan",
+   "Dihapus atau diverifikasi dulu",
+   "Dicetak"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dihapus atau diverifikasi dulu. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-073",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu ciri berita hoaks adalah:",
+  "opsi": [
+   "Memiliki sumber jelas",
+   "Disampaikan oleh lembaga resmi",
+   "Mengandung provokasi tanpa bukti",
+   "Berdasarkan data yang valid"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengandung provokasi tanpa bukti. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-074",
+  "kompetensi": "literasi-digital",
+  "q": "Tujuan utama enkripsi data dalam komunikasi digital adalah:",
+  "opsi": [
+   "Membuat data lebih besar",
+   "Mengurangi kualitas data",
+   "Menjaga kerahasiaan data",
+   "Memperlambat sistem"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menjaga kerahasiaan data. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-075",
+  "kompetensi": "literasi-digital",
+  "q": "Aktivitas berbagi informasi pribadi tanpa izin disebut:",
+  "opsi": [
+   "Kolaborasi",
+   "Netiket",
+   "Pelanggaran privasi",
+   "Interaksi digital"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pelanggaran privasi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-076",
+  "kompetensi": "literasi-digital",
+  "q": "Etika saat menggunakan grup WhatsApp kerja:",
+  "opsi": [
+   "Mengirimkan meme di jam kerja",
+   "Membagikan hoaks",
+   "Fokus pada informasi penting dan profesional",
+   "Mengabaikan pesan penting"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Fokus pada informasi penting dan profesional. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-077",
+  "kompetensi": "literasi-digital",
+  "q": "Apa fungsi utama VPN (Virtual Private Network)?",
+  "opsi": [
+   "Memblokir situs",
+   "Mempercepat koneksi",
+   "Menyembunyikan identitas dan menjaga keamanan koneksi",
+   "Membuka file terlarang"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyembunyikan identitas dan menjaga keamanan koneksi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-078",
+  "kompetensi": "literasi-digital",
+  "q": "Istilah digital divide merujuk pada:",
+  "opsi": [
+   "Jurang antara digital dan manual",
+   "Kesenjangan akses terhadap teknologi informasi",
+   "Perbedaan jenis perangkat",
+   "Komputer yang lambat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Kesenjangan akses terhadap teknologi informasi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-079",
+  "kompetensi": "literasi-digital",
+  "q": "Mengapa penting mengecek ulang konten sebelum membagikannya di media sosial?",
+  "opsi": [
+   "Untuk mempercepat penyebaran",
+   "Untuk menciptakan sensasi",
+   "Untuk memastikan kebenaran dan menghindari penyebaran hoaks",
+   "Supaya lebih banyak like"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Untuk memastikan kebenaran dan menghindari penyebaran hoaks. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-080",
+  "kompetensi": "literasi-digital",
+  "q": "Menggunakan media sosial sebagai ASN sebaiknya:",
+  "opsi": [
+   "Menyebar opini pribadi secara bebas",
+   "Mengkritik pimpinan dengan kasar",
+   "Membangun citra positif institusi",
+   "Menyerang sesama pegawai"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Membangun citra positif institusi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-081",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu risiko terlalu sering membagikan lokasi di media sosial:",
+  "opsi": [
+   "Mendapat banyak pengikut",
+   "Informasi menjadi viral",
+   "Membuka peluang kejahatan digital",
+   "Profil menjadi menarik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Membuka peluang kejahatan digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-082",
+  "kompetensi": "literasi-digital",
+  "q": "Langkah terbaik saat menemukan konten yang mengandung kebencian:",
+  "opsi": [
+   "Menyukai dan membagikannya",
+   "Mengabaikan",
+   "Melaporkan dan tidak ikut menyebarkan",
+   "Menambahkan komentar pedas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melaporkan dan tidak ikut menyebarkan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-083",
+  "kompetensi": "literasi-digital",
+  "q": "Yang bukan termasuk perangkat lunak kolaboratif adalah:",
+  "opsi": [
+   "Google Docs",
+   "Microsoft Teams",
+   "WhatsApp",
+   "Paint"
+  ],
+  "jawaban": 3,
+  "pembahasan": "Jawaban yang tepat: (D) Paint. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-084",
+  "kompetensi": "literasi-digital",
+  "q": "Tujuan utama literasi digital dalam dunia kerja adalah:",
+  "opsi": [
+   "Mengurangi kerja",
+   "Meningkatkan produktivitas dan efisiensi",
+   "Menghindari tugas",
+   "Menyembunyikan data"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Meningkatkan produktivitas dan efisiensi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-085",
+  "kompetensi": "literasi-digital",
+  "q": "Jejak digital pasif terjadi saat:",
+  "opsi": [
+   "Seseorang dengan sengaja mengunggah informasi",
+   "Data dikumpulkan tanpa pengguna sadar",
+   "Menulis blog pribadi",
+   "Mengisi form online"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Data dikumpulkan tanpa pengguna sadar. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-086",
+  "kompetensi": "literasi-digital",
+  "q": "Hak cipta di dunia digital penting untuk:",
+  "opsi": [
+   "Menghapus karya lama",
+   "Menginspirasi pelanggaran",
+   "Melindungi hasil karya seseorang dari pembajakan",
+   "Meningkatkan pajak"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melindungi hasil karya seseorang dari pembajakan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-087",
+  "kompetensi": "literasi-digital",
+  "q": "Komentar yang baik di ruang digital mencerminkan:",
+  "opsi": [
+   "Emosi sesaat",
+   "Etika dan empati",
+   "Ketidaksabaran",
+   "Ungkapan kemarahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Etika dan empati. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-088",
+  "kompetensi": "literasi-digital",
+  "q": "Ketika menerima permintaan data pribadi melalui email, tindakan yang benar:",
+  "opsi": [
+   "Langsung membalas",
+   "Membagikan secara lengkap",
+   "Memastikan keaslian pengirim terlebih dahulu",
+   "Memblokir semua email"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memastikan keaslian pengirim terlebih dahulu. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-089",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh penggunaan TIK dalam pelayanan publik adalah:",
+  "opsi": [
+   "Menulis manual di kertas",
+   "Melayani lewat loket saja",
+   "Menggunakan aplikasi pelayanan online",
+   "Menutup akses publik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menggunakan aplikasi pelayanan online. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-090",
+  "kompetensi": "literasi-digital",
+  "q": "Spam dapat menimbulkan risiko:",
+  "opsi": [
+   "Hiburan",
+   "Peningkatan produktivitas",
+   "Infeksi malware dan pencurian data",
+   "Menambah ilmu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Infeksi malware dan pencurian data. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-091",
+  "kompetensi": "literasi-digital",
+  "q": "Prinsip dasar keamanan digital adalah:",
+  "opsi": [
+   "Menyimpan semua data di satu perangkat",
+   "Menuliskan password di meja",
+   "Mencegah akses tidak sah dan menjaga kerahasiaan data",
+   "Mengabaikan update"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mencegah akses tidak sah dan menjaga kerahasiaan data. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-092",
+  "kompetensi": "literasi-digital",
+  "q": "Jika akun media sosial diretas, hal pertama yang harus dilakukan:",
+  "opsi": [
+   "Menghapus semua postingan",
+   "Diam saja",
+   "Mengganti kata sandi dan hubungi pihak platform",
+   "Membuat status marah"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengganti kata sandi dan hubungi pihak platform. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-093",
+  "kompetensi": "literasi-digital",
+  "q": "ASN diharapkan mampu beradaptasi dengan digitalisasi karena:",
+  "opsi": [
+   "Teknologi hanya untuk generasi muda",
+   "Dunia kerja mengarah pada transformasi digital",
+   "Tugas akan berkurang",
+   "Supaya bisa bermain media sosial"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Dunia kerja mengarah pada transformasi digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-094",
+  "kompetensi": "literasi-digital",
+  "q": "Tujuan utama netiket adalah:",
+  "opsi": [
+   "Membuat pengguna viral",
+   "Menjadi selebritas",
+   "Menjaga kesopanan dan etika dalam komunikasi digital",
+   "Membuat konten lucu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menjaga kesopanan dan etika dalam komunikasi digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-095",
+  "kompetensi": "literasi-digital",
+  "q": "Cloud computing memungkinkan ASN untuk:",
+  "opsi": [
+   "Mengakses data hanya di kantor",
+   "Membawa flashdisk ke mana-mana",
+   "Mengakses dan menyimpan data dari mana saja",
+   "Mencetak semua data"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengakses dan menyimpan data dari mana saja. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-096",
+  "kompetensi": "literasi-digital",
+  "q": "Phishing dapat dicegah dengan cara:",
+  "opsi": [
+   "Mengabaikan semua email",
+   "Menjawab semua permintaan",
+   "Tidak membuka tautan mencurigakan",
+   "Membalas semua pesan cepat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tidak membuka tautan mencurigakan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-097",
+  "kompetensi": "literasi-digital",
+  "q": "Informasi yang kredibel di internet biasanya berasal dari:",
+  "opsi": [
+   "Blog pribadi",
+   "Forum bebas",
+   "Situs resmi pemerintah atau lembaga terpercaya",
+   "Akun palsu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Situs resmi pemerintah atau lembaga terpercaya. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-098",
+  "kompetensi": "literasi-digital",
+  "q": "Tujuan utama transformasi digital di pemerintahan adalah:",
+  "opsi": [
+   "Mempekerjakan lebih banyak ASN",
+   "Mempercepat birokrasi dan pelayanan publik",
+   "Menghapus semua dokumen",
+   "Mengurangi transparansi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mempercepat birokrasi dan pelayanan publik. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-099",
+  "kompetensi": "literasi-digital",
+  "q": "Dalam mengelola informasi digital, ASN harus:",
+  "opsi": [
+   "Mengabaikan sumber informasi",
+   "Menyimpan semua file tanpa label",
+   "Menyusun dan mengarsipkan data secara sistematis",
+   "Menyebarkan data mentah ke publik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyusun dan mengarsipkan data secara sistematis. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-100",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh aplikasi berbasis cloud yang umum digunakan untuk kerja kolaboratif:",
+  "opsi": [
+   "Paint",
+   "Notepad",
+   "Google Drive",
+   "Calculator"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Google Drive. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-101",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu keuntungan penggunaan teknologi digital dalam pelayanan publik:",
+  "opsi": [
+   "Proses lebih lama",
+   "Meningkatkan biaya operasional",
+   "Meningkatkan efisiensi dan transparansi",
+   "Membatasi akses masyarakat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan efisiensi dan transparansi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-102",
+  "kompetensi": "literasi-digital",
+  "q": "Agar aman saat bekerja dengan perangkat digital di tempat umum, sebaiknya:",
+  "opsi": [
+   "Menggunakan jaringan Wi-Fi publik tanpa perlindungan",
+   "Membuka semua file dari flashdisk orang lain",
+   "Menggunakan VPN dan mengunci perangkat",
+   "Menuliskan password di atas meja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menggunakan VPN dan mengunci perangkat. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-103",
+  "kompetensi": "literasi-digital",
+  "q": "Netiket adalah singkatan dari:",
+  "opsi": [
+   "Internet Terkini",
+   "Jaringan Etiket",
+   "Network Etiquette (Etika Berinternet)",
+   "Kode Akses"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Network Etiquette (Etika Berinternet). Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-104",
+  "kompetensi": "literasi-digital",
+  "q": "Privasi digital mencakup hal berikut, kecuali:",
+  "opsi": [
+   "Nomor rekening bank",
+   "Nama ibu kandung",
+   "Password media sosial",
+   "Nama makanan favorit"
+  ],
+  "jawaban": 3,
+  "pembahasan": "Jawaban yang tepat: (D) Nama makanan favorit. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-105",
+  "kompetensi": "literasi-digital",
+  "q": "ASN wajib menjaga keamanan data instansi karena:",
+  "opsi": [
+   "Data tidak penting",
+   "Demi menjaga kerahasiaan dan kelancaran layanan publik",
+   "Untuk bisa dibagikan",
+   "Supaya mudah dicari"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Demi menjaga kerahasiaan dan kelancaran layanan publik. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-106",
+  "kompetensi": "literasi-digital",
+  "q": "ASN yang memiliki kompetensi digital mampu:",
+  "opsi": [
+   "Menolak sistem digital",
+   "Menggunakan teknologi untuk efisiensi dan layanan yang lebih baik",
+   "Mematikan komputer setiap saat",
+   "Menghindari pelatihan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menggunakan teknologi untuk efisiensi dan layanan yang lebih baik. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-107",
+  "kompetensi": "literasi-digital",
+  "q": "Digital citizenship berarti:",
+  "opsi": [
+   "Warga negara yang hanya hidup secara virtual",
+   "Kemampuan seseorang untuk menggunakan teknologi secara bertanggung jawab",
+   "Warga negara yang aktif di media sosial",
+   "Identitas palsu digital"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Kemampuan seseorang untuk menggunakan teknologi secara bertanggung jawab. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-108",
+  "kompetensi": "literasi-digital",
+  "q": "Tujuan dari pelatihan literasi digital bagi ASN adalah:",
+  "opsi": [
+   "Menambah tugas",
+   "Menghindari teknologi",
+   "Meningkatkan pemahaman dan keterampilan dalam dunia digital",
+   "Mengurangi beban kerja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan pemahaman dan keterampilan dalam dunia digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-109",
+  "kompetensi": "literasi-digital",
+  "q": "Etika saat berkomentar di forum digital instansi adalah:",
+  "opsi": [
+   "Menyerang pribadi",
+   "Menghina pendapat orang lain",
+   "Menggunakan bahasa profesional dan sopan",
+   "Memancing perdebatan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menggunakan bahasa profesional dan sopan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-110",
+  "kompetensi": "literasi-digital",
+  "q": "Aplikasi pengolah data yang umum digunakan ASN:",
+  "opsi": [
+   "VLC Player",
+   "Excel",
+   "Photoshop",
+   "Winamp"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Excel. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-111",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu ciri akun media sosial palsu adalah:",
+  "opsi": [
+   "Memiliki tanda verifikasi",
+   "Konsisten dengan konten resmi",
+   "Tidak ada informasi jelas dan nama tidak sesuai",
+   "Dikelola oleh instansi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tidak ada informasi jelas dan nama tidak sesuai. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-112",
+  "kompetensi": "literasi-digital",
+  "q": "Tanda situs web yang aman untuk transaksi digital biasanya:",
+  "opsi": [
+   "Diawali dengan http://",
+   "Tidak memiliki alamat",
+   "Diawali dengan https:// dan terdapat ikon gembok",
+   "Banyak iklan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Diawali dengan https:// dan terdapat ikon gembok. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-113",
+  "kompetensi": "literasi-digital",
+  "q": "Hal yang harus dihindari saat membuat presentasi digital:",
+  "opsi": [
+   "Menggunakan poin penting",
+   "Terlalu banyak animasi dan warna",
+   "Slide singkat dan jelas",
+   "Desain profesional"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Terlalu banyak animasi dan warna. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-114",
+  "kompetensi": "literasi-digital",
+  "q": "Kebiasaan digital buruk yang bisa menurunkan produktivitas ASN adalah:",
+  "opsi": [
+   "Memeriksa email kerja secara berkala",
+   "Fokus pada dokumen penting",
+   "Sering membuka media sosial saat jam kerja",
+   "Menyimpan data di cloud"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Sering membuka media sosial saat jam kerja. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-115",
+  "kompetensi": "literasi-digital",
+  "q": "Dalam sistem keamanan digital, OTP merujuk pada:",
+  "opsi": [
+   "One Time Password",
+   "Online Task Print",
+   "Original Transfer Point",
+   "One Task Policy"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) One Time Password. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-116",
+  "kompetensi": "literasi-digital",
+  "q": "Aplikasi video conference yang biasa digunakan dalam pekerjaan ASN:",
+  "opsi": [
+   "Netflix",
+   "YouTube",
+   "Zoom",
+   "Spotify"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Zoom. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-117",
+  "kompetensi": "literasi-digital",
+  "q": "Informasi dalam bentuk digital yang tidak boleh dibagikan sembarangan:",
+  "opsi": [
+   "Foto liburan",
+   "Gaji ASN",
+   "Meme lucu",
+   "Lagu favorit"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Gaji ASN. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-118",
+  "kompetensi": "literasi-digital",
+  "q": "Sikap ASN terhadap perkembangan teknologi digital seharusnya:",
+  "opsi": [
+   "Takut dan menghindar",
+   "Mengikuti tren tanpa panduan",
+   "Terbuka, kritis, dan selektif",
+   "Tidak peduli"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Terbuka, kritis, dan selektif. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-119",
+  "kompetensi": "literasi-digital",
+  "q": "Apa yang dimaksud dengan “hoaks”?",
+  "opsi": [
+   "Informasi lama",
+   "Informasi yang tidak penting",
+   "Informasi palsu yang dibuat untuk menyesatkan",
+   "Berita resmi pemerintah"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Informasi palsu yang dibuat untuk menyesatkan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-120",
+  "kompetensi": "literasi-digital",
+  "q": "Apa manfaat dari penyimpanan data secara cloud?",
+  "opsi": [
+   "Data bisa dibuka hanya di satu komputer",
+   "Data bisa hilang lebih cepat",
+   "Data bisa diakses kapan saja dan dari mana saja",
+   "Data otomatis terhapus"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Data bisa diakses kapan saja dan dari mana saja. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-121",
+  "kompetensi": "literasi-digital",
+  "q": "Keamanan digital bertujuan untuk:",
+  "opsi": [
+   "Menyulitkan pengguna",
+   "Menghapus data penting",
+   "Melindungi informasi dari akses yang tidak sah",
+   "Mengunci semua file"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melindungi informasi dari akses yang tidak sah. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-122",
+  "kompetensi": "literasi-digital",
+  "q": "ASN yang melek digital akan:",
+  "opsi": [
+   "Menolak teknologi",
+   "Memahami risiko dan manfaat teknologi",
+   "Menghindari pelatihan",
+   "Membuat spam"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memahami risiko dan manfaat teknologi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-123",
+  "kompetensi": "literasi-digital",
+  "q": "Jika menerima pesan mencurigakan via email, tindakan tepat adalah:",
+  "opsi": [
+   "Klik semua tautan",
+   "Balas langsung",
+   "Hapus atau laporkan sebagai spam",
+   "Teruskan ke semua kontak"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Hapus atau laporkan sebagai spam. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-124",
+  "kompetensi": "literasi-digital",
+  "q": "ASN perlu menjaga etika digital agar:",
+  "opsi": [
+   "Dikenal banyak orang",
+   "Dapat bermain sosial media bebas",
+   "Menjadi panutan dalam penggunaan teknologi",
+   "Bisa menulis status bebas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menjadi panutan dalam penggunaan teknologi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-125",
+  "kompetensi": "literasi-digital",
+  "q": "Manfaat utama teknologi digital di kantor adalah:",
+  "opsi": [
+   "Menambah pekerjaan",
+   "Menyulitkan proses",
+   "Meningkatkan kecepatan dan akurasi pekerjaan",
+   "Menghilangkan peran manusia"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan kecepatan dan akurasi pekerjaan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-126",
+  "kompetensi": "literasi-digital",
+  "q": "Password yang aman sebaiknya diubah:",
+  "opsi": [
+   "Setiap minggu",
+   "Setiap 6 bulan atau saat terjadi insiden",
+   "Tidak perlu diubah",
+   "Saat lupa saja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Setiap 6 bulan atau saat terjadi insiden. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-127",
+  "kompetensi": "literasi-digital",
+  "q": "Sumber informasi yang dapat dipercaya di internet biasanya berasal dari:",
+  "opsi": [
+   "Media abal-abal",
+   "Situs resmi pemerintah atau lembaga ternama",
+   "Grup WhatsApp",
+   "Forum anonim"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Situs resmi pemerintah atau lembaga ternama. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-128",
+  "kompetensi": "literasi-digital",
+  "q": "Contoh platform pembelajaran daring:",
+  "opsi": [
+   "TikTok",
+   "YouTube Shorts",
+   "Google Classroom",
+   "Canva"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Google Classroom. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-129",
+  "kompetensi": "literasi-digital",
+  "q": "Email phishing biasanya:",
+  "opsi": [
+   "Mengandung hadiah palsu dan link berbahaya",
+   "Dikirim dari alamat resmi",
+   "Bertanda aman",
+   "Berisi permintaan sah"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Mengandung hadiah palsu dan link berbahaya. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-130",
+  "kompetensi": "literasi-digital",
+  "q": "Aplikasi spreadsheet seperti Excel bermanfaat untuk:",
+  "opsi": [
+   "Menonton film",
+   "Mengelola dan menghitung data",
+   "Desain grafis",
+   "Bermain game"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengelola dan menghitung data. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-131",
+  "kompetensi": "literasi-digital",
+  "q": "ASN perlu membatasi unggahan di media sosial agar:",
+  "opsi": [
+   "Bisa viral",
+   "Tidak menimbulkan pelanggaran privasi atau etika",
+   "Terlihat aktif",
+   "Dikenal masyarakat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Tidak menimbulkan pelanggaran privasi atau etika. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-132",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu ciri konten digital yang kredibel:",
+  "opsi": [
+   "Tanpa referensi",
+   "Viral tanpa sumber",
+   "Didukung data dan referensi resmi",
+   "Emosional dan provokatif"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Didukung data dan referensi resmi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-133",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu praktik baik dalam penggunaan data digital adalah:",
+  "opsi": [
+   "Menyimpan di perangkat umum",
+   "Mengarsipkan dengan rapi dan aman",
+   "Menyalin ke banyak tempat tanpa label",
+   "Membiarkan file tersebar"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengarsipkan dengan rapi dan aman. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-134",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu bentuk pelanggaran hukum di dunia digital:",
+  "opsi": [
+   "Menulis opini",
+   "Mengakses data tanpa izin",
+   "Berkomentar",
+   "Mendaftar pelatihan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengakses data tanpa izin. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-135",
+  "kompetensi": "literasi-digital",
+  "q": "Etika dalam grup kerja daring meliputi:",
+  "opsi": [
+   "Menyindir rekan kerja",
+   "Membagikan informasi pribadi",
+   "Menghindari konflik dan berkomunikasi sopan",
+   "Tidak aktif"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menghindari konflik dan berkomunikasi sopan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-136",
+  "kompetensi": "literasi-digital",
+  "q": "Yang harus dihindari saat menggunakan perangkat kantor:",
+  "opsi": [
+   "Menginstal aplikasi pribadi",
+   "Menggunakan antivirus",
+   "Menyimpan file kerja",
+   "Login akun dinas"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Menginstal aplikasi pribadi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-137",
+  "kompetensi": "literasi-digital",
+  "q": "Transformasi digital dalam pelayanan publik bertujuan untuk:",
+  "opsi": [
+   "Mengurangi jumlah ASN",
+   "Mengurangi kualitas",
+   "Meningkatkan efisiensi dan akses masyarakat",
+   "Menambah birokrasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan efisiensi dan akses masyarakat. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-138",
+  "kompetensi": "literasi-digital",
+  "q": "Akses tidak sah terhadap sistem disebut juga sebagai:",
+  "opsi": [
+   "Browsing",
+   "Hacking",
+   "Printing",
+   "Downloading"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Hacking. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-139",
+  "kompetensi": "literasi-digital",
+  "q": "ASN perlu menyadari bahwa setiap aktivitas di internet meninggalkan:",
+  "opsi": [
+   "Halaman kosong",
+   "Jejak digital",
+   "Kesan lisan",
+   "Jaringan pribadi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Jejak digital. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-140",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu kelebihan penggunaan e-office adalah:",
+  "opsi": [
+   "Semua harus manual",
+   "Proses jadi lambat",
+   "Pengelolaan surat dan arsip lebih efisien",
+   "Tidak perlu pelatihan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pengelolaan surat dan arsip lebih efisien. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-141",
+  "kompetensi": "literasi-digital",
+  "q": "Alat bantu konferensi daring seperti Google Meet digunakan untuk:",
+  "opsi": [
+   "Nonton bareng",
+   "Rapat virtual",
+   "Memutar musik",
+   "Mengedit video"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Rapat virtual. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-142",
+  "kompetensi": "literasi-digital",
+  "q": "Data sensitif sebaiknya disimpan di:",
+  "opsi": [
+   "Komputer umum",
+   "Cloud terenkripsi dan akun resmi",
+   "Grup WA",
+   "Flashdisk tidak terkunci"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Cloud terenkripsi dan akun resmi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-143",
+  "kompetensi": "literasi-digital",
+  "q": "Yang termasuk pelanggaran privasi digital:",
+  "opsi": [
+   "Mengatur ulang password sendiri",
+   "Mengakses email orang lain tanpa izin",
+   "Mengunci layar komputer",
+   "Mencadangkan file"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengakses email orang lain tanpa izin. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-144",
+  "kompetensi": "literasi-digital",
+  "q": "Salah satu ciri aplikasi resmi pemerintah:",
+  "opsi": [
+   "Tanpa logo",
+   "Berbayar mahal",
+   "Diterbitkan oleh domain resmi .go.id",
+   "Banyak iklan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Diterbitkan oleh domain resmi .go.id. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-145",
+  "kompetensi": "literasi-digital",
+  "q": "ASN wajib menjaga etika digital karena:",
+  "opsi": [
+   "Dunia maya tak terbatas",
+   "Bisa menjadi panutan dan representasi institusi",
+   "Supaya bebas",
+   "Agar tidak bosan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Bisa menjadi panutan dan representasi institusi. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-146",
+  "kompetensi": "literasi-digital",
+  "q": "Email dinas sebaiknya digunakan untuk:",
+  "opsi": [
+   "Hal pribadi",
+   "Media sosial",
+   "Komunikasi resmi dan pekerjaan",
+   "Belanja online"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Komunikasi resmi dan pekerjaan. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-147",
+  "kompetensi": "literasi-digital",
+  "q": "Jejak digital dapat berpengaruh terhadap:",
+  "opsi": [
+   "Gaji",
+   "Reputasi dan karier",
+   "Hari libur",
+   "Jumlah cuti"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Reputasi dan karier. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "LD-148",
+  "kompetensi": "literasi-digital",
+  "q": "Literasi digital mendukung ASN dalam:",
+  "opsi": [
+   "Bermain media sosial saat kerja",
+   "Menyebar informasi tanpa filter",
+   "Menyaring, mengelola, dan memanfaatkan informasi secara bijak",
+   "Menghindari teknologi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyaring, mengelola, dan memanfaatkan informasi secara bijak. Opsi ini paling sesuai dengan pemanfaatan teknologi informasi secara efektif, bijak, dan aman, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "q": "Praktik membuat kata sandi yang kuat antara lain:",
+  "opsi": [
+   "Menggunakan tanggal lahir",
+   "Kombinasi huruf besar-kecil, angka, simbol, dan cukup panjang",
+   "Memakai '123456'",
+   "Menggunakan nama sendiri"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kata sandi kuat memadukan huruf besar/kecil, angka, dan simbol dengan panjang memadai, serta unik untuk tiap akun.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-149"
+ },
+ {
+  "q": "Upaya penipuan yang memancing korban menyerahkan data pribadi melalui email/situs palsu disebut:",
+  "opsi": [
+   "Phishing",
+   "Caching",
+   "Indexing",
+   "Buffering"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Phishing adalah rekayasa sosial yang menyamar sebagai pihak tepercaya untuk mencuri kredensial atau data sensitif korban.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-150"
+ },
+ {
+  "q": "Verifikasi dua langkah (two-factor authentication) berfungsi untuk:",
+  "opsi": [
+   "Mempercepat login",
+   "Menambah lapisan keamanan selain kata sandi",
+   "Mengganti kata sandi otomatis",
+   "Menghapus akun"
+  ],
+  "jawaban": 1,
+  "pembahasan": "2FA menambah faktor verifikasi kedua (mis. kode OTP) sehingga akun tetap aman meski kata sandi bocor.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-151"
+ },
+ {
+  "q": "Langkah pertama yang tepat sebelum membagikan sebuah informasi/berita adalah:",
+  "opsi": [
+   "Langsung sebar agar cepat",
+   "Memeriksa kebenaran dan sumber (verifikasi/cek fakta)",
+   "Menambah judul heboh",
+   "Menghapus sumber"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Literasi digital menuntut verifikasi kebenaran dan kredibilitas sumber sebelum menyebarkan informasi untuk mencegah hoaks.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-152"
+ },
+ {
+  "q": "Ciri umum berita hoaks antara lain:",
+  "opsi": [
+   "Sumber jelas dan terverifikasi",
+   "Judul provokatif, sumber tidak jelas, dan memancing emosi",
+   "Disertai data resmi",
+   "Ditulis oleh lembaga kredibel"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Hoaks kerap berjudul bombastis, tanpa sumber kredibel, dan dirancang membangkitkan emosi agar cepat viral.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-153"
+ },
+ {
+  "q": "Undang-Undang yang mengatur Informasi dan Transaksi Elektronik (ITE) di Indonesia adalah:",
+  "opsi": [
+   "UU 11 Tahun 2008 (dan perubahannya)",
+   "UU 25 Tahun 2009",
+   "UU 14 Tahun 2008",
+   "UU 5 Tahun 2014"
+  ],
+  "jawaban": 0,
+  "pembahasan": "UU No. 11 Tahun 2008 tentang ITE (diubah dengan UU 19/2016 dan UU 1/2024) mengatur informasi dan transaksi elektronik.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-154"
+ },
+ {
+  "q": "Perlindungan data pribadi di Indonesia diatur dalam:",
+  "opsi": [
+   "UU 27 Tahun 2022",
+   "UU 11 Tahun 2008",
+   "PP 60 Tahun 2008",
+   "UU 25 Tahun 2009"
+  ],
+  "jawaban": 0,
+  "pembahasan": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi (PDP) mengatur pemrosesan dan perlindungan data pribadi.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-155"
+ },
+ {
+  "q": "Etika berkomunikasi di ruang digital (netiket) mencakup:",
+  "opsi": [
+   "Menyebar ujaran kebencian",
+   "Menghormati orang lain, tidak menyebar hoaks, dan menjaga sopan santun",
+   "Membagikan data pribadi orang lain",
+   "Spamming"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Netiket menekankan kesopanan, menghormati privasi, tidak menyebar konten negatif/hoaks, dan bertanggung jawab atas unggahan.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-156"
+ },
+ {
+  "q": "Penyimpanan dokumen kerja berbasis internet yang memudahkan kolaborasi disebut:",
+  "opsi": [
+   "Cloud storage",
+   "Hard disk lokal",
+   "Disket",
+   "Kabel LAN"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Cloud storage (mis. Drive) menyimpan data di server internet sehingga dapat diakses dan dikolaborasikan dari mana saja secara aman.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-157"
+ },
+ {
+  "q": "Saat menerima tautan mencurigakan dari pengirim tak dikenal, tindakan yang tepat adalah:",
+  "opsi": [
+   "Langsung mengkliknya",
+   "Tidak mengklik dan memverifikasi keasliannya terlebih dahulu",
+   "Meneruskan ke rekan",
+   "Memasukkan kata sandi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tautan tak dikenal berisiko malware/phishing; sebaiknya tidak diklik dan diverifikasi dulu keaslian serta pengirimnya.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-158"
+ },
+ {
+  "q": "Malware jenis 'ransomware' bekerja dengan cara:",
+  "opsi": [
+   "Mempercepat komputer",
+   "Mengunci/mengenkripsi data lalu meminta tebusan",
+   "Membersihkan virus",
+   "Mencadangkan data"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Ransomware mengenkripsi data korban dan menuntut tebusan untuk pemulihan; pencegahannya dengan backup dan kewaspadaan.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-159"
+ },
+ {
+  "q": "Jejak digital (digital footprint) perlu dijaga karena:",
+  "opsi": [
+   "Tidak berpengaruh",
+   "Rekam jejak online bersifat permanen dan memengaruhi reputasi",
+   "Selalu bisa dihapus total",
+   "Hanya milik perusahaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jejak digital sulit dihapus sepenuhnya dan dapat memengaruhi reputasi serta peluang; karena itu unggahan harus dipertimbangkan matang.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-160"
+ },
+ {
+  "q": "Manfaat utama digitalisasi layanan publik bagi masyarakat adalah:",
+  "opsi": [
+   "Menambah antrean",
+   "Mempercepat, mempermudah, dan meningkatkan transparansi layanan",
+   "Mempersulit akses",
+   "Menambah biaya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Digitalisasi memangkas proses manual, mempercepat layanan, memperluas akses, dan meningkatkan transparansi serta akuntabilitas.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-161"
+ },
+ {
+  "q": "Tanda tangan elektronik tersertifikasi berfungsi untuk:",
+  "opsi": [
+   "Mempercantik dokumen",
+   "Menjamin keaslian dan keabsahan dokumen elektronik secara hukum",
+   "Mengganti stempel basah tanpa dasar hukum",
+   "Menghapus dokumen"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tanda tangan elektronik tersertifikasi memiliki kekuatan hukum dan menjamin integritas serta autentikasi penanda tangan dokumen.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-162"
+ },
+ {
+  "q": "Saat menggunakan WiFi publik untuk urusan penting, langkah aman yang disarankan adalah:",
+  "opsi": [
+   "Mengakses rekening bank bebas",
+   "Menghindari transaksi sensitif atau memakai VPN",
+   "Mematikan kata sandi",
+   "Membagikan akses ke semua"
+  ],
+  "jawaban": 1,
+  "pembahasan": "WiFi publik rawan penyadapan; hindari transaksi sensitif atau gunakan VPN untuk mengenkripsi koneksi.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-163"
+ },
+ {
+  "q": "Hak cipta atas konten digital orang lain mengharuskan kita untuk:",
+  "opsi": [
+   "Menyalin bebas",
+   "Mencantumkan sumber dan/atau meminta izin sesuai ketentuan",
+   "Mengakui sebagai karya sendiri",
+   "Mengabaikan lisensi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Menghargai hak cipta berarti menggunakan karya sesuai lisensi, mencantumkan sumber, dan meminta izin bila diperlukan.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-164"
+ },
+ {
+  "q": "Kompetensi literasi digital tidak hanya soal menggunakan alat, tetapi juga kemampuan:",
+  "opsi": [
+   "Mengetik cepat saja",
+   "Memahami, mengevaluasi, dan memanfaatkan informasi secara kritis dan etis",
+   "Bermain game",
+   "Menghafal perangkat keras"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Literasi digital mencakup kecakapan mengakses, memahami, mengevaluasi, dan menggunakan informasi digital secara kritis, aman, dan etis.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-165"
+ },
+ {
+  "q": "Backup data secara berkala penting untuk:",
+  "opsi": [
+   "Memperlambat perangkat",
+   "Mencegah kehilangan data akibat kerusakan, kehilangan, atau serangan siber",
+   "Menambah virus",
+   "Mengisi memori"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Backup berkala memastikan data dapat dipulihkan saat terjadi kerusakan perangkat, kehilangan, atau serangan seperti ransomware.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-166"
+ },
+ {
+  "q": "Rekayasa sosial (social engineering) memanfaatkan kelemahan pada:",
+  "opsi": [
+   "Perangkat keras",
+   "Faktor manusia (kepercayaan, lalai, panik)",
+   "Kabel jaringan",
+   "Sistem operasi terbaru"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Social engineering memanipulasi psikologi manusia agar membocorkan informasi atau melakukan tindakan berisiko, bukan meretas teknis.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-167"
+ },
+ {
+  "q": "Saat akun media sosial instansi diretas, langkah pertama yang tepat adalah:",
+  "opsi": [
+   "Membiarkannya",
+   "Segera amankan akun (ganti sandi, laporkan) dan beri klarifikasi resmi",
+   "Menghapus seluruh data",
+   "Menyalahkan publik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Respons insiden: amankan akun, ubah kredensial, aktifkan 2FA, laporkan ke platform, lalu klarifikasi resmi untuk mencegah misinformasi.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-168"
+ },
+ {
+  "q": "Penggunaan data analytics dalam pemerintahan bermanfaat untuk:",
+  "opsi": [
+   "Menebak tanpa dasar",
+   "Mendukung pengambilan kebijakan berbasis data (data-driven)",
+   "Menghindari pengukuran",
+   "Menyembunyikan kinerja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Analitik data membantu pemerintah memahami pola, mengevaluasi program, dan membuat kebijakan yang lebih tepat sasaran.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-169"
+ },
+ {
+  "q": "Konten yang sebaiknya TIDAK dibagikan ASN di media sosial adalah:",
+  "opsi": [
+   "Informasi layanan publik",
+   "Dokumen/rahasia negara dan ujaran yang melanggar netralitas",
+   "Imbauan keselamatan",
+   "Prestasi instansi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ASN wajib menjaga kerahasiaan informasi negara dan netralitas; menyebarkan rahasia atau konten partisan melanggar kode etik.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-170"
+ },
+ {
+  "q": "Disinformasi berbeda dari misinformasi karena:",
+  "opsi": [
+   "Keduanya sama persis",
+   "Disinformasi disebar dengan sengaja untuk menipu, misinformasi tanpa niat jahat",
+   "Disinformasi selalu benar",
+   "Misinformasi selalu disengaja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Disinformasi adalah informasi salah yang sengaja dibuat/disebar untuk menyesatkan, sedangkan misinformasi tersebar tanpa maksud jahat.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-171"
+ },
+ {
+  "q": "Salah satu pilar literasi digital menurut Kominkdigi adalah 'digital safety', yang berarti:",
+  "opsi": [
+   "Kecepatan internet",
+   "Kemampuan melindungi diri dan data dari risiko digital",
+   "Jumlah pengikut",
+   "Kapasitas penyimpanan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Empat pilar literasi digital: kecakapan, budaya, etika, dan keamanan (digital safety) — yakni melindungi diri serta data dari ancaman digital.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-172"
+ },
+ {
+  "q": "Interoperabilitas dalam SPBE mengacu pada:",
+  "opsi": [
+   "Sistem yang berdiri sendiri",
+   "Kemampuan berbagai sistem/aplikasi pemerintah saling bertukar dan berbagi data",
+   "Larangan berbagi data",
+   "Penggunaan satu komputer"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Interoperabilitas memungkinkan sistem antarinstansi saling terhubung dan bertukar data sehingga layanan terintegrasi dan efisien.",
+  "kompetensi": "literasi-digital",
+  "id": "LD-173"
+ }
+]
