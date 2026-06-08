@@ -1,0 +1,12 @@
+{
+  "title": "Latihan CAT Kompetensi ASN",
+  "version": 1,
+  "kompetensi": [
+    { "id": "teknis",          "nama": "Kompetensi Teknis",                 "singkat": "Teknis",          "file": "teknis.json" },
+    { "id": "manajerial",      "nama": "Kompetensi Manajerial",             "singkat": "Manajerial",      "file": "manajerial.json" },
+    { "id": "sosial-kultural", "nama": "Kompetensi Sosial Kultural",        "singkat": "Sosial Kultural", "file": "sosial-kultural.json" },
+    { "id": "literasi-digital","nama": "Kompetensi Literasi Digital",       "singkat": "Literasi Digital","file": "literasi-digital.json" },
+    { "id": "berpikir-kritis", "nama": "Berpikir Kritis & Analitis",        "singkat": "Berpikir Kritis", "file": "berpikir-kritis.json" },
+    { "id": "mengelola-diri",  "nama": "Kompetensi Mengelola Diri",         "singkat": "Mengelola Diri",  "file": "mengelola-diri.json" }
+  ]
+}
