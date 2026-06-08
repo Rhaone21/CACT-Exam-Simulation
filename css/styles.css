@@ -334,8 +334,17 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 24px 20px 80px; }
   main { padding: 18px 14px 64px; }
   .card { padding: 18px; }
   .q-text { font-size: 1.08rem; }
-  .quiz-nav { flex-wrap: wrap; }
   .btn { font-size: .95rem; }
+
+  /* navigasi kuis: tombol isi penuh baris, spacer tak mengganggu */
+  .quiz-nav { flex-wrap: wrap; gap: 10px; }
+  .quiz-nav .spacer { display: none; }
+  .quiz-nav .btn, .quiz-nav .flag-btn { flex: 1 1 calc(50% - 10px); }
+  .quiz-nav .btn--primary { flex-basis: 100%; order: 2; }
+
+  /* header brand sub-teks dirapikan */
+  .brand__sub { font-size: .68rem; }
+  .app-header__inner { padding: 10px 14px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
