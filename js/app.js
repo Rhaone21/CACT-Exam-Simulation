@@ -116,11 +116,14 @@
           '<span class="chip__check">' + I.check + '</span>' + esc(k.singkat) + '</button>';
       }).join("");
 
-      var jumlahOpts = mode === "cepat" ? [10, 25, 50] : mode === "latihan" ? [10, 25, 50] : [25, 50, 75, 100];
+      var jumlahOpts = mode === "cepat" ? [10, 25, 50] : mode === "latihan" ? [10, 25, 50, 100] : [25, 50, 75, 100];
       var defJumlah = mode === "cepat" ? 25 : mode === "latihan" ? 25 : 50;
       var jumlahChips = jumlahOpts.map(function (n) {
         return '<button class="chip" role="radio" aria-pressed="' + (n === defJumlah) + '" data-jumlah="' + n + '">' + n + ' soal</button>';
       }).join("");
+      if (mode !== "cepat") {
+        jumlahChips += '<button class="chip" role="radio" aria-pressed="false" data-jumlah="9999">Semua</button>';
+      }
 
       var timerField = mode === "simulasi"
         ? '<div class="field"><span class="field__label">Timer Ujian</span>' +
@@ -178,7 +181,9 @@
         Bank.loadMany(ids).then(function (pool) {
           var want = selectedJumlah();
           document.getElementById("avail-hint").textContent =
-            "Tersedia " + pool.length + " soal di pool ini" + (want > pool.length ? " · jumlah disesuaikan jadi " + pool.length : "");
+            want >= pool.length
+              ? "Pakai semua " + pool.length + " soal di pool ini"
+              : "Tersedia " + pool.length + " soal · dipilih " + want;
         });
       }
       updateAvail();
