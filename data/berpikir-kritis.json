@@ -1,0 +1,977 @@
+[
+ {
+  "id": "BK-001",
+  "kompetensi": "berpikir-kritis",
+  "q": "Kemampuan berpikir kritis mencakup kemampuan untuk:",
+  "opsi": [
+   "Menerima semua informasi apa adanya",
+   "Menyimpan informasi tanpa diproses",
+   "Menganalisis, mengevaluasi, dan membuat keputusan berdasarkan data",
+   "Menolak semua informasi baru"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menganalisis, mengevaluasi, dan membuat keputusan berdasarkan data. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-002",
+  "kompetensi": "berpikir-kritis",
+  "q": "Contoh sikap berpikir kritis adalah:",
+  "opsi": [
+   "Menyalahkan orang lain tanpa bukti",
+   "Mengikuti arus tanpa pertimbangan",
+   "Bertanya dan mencari alasan di balik suatu pernyataan",
+   "Menyebarkan informasi sesegera mungkin"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bertanya dan mencari alasan di balik suatu pernyataan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-003",
+  "kompetensi": "berpikir-kritis",
+  "q": "Ketika menghadapi masalah kerja, berpikir kritis membantu ASN untuk:",
+  "opsi": [
+   "Menunda penyelesaian",
+   "Menghindar dari masalah",
+   "Mengidentifikasi akar masalah dan mencari solusi logis",
+   "Menyerahkan kepada atasan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengidentifikasi akar masalah dan mencari solusi logis. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-004",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam berpikir analitis, seseorang harus:",
+  "opsi": [
+   "Emosional",
+   "Mengandalkan perasaan",
+   "Menguraikan masalah ke dalam bagian-bagian kecil untuk dipahami",
+   "Bertindak secepat mungkin tanpa pertimbangan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menguraikan masalah ke dalam bagian-bagian kecil untuk dipahami. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-005",
+  "kompetensi": "berpikir-kritis",
+  "q": "Langkah awal berpikir kritis dalam menyikapi informasi adalah:",
+  "opsi": [
+   "Meneruskan informasi",
+   "Mencari tahu sumber dan kebenaran informasi",
+   "Menyebarkan ke media sosial",
+   "Mengabaikannya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mencari tahu sumber dan kebenaran informasi. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-006",
+  "kompetensi": "berpikir-kritis",
+  "q": "Apa yang dimaksud dengan inferensi?",
+  "opsi": [
+   "Menyampaikan ide secara emosional",
+   "Membaca ulang data",
+   "Menarik kesimpulan logis dari informasi yang tersedia",
+   "Menggandakan dokumen"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menarik kesimpulan logis dari informasi yang tersedia. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-007",
+  "kompetensi": "berpikir-kritis",
+  "q": "Ciri khas pemikiran analitis adalah:",
+  "opsi": [
+   "Mengambil keputusan secara impulsif",
+   "Mengandalkan intuisi",
+   "Menimbang informasi dari berbagai sudut pandang",
+   "Meniru pendapat orang lain"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menimbang informasi dari berbagai sudut pandang. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-008",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam rapat, ASN yang berpikir kritis akan:",
+  "opsi": [
+   "Hanya diam",
+   "Menerima semua pendapat tanpa analisa",
+   "Memberikan tanggapan berdasarkan analisis data dan fakta",
+   "Menyela pembicaraan seenaknya"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberikan tanggapan berdasarkan analisis data dan fakta. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-009",
+  "kompetensi": "berpikir-kritis",
+  "q": "Berpikir kritis membutuhkan:",
+  "opsi": [
+   "Reaksi cepat",
+   "Keterbukaan terhadap ide baru",
+   "Menolak informasi",
+   "Percaya diri berlebihan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Keterbukaan terhadap ide baru. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-010",
+  "kompetensi": "berpikir-kritis",
+  "q": "Seorang ASN dituntut berpikir kritis terutama dalam:",
+  "opsi": [
+   "Menjaga rutinitas",
+   "Menjawab email",
+   "Mengambil keputusan penting terkait layanan publik",
+   "Meningkatkan jam istirahat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengambil keputusan penting terkait layanan publik. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-011",
+  "kompetensi": "berpikir-kritis",
+  "q": "Contoh penerapan berpikir kritis dalam pengambilan kebijakan adalah:",
+  "opsi": [
+   "Menyalin kebijakan daerah lain tanpa analisa",
+   "Menyesuaikan kebijakan dengan kebutuhan masyarakat berdasarkan data dan evaluasi",
+   "Meniru pimpinan sebelumnya",
+   "Menunda keputusan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menyesuaikan kebijakan dengan kebutuhan masyarakat berdasarkan data dan evaluasi. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-012",
+  "kompetensi": "berpikir-kritis",
+  "q": "Seorang ASN menghadapi dua pilihan yang sama kuat. Tindakan berpikir kritis yang tepat adalah:",
+  "opsi": [
+   "Memilih berdasarkan nasib",
+   "Menganalisis keuntungan dan kerugian dari tiap pilihan",
+   "Bertanya pada orang lain",
+   "Menghindari keputusan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menganalisis keuntungan dan kerugian dari tiap pilihan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-013",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam berpikir kritis, validitas argumen penting karena:",
+  "opsi": [
+   "Menunjukkan panjangnya pembahasan",
+   "Memastikan keputusan berdasarkan logika dan bukti",
+   "Menghindari diskusi",
+   "Membingungkan lawan debat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memastikan keputusan berdasarkan logika dan bukti. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-014",
+  "kompetensi": "berpikir-kritis",
+  "q": "Kelebihan orang dengan kemampuan berpikir analitis adalah:",
+  "opsi": [
+   "Emosional",
+   "Menunda kerja",
+   "Mampu menemukan pola dan solusi dari data yang kompleks",
+   "Menghindari tantangan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mampu menemukan pola dan solusi dari data yang kompleks. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-015",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam membuat laporan kinerja, berpikir kritis penting untuk:",
+  "opsi": [
+   "Menghitung jumlah halaman",
+   "Meng-copy laporan tahun lalu",
+   "Menyusun data berdasarkan analisa dan relevansi",
+   "Menghindari revisi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyusun data berdasarkan analisa dan relevansi. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-016",
+  "kompetensi": "berpikir-kritis",
+  "q": "Pernyataan yang menunjukkan berpikir analitis:",
+  "opsi": [
+   "“Kita ikuti saja yang sudah ada. ”",
+   "“Saya rasa ini salah, tapi saya tidak tahu kenapa. ”",
+   "“Mari kita periksa data dan bandingkan dengan tahun lalu. ”",
+   "“Saya tidak mau tahu. ”"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) “Mari kita periksa data dan bandingkan dengan tahun lalu. ”. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-017",
+  "kompetensi": "berpikir-kritis",
+  "q": "Tujuan berpikir kritis dalam birokrasi adalah:",
+  "opsi": [
+   "Mempertahankan status quo",
+   "Mengikuti semua perintah",
+   "Menyempurnakan proses dan layanan dengan evaluasi objektif",
+   "Menghindari konflik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyempurnakan proses dan layanan dengan evaluasi objektif. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-018",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam membuat kebijakan publik, berpikir analitis diperlukan untuk:",
+  "opsi": [
+   "Menyusun data secara acak",
+   "Membuat keputusan berdasarkan opini pribadi",
+   "Memahami dampak jangka panjang dari kebijakan tersebut",
+   "Mengikuti kebiasaan lama"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memahami dampak jangka panjang dari kebijakan tersebut. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-019",
+  "kompetensi": "berpikir-kritis",
+  "q": "Salah satu cara melatih berpikir kritis adalah:",
+  "opsi": [
+   "Menghindari diskusi",
+   "Selalu setuju dengan mayoritas",
+   "Membiasakan diri membaca, berdiskusi, dan menganalisis informasi",
+   "Hanya menerima pendapat senior"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Membiasakan diri membaca, berdiskusi, dan menganalisis informasi. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-020",
+  "kompetensi": "berpikir-kritis",
+  "q": "Pemikiran sistematis adalah bagian dari:",
+  "opsi": [
+   "Emosi",
+   "Intuisi",
+   "Analisis logis dan terstruktur",
+   "Kebiasaan harian"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Analisis logis dan terstruktur. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-021",
+  "kompetensi": "berpikir-kritis",
+  "q": "Mengapa berpikir kritis dibutuhkan ASN era digital?",
+  "opsi": [
+   "Agar bisa viral",
+   "Untuk membedakan informasi benar dan hoaks",
+   "Agar populer di media sosial",
+   "Untuk menjadi selebgram"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Untuk membedakan informasi benar dan hoaks. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-022",
+  "kompetensi": "berpikir-kritis",
+  "q": "Seorang ASN yang berpikir kritis terhadap kebijakan baru akan:",
+  "opsi": [
+   "Langsung menolak",
+   "Menyebarkan protes",
+   "Menganalisis tujuan dan dampaknya",
+   "Menghindari pelaksanaan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menganalisis tujuan dan dampaknya. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-023",
+  "kompetensi": "berpikir-kritis",
+  "q": "Manfaat berpikir kritis dalam pelayanan publik adalah:",
+  "opsi": [
+   "Menjaga kekakuan prosedur",
+   "Menghindari inovasi",
+   "Meningkatkan kualitas layanan melalui evaluasi dan perbaikan",
+   "Mempertahankan metode lama"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan kualitas layanan melalui evaluasi dan perbaikan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-024",
+  "kompetensi": "berpikir-kritis",
+  "q": "Ketika menemui informasi bertentangan, ASN yang berpikir kritis akan:",
+  "opsi": [
+   "Mengabaikan",
+   "Memilih yang populer",
+   "Mengevaluasi kedua informasi berdasarkan data dan sumber",
+   "Mengikuti arus"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengevaluasi kedua informasi berdasarkan data dan sumber. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-025",
+  "kompetensi": "berpikir-kritis",
+  "q": "Berpikir kritis mendorong ASN untuk:",
+  "opsi": [
+   "Mencari solusi kreatif dan rasional atas masalah",
+   "Menyerahkan semua ke pimpinan",
+   "Menghindari konflik",
+   "Mengikuti prosedur tanpa berpikir"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Mencari solusi kreatif dan rasional atas masalah. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-026",
+  "kompetensi": "berpikir-kritis",
+  "q": "Contoh penerapan berpikir kritis saat menerima instruksi adalah:",
+  "opsi": [
+   "Langsung mengerjakan tanpa paham",
+   "Menanyakan tujuan dan memastikan pemahaman",
+   "Menunda pekerjaan",
+   "Mengalihkan tugas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menanyakan tujuan dan memastikan pemahaman. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-027",
+  "kompetensi": "berpikir-kritis",
+  "q": "Berpikir kritis membantu ASN menghadapi perubahan dengan:",
+  "opsi": [
+   "Panik",
+   "Menolak",
+   "Menyesuaikan secara logis dan fleksibel",
+   "Menghindari perubahan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyesuaikan secara logis dan fleksibel. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-028",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam bekerja tim, kemampuan berpikir kritis bermanfaat untuk:",
+  "opsi": [
+   "Menunjukkan siapa yang paling benar",
+   "Menimbulkan konflik",
+   "Mencapai solusi bersama melalui analisa dan diskusi",
+   "Menjaga dominasi pribadi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mencapai solusi bersama melalui analisa dan diskusi. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-029",
+  "kompetensi": "berpikir-kritis",
+  "q": "Saat mengevaluasi program kerja, berpikir kritis membantu untuk:",
+  "opsi": [
+   "Menjaga status",
+   "Menentukan keberhasilan berdasarkan opini",
+   "Menilai efektivitas berdasarkan indikator dan data",
+   "Menyalin laporan sebelumnya"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menilai efektivitas berdasarkan indikator dan data. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-030",
+  "kompetensi": "berpikir-kritis",
+  "q": "Masalah kompleks sebaiknya diselesaikan dengan cara:",
+  "opsi": [
+   "Mengabaikannya",
+   "Membaginya menjadi bagian kecil untuk dianalisis",
+   "Menunggu hilang sendiri",
+   "Diserahkan ke bagian lain"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Membaginya menjadi bagian kecil untuk dianalisis. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-031",
+  "kompetensi": "berpikir-kritis",
+  "q": "Pemikiran analitis mendorong:",
+  "opsi": [
+   "Tindakan spontan",
+   "Reaksi emosional",
+   "Proses pemecahan masalah berbasis data dan logika",
+   "Tindakan otomatis"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Proses pemecahan masalah berbasis data dan logika. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-032",
+  "kompetensi": "berpikir-kritis",
+  "q": "ASN yang berpikir kritis terhadap kebijakan kontroversial akan:",
+  "opsi": [
+   "Menolak langsung",
+   "Menganalisis manfaat dan risikonya",
+   "Menyebarkan isu",
+   "Menghindari diskusi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menganalisis manfaat dan risikonya. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-033",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam membuat keputusan, penting untuk:",
+  "opsi": [
+   "Bertanya pada teman",
+   "Meniru orang lain",
+   "Mengumpulkan fakta dan mempertimbangkan alternatif",
+   "Mengandalkan intuisi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengumpulkan fakta dan mempertimbangkan alternatif. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-034",
+  "kompetensi": "berpikir-kritis",
+  "q": "Sumber informasi yang kredibel dapat membantu berpikir kritis karena:",
+  "opsi": [
+   "Mudah dibaca",
+   "Tidak perlu diverifikasi",
+   "Memberikan dasar valid untuk pengambilan keputusan",
+   "Bisa disalin"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberikan dasar valid untuk pengambilan keputusan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-035",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam berpikir kritis, argumen yang baik harus:",
+  "opsi": [
+   "Emosional",
+   "Logis dan berdasarkan bukti",
+   "Panjang dan rumit",
+   "Sulit dipahami"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Logis dan berdasarkan bukti. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-036",
+  "kompetensi": "berpikir-kritis",
+  "q": "Ketika menerima kritik, ASN berpikir kritis akan:",
+  "opsi": [
+   "Marah",
+   "Menolak mentah-mentah",
+   "Menganalisis isi kritik untuk perbaikan",
+   "Membalas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menganalisis isi kritik untuk perbaikan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-037",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam membuat keputusan mendadak, cara berpikir kritis yang tepat adalah:",
+  "opsi": [
+   "Mengandalkan perasaan",
+   "Melibatkan analisa cepat terhadap data yang tersedia",
+   "Menolak membuat keputusan",
+   "Menghindari masalah"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Melibatkan analisa cepat terhadap data yang tersedia. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-038",
+  "kompetensi": "berpikir-kritis",
+  "q": "Seseorang yang berpikir kritis akan selalu:",
+  "opsi": [
+   "Ikut-ikutan",
+   "Menolak perubahan",
+   "Bertanya dan mengevaluasi",
+   "Menghindar dari fakta"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bertanya dan mengevaluasi. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-039",
+  "kompetensi": "berpikir-kritis",
+  "q": "Evaluasi kebijakan berbasis data merupakan contoh dari:",
+  "opsi": [
+   "Keputusan emosional",
+   "Pendekatan otoriter",
+   "Pemikiran kritis dan analitis",
+   "Pendekatan asal-asalan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pemikiran kritis dan analitis. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-040",
+  "kompetensi": "berpikir-kritis",
+  "q": "Tantangan dalam berpikir kritis di birokrasi adalah:",
+  "opsi": [
+   "Kurangnya masalah",
+   "Dominasi budaya hierarki dan resistensi perubahan",
+   "Terlalu banyak ide",
+   "Tidak ada konflik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Dominasi budaya hierarki dan resistensi perubahan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-041",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam menghadapi dilema etika, berpikir kritis membantu untuk:",
+  "opsi": [
+   "Menghindari tanggung jawab",
+   "Bertindak sewenang-wenang",
+   "Menganalisis nilai-nilai dan dampak keputusan",
+   "Memihak teman"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menganalisis nilai-nilai dan dampak keputusan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-042",
+  "kompetensi": "berpikir-kritis",
+  "q": "Argumentasi yang kuat harus memiliki:",
+  "opsi": [
+   "Banyak emosi",
+   "Dukungan bukti dan logika",
+   "Suara tinggi",
+   "Panjang kata"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Dukungan bukti dan logika. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-043",
+  "kompetensi": "berpikir-kritis",
+  "q": "Penerapan berpikir kritis di lingkungan kerja adalah:",
+  "opsi": [
+   "Mengikuti budaya lama",
+   "Berinovasi berdasarkan evaluasi kerja",
+   "Menolak pendapat lain",
+   "Meniru organisasi lain"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Berinovasi berdasarkan evaluasi kerja. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-044",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam analisis SWOT, berpikir kritis digunakan untuk:",
+  "opsi": [
+   "Menilai warna logo",
+   "Mengetahui jumlah pegawai",
+   "Mengidentifikasi kekuatan, kelemahan, peluang, dan ancaman",
+   "Menyusun jadwal"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengidentifikasi kekuatan, kelemahan, peluang, dan ancaman. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-045",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam riset kebijakan, berpikir analitis dibutuhkan untuk:",
+  "opsi": [
+   "Menyusun opini",
+   "Menggandakan data",
+   "Menyusun rekomendasi berdasarkan temuan",
+   "Menyampaikan kritik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyusun rekomendasi berdasarkan temuan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-046",
+  "kompetensi": "berpikir-kritis",
+  "q": "Untuk berpikir kritis, ASN harus memiliki:",
+  "opsi": [
+   "Wawasan luas, keterbukaan, dan logika yang baik",
+   "Banyak gadget",
+   "Kemampuan menulis cepat",
+   "Kemampuan membantah"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Wawasan luas, keterbukaan, dan logika yang baik. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-047",
+  "kompetensi": "berpikir-kritis",
+  "q": "Salah satu prinsip berpikir kritis adalah:",
+  "opsi": [
+   "Menentukan benar atau salah berdasarkan pendapat populer",
+   "Mengevaluasi semua informasi sebelum menyimpulkan",
+   "Meniru keputusan terdahulu",
+   "Menyerahkan semua pada tim"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengevaluasi semua informasi sebelum menyimpulkan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-048",
+  "kompetensi": "berpikir-kritis",
+  "q": "Apa manfaat dari diskusi kelompok bagi pengembangan berpikir kritis?",
+  "opsi": [
+   "Menunda keputusan",
+   "Membuat semua bingung",
+   "Mendapatkan berbagai perspektif dan argumen logis",
+   "Menghindari kerja individu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mendapatkan berbagai perspektif dan argumen logis. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-049",
+  "kompetensi": "berpikir-kritis",
+  "q": "Dalam pelaksanaan proyek, berpikir analitis digunakan untuk:",
+  "opsi": [
+   "Mengatur waktu istirahat",
+   "Menilai efektivitas setiap langkah kegiatan",
+   "Membuat laporan saja",
+   "Mengisi absen"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menilai efektivitas setiap langkah kegiatan. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "BK-050",
+  "kompetensi": "berpikir-kritis",
+  "q": "ASN dengan kemampuan berpikir kritis tinggi cenderung:",
+  "opsi": [
+   "Pasif",
+   "Reaktif",
+   "Proaktif dan solutif dalam menghadapi tantangan kerja",
+   "Menunggu perintah"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Proaktif dan solutif dalam menghadapi tantangan kerja. Opsi ini paling sesuai dengan analisis berbasis data, logika, dan evaluasi yang objektif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "q": "Lanjutkan deret angka: 2, 4, 8, 16, 32, ...",
+  "opsi": [
+   "48",
+   "64",
+   "60",
+   "40"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Setiap suku dikalikan 2 (rasio 2). Maka 32 × 2 = 64.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-051"
+ },
+ {
+  "q": "Lanjutkan deret: 3, 6, 11, 18, 27, ...",
+  "opsi": [
+   "38",
+   "36",
+   "40",
+   "35"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Selisih bertambah ganjil: +3, +5, +7, +9, lalu +11. Jadi 27 + 11 = 38.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-052"
+ },
+ {
+  "q": "Semua ASN wajib menaati kode etik. Budi adalah ASN. Kesimpulan yang sahih:",
+  "opsi": [
+   "Budi tidak wajib menaati kode etik",
+   "Budi wajib menaati kode etik",
+   "Sebagian ASN menaati kode etik",
+   "Kode etik tidak berlaku bagi Budi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Silogisme: premis mayor (semua ASN wajib...) + premis minor (Budi ASN) → Budi wajib menaati kode etik.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-053"
+ },
+ {
+  "q": "Jika semua dokumen rahasia disimpan di brankas, dan berkas X tidak ada di brankas, maka:",
+  "opsi": [
+   "Berkas X pasti dokumen rahasia",
+   "Berkas X bukan dokumen rahasia",
+   "Berkas X mungkin hilang",
+   "Brankas penuh"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kontraposisi: jika rahasia maka di brankas. X tidak di brankas, maka X bukan dokumen rahasia (modus tollens).",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-054"
+ },
+ {
+  "q": "Antonim dari kata 'TRANSPARAN' adalah:",
+  "opsi": [
+   "Jelas",
+   "Terbuka",
+   "Tertutup",
+   "Bening"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Transparan berarti terbuka/jernih; lawannya adalah tertutup/tidak terbuka.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-055"
+ },
+ {
+  "q": "Analogi: DOKTER : PASIEN = GURU : ...",
+  "opsi": [
+   "Sekolah",
+   "Murid",
+   "Buku",
+   "Papan tulis"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Dokter melayani pasien; guru mengajar murid. Hubungannya pelaku jasa dan penerima jasa.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-056"
+ },
+ {
+  "q": "Sebuah pernyataan didukung data sampel yang sangat kecil dan tidak representatif. Ini termasuk kesalahan berpikir (fallacy) jenis:",
+  "opsi": [
+   "Generalisasi tergesa-gesa",
+   "Analogi tepat",
+   "Deduksi valid",
+   "Induksi kuat"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Menyimpulkan secara umum dari sampel kecil/tidak representatif adalah hasty generalization (generalisasi tergesa-gesa).",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-057"
+ },
+ {
+  "q": "Menyerang pribadi lawan bicara alih-alih argumennya adalah sesat pikir:",
+  "opsi": [
+   "Ad hominem",
+   "Straw man",
+   "Slippery slope",
+   "Tu quoque"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Ad hominem menyerang karakter/pribadi orang, bukan substansi argumennya — keliru secara logika.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-058"
+ },
+ {
+  "q": "Manakah yang merupakan FAKTA, bukan opini?",
+  "opsi": [
+   "Pelayanan itu terlalu lambat",
+   "Antrean diselesaikan rata-rata dalam 15 menit",
+   "Petugas kurang ramah",
+   "Sistemnya buruk"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Fakta dapat diverifikasi dan terukur (rata-rata 15 menit); pernyataan lain bersifat penilaian subjektif (opini).",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-059"
+ },
+ {
+  "q": "Dalam menganalisis akar masalah, metode '5 Whys' dilakukan dengan:",
+  "opsi": [
+   "Menebak penyebab",
+   "Bertanya 'mengapa' berulang untuk menelusuri sebab paling mendasar",
+   "Menyalahkan orang",
+   "Menghindari pertanyaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "5 Whys menelusuri rantai sebab-akibat dengan bertanya 'mengapa' berulang kali hingga ditemukan akar masalah sebenarnya.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-060"
+ },
+ {
+  "q": "Jika P → Q benar dan Q salah, maka:",
+  "opsi": [
+   "P pasti benar",
+   "P pasti salah",
+   "P tidak dapat ditentukan",
+   "Q menjadi benar"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Modus tollens: bila P→Q benar dan Q salah, maka P harus salah.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-061"
+ },
+ {
+  "q": "Lanjutkan deret huruf: A, C, F, J, O, ...",
+  "opsi": [
+   "T",
+   "U",
+   "S",
+   "R"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Selisih posisi bertambah: +2, +3, +4, +5, lalu +6. O (15) + 6 = U (21).",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-062"
+ },
+ {
+  "q": "Korelasi antara dua variabel TIDAK serta-merta berarti:",
+  "opsi": [
+   "Ada hubungan",
+   "Sebab-akibat (kausalitas)",
+   "Pola data",
+   "Keterkaitan statistik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Korelasi menunjukkan keterkaitan, tetapi tidak otomatis membuktikan salah satu menyebabkan yang lain (correlation ≠ causation).",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-063"
+ },
+ {
+  "q": "Seorang analis sebaiknya menyikapi data yang bertentangan dengan hipotesisnya dengan:",
+  "opsi": [
+   "Mengabaikannya",
+   "Mengevaluasi ulang hipotesis secara objektif",
+   "Memanipulasi data",
+   "Menyembunyikannya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Berpikir kritis menuntut kejujuran intelektual: data yang bertentangan justru menjadi dasar mengevaluasi ulang hipotesis.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-064"
+ },
+ {
+  "q": "Argumen 'kalau kita izinkan satu pengecualian, semua akan minta pengecualian sampai sistem runtuh' adalah contoh:",
+  "opsi": [
+   "Slippery slope",
+   "Ad hominem",
+   "Generalisasi",
+   "Analogi"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Slippery slope berasumsi satu langkah kecil pasti memicu rangkaian akibat ekstrem tanpa bukti memadai.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-065"
+ },
+ {
+  "q": "Dalam pengambilan keputusan, mempertimbangkan biaya dan manfaat tiap alternatif disebut analisis:",
+  "opsi": [
+   "SWOT",
+   "Cost-benefit",
+   "Regresi",
+   "Sentimen"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Cost-benefit analysis membandingkan total manfaat dan biaya tiap opsi untuk memilih alternatif paling menguntungkan.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-066"
+ },
+ {
+  "q": "Bila 8 pekerja menyelesaikan tugas dalam 6 hari, maka 12 pekerja (kecepatan sama) menyelesaikannya dalam:",
+  "opsi": [
+   "4 hari",
+   "9 hari",
+   "3 hari",
+   "5 hari"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Total kerja = 8 × 6 = 48 hari-orang. Dengan 12 pekerja: 48 ÷ 12 = 4 hari (perbandingan berbalik nilai).",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-067"
+ },
+ {
+  "q": "Asumsi tersembunyi dalam sebuah argumen sebaiknya:",
+  "opsi": [
+   "Diabaikan",
+   "Diidentifikasi dan diuji kebenarannya",
+   "Diterima begitu saja",
+   "Disembunyikan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Berpikir kritis menggali asumsi yang mendasari argumen dan mengujinya, karena asumsi keliru dapat menyesatkan kesimpulan.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-068"
+ },
+ {
+  "q": "Manakah kesimpulan yang paling logis bila 'Sebagian pegawai mengikuti pelatihan' bernilai benar?",
+  "opsi": [
+   "Semua pegawai ikut pelatihan",
+   "Tidak ada pegawai ikut pelatihan",
+   "Ada pegawai yang ikut pelatihan",
+   "Semua pegawai menolak pelatihan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "'Sebagian' menjamin setidaknya ada satu; maka 'ada pegawai yang ikut pelatihan' pasti benar, sedangkan klaim 'semua' tidak terjamin.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-069"
+ },
+ {
+  "q": "Berpikir kritis menuntut kita memisahkan antara:",
+  "opsi": [
+   "Warna dan bentuk",
+   "Klaim, bukti, dan kesimpulan",
+   "Suara keras dan pelan",
+   "Teman dan lawan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Inti penalaran adalah membedakan klaim (pernyataan), bukti (data pendukung), dan kesimpulan agar dapat dievaluasi validitasnya.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-070"
+ },
+ {
+  "q": "Sebuah grafik menunjukkan penjualan naik tiap bulan, namun sumbu Y dipotong agar kenaikan tampak ekstrem. Ini contoh:",
+  "opsi": [
+   "Penyajian data yang menyesatkan",
+   "Analisis valid",
+   "Data jujur",
+   "Statistik deskriptif"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Memanipulasi skala sumbu untuk membesar-besarkan tren adalah penyajian data menyesatkan; pembaca kritis memeriksa skala.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-071"
+ },
+ {
+  "q": "Jika hari ini Selasa, maka 100 hari lagi jatuh pada hari:",
+  "opsi": [
+   "Kamis",
+   "Jumat",
+   "Rabu",
+   "Sabtu"
+  ],
+  "jawaban": 0,
+  "pembahasan": "100 mod 7 = 2. Selasa + 2 hari = Kamis.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-072"
+ },
+ {
+  "q": "Pertanyaan yang baik untuk menguji kredibilitas sumber adalah:",
+  "opsi": [
+   "Apakah judulnya menarik?",
+   "Siapa penulisnya, apa buktinya, dan adakah kepentingan tertentu?",
+   "Berapa banyak yang membagikan?",
+   "Apakah viral?"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kredibilitas dinilai dari otoritas penulis, kualitas bukti, dan potensi bias/kepentingan — bukan popularitas atau judul.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-073"
+ },
+ {
+  "q": "Pendekatan yang tepat saat dua data resmi saling bertentangan adalah:",
+  "opsi": [
+   "Memilih yang disukai",
+   "Menelusuri metodologi dan sumber masing-masing sebelum menyimpulkan",
+   "Mengabaikan keduanya",
+   "Mengikuti yang lebih dulu terbit"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Data bertentangan dievaluasi dengan memeriksa metode, definisi, dan sumbernya agar kesimpulan berdasar bukti, bukan preferensi.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-074"
+ },
+ {
+  "q": "Kemampuan metakognisi dalam berpikir kritis berarti:",
+  "opsi": [
+   "Menghafal banyak fakta",
+   "Menyadari dan mengevaluasi cara berpikir diri sendiri",
+   "Berpikir cepat tanpa jeda",
+   "Mengikuti orang lain"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Metakognisi adalah 'berpikir tentang cara berpikir' — kemampuan memantau, menilai, dan memperbaiki proses berpikir sendiri.",
+  "kompetensi": "berpikir-kritis",
+  "id": "BK-075"
+ }
+]
