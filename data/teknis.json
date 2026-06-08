@@ -1324,5 +1324,265 @@
   "pembahasan": "Zona Integritas (WBK/WBBM) bertujuan mewujudkan unit kerja yang Bersih dari Korupsi dan Birokrasi Bersih Melayani melalui reformasi nyata.",
   "kompetensi": "teknis",
   "id": "TK-102"
+ },
+ {
+  "q": "Dalam siklus manajemen kinerja PNS (Pegawai Negeri Sipil) sesuai PP (Peraturan Pemerintah) No. 30 Tahun 2019, dokumen yang menjadi dasar penilaian Sasaran Kinerja Pegawai (SKP) harus diselaraskan dengan:",
+  "opsi": [
+   "Rencana kerja tahunan unit dan perjanjian kinerja atasan langsung",
+   "Daftar hadir elektronik pegawai",
+   "Anggaran belanja pegawai tahun berjalan",
+   "Hasil rapat koordinasi mingguan unit"
+  ],
+  "jawaban": 0,
+  "pembahasan": "SKP disusun berbasis cascading: sasaran organisasi diturunkan ke perjanjian kinerja atasan langsung lalu ke SKP individu, sehingga selaras dengan rencana kerja unit. PP 30/2019 menekankan keselarasan vertikal kinerja.",
+  "kompetensi": "teknis",
+  "id": "TK-103"
+ },
+ {
+  "q": "Penerapan Sistem Pemerintahan Berbasis Elektronik (SPBE) menurut Perpres No. 95 Tahun 2018 mensyaratkan interoperabilitas antarinstansi. Prasyarat utama agar interoperabilitas tercapai adalah:",
+  "opsi": [
+   "Setiap instansi membangun aplikasi mandiri tanpa berbagi pakai",
+   "Standar data dan arsitektur SPBE nasional yang menjadi acuan bersama",
+   "Penggunaan satu vendor tunggal untuk seluruh instansi",
+   "Penghapusan seluruh proses bisnis manual secara serentak"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Interoperabilitas SPBE bergantung pada standar data, format baku, dan arsitektur SPBE nasional sebagai acuan berbagi pakai. Vendor tunggal bukan syarat; justru berbagi pakai aplikasi dan data yang ditekankan.",
+  "kompetensi": "teknis",
+  "id": "TK-104"
+ },
+ {
+  "q": "Seorang analis kebijakan menemukan bahwa indikator kinerja utama (IKU) yang ditetapkan bersifat aktivitas (output) bukan hasil (outcome). Perbaikan paling tepat secara teknis adalah:",
+  "opsi": [
+   "Menambah jumlah aktivitas agar target mudah tercapai",
+   "Mengganti IKU menjadi ukuran dampak/manfaat yang dirasakan penerima layanan",
+   "Menghapus IKU karena sulit diukur",
+   "Menurunkan target agar realisasi terlihat tinggi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "IKU yang baik berorientasi outcome (hasil/dampak), bukan sekadar output/aktivitas. Memperbaikinya berarti merumuskan ukuran manfaat bagi pemangku kepentingan, sesuai prinsip SAKIP (Sistem Akuntabilitas Kinerja Instansi Pemerintah) dan manajemen kinerja berbasis hasil.",
+  "kompetensi": "teknis",
+  "id": "TK-105"
+ },
+ {
+  "q": "Dalam penyusunan anggaran berbasis kinerja, prinsip 'money follows function' berarti:",
+  "opsi": [
+   "Anggaran dialokasikan mengikuti jumlah pegawai pada unit",
+   "Anggaran dialokasikan berdasarkan fungsi dan target kinerja yang akan dicapai",
+   "Anggaran dibagi rata ke seluruh program",
+   "Anggaran ditentukan oleh realisasi tahun sebelumnya saja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Anggaran berbasis kinerja menautkan alokasi dana dengan fungsi/program dan target kinerja (money follows function/program), bukan dibagi rata atau sekadar mengikuti pagu historis.",
+  "kompetensi": "teknis",
+  "id": "TK-106"
+ },
+ {
+  "q": "Tata naskah dinas elektronik mewajibkan keaslian dan keutuhan dokumen. Mekanisme teknis yang menjamin dokumen tidak diubah setelah ditetapkan adalah:",
+  "opsi": [
+   "Penomoran surat otomatis",
+   "Tanda tangan elektronik tersertifikasi dengan segel digital",
+   "Pengarsipan dalam folder bersama",
+   "Pencantuman kop surat berwarna"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tanda tangan elektronik tersertifikasi (oleh penyelenggara terdaftar) memberi jaminan keaslian penanda tangan dan keutuhan (integritas) dokumen melalui kriptografi/segel digital, sesuai UU ITE (Informasi dan Transaksi Elektronik) dan ketentuan TNDE (Tata Naskah Dinas Elektronik).",
+  "kompetensi": "teknis",
+  "id": "TK-107"
+ },
+ {
+  "q": "Pada manajemen risiko sektor publik (SPIP/Sistem Pengendalian Intern Pemerintah), pengendalian yang dirancang untuk mendeteksi penyimpangan setelah suatu kejadian terjadi disebut pengendalian:",
+  "opsi": [
+   "Preventif",
+   "Detektif",
+   "Korektif",
+   "Direktif"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pengendalian detektif berfungsi menemukan/mendeteksi penyimpangan yang telah terjadi (mis. rekonsiliasi, audit). Preventif mencegah, korektif memperbaiki, direktif mengarahkan perilaku.",
+  "kompetensi": "teknis",
+  "id": "TK-108"
+ },
+ {
+  "q": "Dalam pengadaan barang/jasa pemerintah, metode pemilihan penyedia untuk barang dengan spesifikasi yang sudah terstandar dan tersedia di katalog elektronik adalah:",
+  "opsi": [
+   "Tender terbuka",
+   "Seleksi",
+   "E-purchasing",
+   "Penunjukan langsung darurat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "E-purchasing melalui katalog elektronik digunakan untuk barang/jasa yang telah tercantum dalam katalog (terstandar), lebih efisien dibanding tender. Tender/seleksi untuk pekerjaan kompleks yang belum terstandar.",
+  "kompetensi": "teknis",
+  "id": "TK-109"
+ },
+ {
+  "q": "Seorang pejabat fungsional perlu menyusun angka kredit. Bukti fisik kegiatan yang diakui untuk penilaian angka kredit harus memenuhi syarat:",
+  "opsi": [
+   "Relevan dengan butir kegiatan, sah, dan dapat diverifikasi",
+   "Berjumlah sebanyak mungkin tanpa memandang relevansi",
+   "Cukup pernyataan lisan atasan",
+   "Hanya kegiatan di luar tugas pokok"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Bukti angka kredit harus relevan dengan butir kegiatan jabatan fungsional, autentik/sah, dan dapat diverifikasi tim penilai. Kuantitas tanpa relevansi atau pernyataan lisan tidak memenuhi kaidah penilaian.",
+  "kompetensi": "teknis",
+  "id": "TK-110"
+ },
+ {
+  "q": "Dalam analisis beban kerja (ABK) untuk menentukan kebutuhan pegawai, variabel kunci yang dihitung adalah:",
+  "opsi": [
+   "Jumlah ruangan kantor yang tersedia",
+   "Volume kerja dan norma waktu penyelesaian tiap tugas",
+   "Besaran tunjangan kinerja unit",
+   "Jumlah rapat per bulan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ABK menghitung kebutuhan pegawai dari volume kerja dikali norma waktu, dibagi waktu kerja efektif. Ruangan, tunjangan, atau rapat bukan dasar perhitungan kebutuhan formasi.",
+  "kompetensi": "teknis",
+  "id": "TK-111"
+ },
+ {
+  "q": "Prinsip 'segregation of duties' dalam pengelolaan keuangan negara bertujuan untuk:",
+  "opsi": [
+   "Mempercepat pencairan dana",
+   "Mencegah satu orang menguasai seluruh tahap transaksi sehingga mengurangi peluang fraud",
+   "Mengurangi jumlah pegawai keuangan",
+   "Menghapus kebutuhan audit"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pemisahan fungsi (otorisasi, pencatatan, penyimpanan) mencegah satu individu mengendalikan seluruh siklus transaksi, menutup celah kecurangan. Ini pilar pengendalian internal, bukan untuk mempercepat atau mengurangi audit.",
+  "kompetensi": "teknis",
+  "id": "TK-112"
+ },
+ {
+  "q": "Sebuah unit layanan publik ingin menurunkan waktu tunggu. Pendekatan perbaikan proses yang berfokus menghilangkan aktivitas tidak bernilai tambah (waste) adalah:",
+  "opsi": [
+   "Six Sigma murni untuk variasi",
+   "Lean (manajemen ramping)",
+   "Balanced Scorecard",
+   "Analisis SWOT (Strengths, Weaknesses, Opportunities, Threats)"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Lean berfokus mengidentifikasi dan menghilangkan pemborosan (waiting, overprocessing, dll) untuk mempersingkat lead time. Six Sigma fokus mengurangi variasi/cacat; BSC dan SWOT alat strategi, bukan perbaikan alur layanan langsung.",
+  "kompetensi": "teknis",
+  "id": "TK-113"
+ },
+ {
+  "q": "Dalam klasifikasi arsip, arsip yang memiliki nilai guna sekunder (kesejarahan/pertanggungjawaban nasional) dan disimpan permanen disebut arsip:",
+  "opsi": [
+   "Dinamis aktif",
+   "Dinamis inaktif",
+   "Statis",
+   "Vital sementara"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Arsip statis bernilai guna sekunder, telah selesai fungsi administrasinya, disimpan permanen di lembaga kearsipan. Arsip dinamis (aktif/inaktif) masih digunakan dalam administrasi.",
+  "kompetensi": "teknis",
+  "id": "TK-114"
+ },
+ {
+  "q": "Ketika menyusun naskah akademik suatu rancangan peraturan, bagian yang memuat justifikasi filosofis, sosiologis, dan yuridis disebut landasan. Landasan yuridis menjelaskan:",
+  "opsi": [
+   "Nilai dan cita hukum masyarakat",
+   "Kondisi nyata dan kebutuhan masyarakat",
+   "Dasar hukum dan kekosongan/ketidakharmonisan peraturan yang ada",
+   "Anggaran pelaksanaan peraturan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Landasan yuridis menguraikan dasar hukum pembentukan dan persoalan hukum (kekosongan, tumpang tindih, ketidakharmonisan). Filosofis = nilai/cita hukum; sosiologis = realitas dan kebutuhan masyarakat.",
+  "kompetensi": "teknis",
+  "id": "TK-115"
+ },
+ {
+  "q": "Indikator validitas data statistik kinerja yang menjamin data benar-benar mengukur apa yang seharusnya diukur disebut:",
+  "opsi": [
+   "Reliabilitas",
+   "Validitas",
+   "Akurasi entri",
+   "Kelengkapan sampel"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Validitas menyangkut apakah instrumen mengukur konstruk yang dimaksud. Reliabilitas menyangkut konsistensi/keterulangan hasil. Keduanya berbeda dimensi kualitas data.",
+  "kompetensi": "teknis",
+  "id": "TK-116"
+ },
+ {
+  "q": "Dalam evaluasi kebijakan publik, pertanyaan 'apakah manfaat kebijakan sebanding dengan biayanya' dijawab melalui kriteria:",
+  "opsi": [
+   "Efektivitas",
+   "Efisiensi",
+   "Responsivitas",
+   "Ketepatan (appropriateness)"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Efisiensi membandingkan hasil dengan sumber daya/biaya. Efektivitas menilai pencapaian tujuan; responsivitas menilai kesesuaian dengan kebutuhan kelompok; appropriateness menilai apakah tujuan kebijakan memang layak.",
+  "kompetensi": "teknis",
+  "id": "TK-117"
+ },
+ {
+  "q": "Sebuah aplikasi layanan publik menyimpan data pribadi warga. Berdasarkan UU No. 27 Tahun 2022 (PDP/Pelindungan Data Pribadi), pengendali data wajib menerapkan prinsip minimisasi data, yaitu:",
+  "opsi": [
+   "Menyimpan seluruh data selama mungkin untuk berjaga-jaga",
+   "Mengumpulkan data seminimal mungkin sesuai tujuan yang sah",
+   "Membagikan data ke instansi lain tanpa batas",
+   "Mengenkripsi data hanya saat audit"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Prinsip minimisasi data menuntut pengumpulan data terbatas pada yang relevan dan diperlukan untuk tujuan pemrosesan yang sah. Menyimpan berlebihan atau berbagi tanpa dasar bertentangan dengan UU PDP.",
+  "kompetensi": "teknis",
+  "id": "TK-118"
+ },
+ {
+  "q": "Dalam reformasi birokrasi, 'quick win' diartikan sebagai:",
+  "opsi": [
+   "Program jangka panjang lima tahunan",
+   "Inisiatif berdampak cepat dan nyata yang membangun kepercayaan terhadap perubahan",
+   "Penghematan anggaran semata",
+   "Mutasi pejabat secara massal"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Quick win adalah inisiatif yang menghasilkan dampak terlihat dalam waktu singkat untuk membangun momentum dan kepercayaan publik/internal terhadap agenda reformasi. Bukan program jangka panjang.",
+  "kompetensi": "teknis",
+  "id": "TK-119"
+ },
+ {
+  "q": "Suatu unit menemukan dua peraturan internal yang saling bertentangan, satu lebih baru dan satu lebih tinggi tingkatannya. Asas penyelesaian yang benar adalah mendahulukan:",
+  "opsi": [
+   "Peraturan yang lebih baru meski lebih rendah (lex posterior) tanpa syarat",
+   "Peraturan yang lebih tinggi (lex superior derogat legi inferiori)",
+   "Peraturan yang lebih panjang isinya",
+   "Peraturan yang lebih dahulu disosialisasikan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Asas lex superior derogat legi inferiori: peraturan lebih tinggi mengesampingkan yang lebih rendah, dan ini diutamakan terhadap asas lex posterior ketika hierarki berbeda. Hierarki peraturan menentukan keberlakuan.",
+  "kompetensi": "teknis",
+  "id": "TK-120"
+ },
+ {
+  "q": "Dalam manajemen pengetahuan (knowledge management) organisasi pemerintah, proses mengubah pengetahuan tacit individu menjadi pengetahuan eksplisit yang terdokumentasi disebut:",
+  "opsi": [
+   "Sosialisasi",
+   "Eksternalisasi",
+   "Kombinasi",
+   "Internalisasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Dalam model SECI/Socialization-Externalization-Combination-Internalization (Nonaka), eksternalisasi mengubah tacit menjadi eksplisit (mis. menulis SOP/Standar Operasional Prosedur dari pengalaman). Sosialisasi = tacit ke tacit; kombinasi = eksplisit ke eksplisit; internalisasi = eksplisit ke tacit.",
+  "kompetensi": "teknis",
+  "id": "TK-121"
+ },
+ {
+  "q": "Audit kinerja berbeda dari audit keuangan karena fokus utamanya adalah menilai:",
+  "opsi": [
+   "Kewajaran penyajian laporan keuangan",
+   "Ekonomis, efisiensi, dan efektivitas (3E) pengelolaan program",
+   "Kepatuhan terhadap nomor rekening",
+   "Saldo kas akhir tahun"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Audit kinerja menilai aspek 3E (ekonomis, efisiensi, efektivitas) dari program/kegiatan. Audit keuangan menilai kewajaran laporan keuangan sesuai standar akuntansi.",
+  "kompetensi": "teknis",
+  "id": "TK-122"
  }
 ]
