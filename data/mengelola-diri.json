@@ -1298,5 +1298,265 @@
   "pembahasan": "Mindfulness melatih perhatian pada momen kini, membantu menurunkan stres, meningkatkan fokus, dan respons yang lebih tenang.",
   "kompetensi": "mengelola-diri",
   "id": "MD-100"
+ },
+ {
+  "q": "Anda menghadapi tiga tenggat penting di hari yang sama, semuanya terasa mendesak. Pendekatan manajemen diri yang paling efektif adalah:",
+  "opsi": [
+   "Mengerjakan yang paling mudah dulu agar terasa produktif",
+   "Memprioritaskan berdasarkan dampak dan tenggat (matriks urgensi-kepentingan) lalu negosiasi ekspektasi bila perlu",
+   "Mengerjakan semua sekaligus secara paralel",
+   "Menunda semuanya hingga tekanan reda"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Manajemen diri yang matang memprioritaskan berdasar dampak dan tenggat (kuadran Eisenhower) dan berani menegosiasikan ulang ekspektasi. Mengerjakan yang mudah dulu atau multitasking penuh menurunkan kualitas dan menambah stres.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-101"
+ },
+ {
+  "q": "Setelah menerima kritik tajam atas pekerjaan Anda, respons yang mencerminkan growth mindset adalah:",
+  "opsi": [
+   "Menganggap diri tidak berbakat dan menyerah",
+   "Memisahkan emosi dari isi, mengambil pelajaran konkret, dan menyusun perbaikan",
+   "Membela diri dan menyalahkan keadaan",
+   "Menghindari tugas serupa selamanya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Growth mindset memandang kritik sebagai umpan balik untuk berkembang: kelola emosi, ambil substansi, perbaiki. Menyerah atau menyalahkan keadaan adalah pola fixed mindset yang menghambat pertumbuhan.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-102"
+ },
+ {
+  "q": "Anda merasa kewalahan dan mulai menunjukkan gejala burnout. Langkah pengelolaan diri yang sehat dan bertanggung jawab adalah:",
+  "opsi": [
+   "Memaksakan diri terus bekerja tanpa istirahat",
+   "Mengenali batas, mengatur ulang beban, memulihkan energi, dan mencari dukungan bila perlu",
+   "Mengundurkan diri secara impulsif",
+   "Menutupi kondisi dan menurunkan diam-diam kualitas kerja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Mengelola burnout menuntut kesadaran diri akan batas, pengaturan ulang beban, pemulihan (istirahat/olahraga/tidur), dan keberanian meminta dukungan. Memaksakan diri atau menutupi memperparah dan berisiko pada hasil kerja.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-103"
+ },
+ {
+  "q": "Kemampuan menunda kepuasan sesaat demi tujuan jangka panjang (mis. belajar untuk sertifikasi alih-alih bersantai) disebut:",
+  "opsi": [
+   "Prokrastinasi",
+   "Regulasi diri / delayed gratification",
+   "Impulsivitas",
+   "Multitasking"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Regulasi diri mencakup kemampuan menunda kepuasan (delayed gratification) demi tujuan yang lebih besar. Ini prediktor kuat keberhasilan jangka panjang, lawan dari impulsivitas dan prokrastinasi.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-104"
+ },
+ {
+  "q": "Dalam regulasi emosi, teknik 'cognitive reappraisal' bekerja dengan cara:",
+  "opsi": [
+   "Menekan dan menyembunyikan emosi sepenuhnya",
+   "Menafsir ulang situasi pemicu agar respons emosionalnya lebih adaptif",
+   "Meluapkan emosi tanpa kendali",
+   "Menghindari semua situasi sulit"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Cognitive reappraisal menilai ulang makna situasi (mis. 'ujian sebagai tantangan, bukan ancaman') sehingga emosi lebih terkelola. Lebih sehat daripada supresi yang justru menambah beban kognitif.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-105"
+ },
+ {
+  "q": "Anda memegang kebiasaan menunda (prokrastinasi) pada tugas besar. Strategi paling efektif untuk memulai adalah:",
+  "opsi": [
+   "Menunggu sampai merasa termotivasi",
+   "Memecah tugas menjadi langkah kecil dan memulai dengan komitmen waktu singkat (mis. 10 menit)",
+   "Mengerjakan hanya saat tenggat sangat dekat",
+   "Menggabungkan semua tugas menjadi satu sesi maraton"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Memecah tugas dan memulai kecil menurunkan hambatan awal; tindakan sering mendahului motivasi. Menunggu mood atau mengandalkan tekanan menit akhir memperbesar risiko kualitas buruk dan stres.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-106"
+ },
+ {
+  "q": "Refleksi diri yang konstruktif setelah menyelesaikan proyek sebaiknya berfokus pada:",
+  "opsi": [
+   "Menyalahkan pihak lain atas kekurangan",
+   "Apa yang berjalan baik, apa yang bisa diperbaiki, dan pelajaran untuk ke depan",
+   "Hanya mengingat keberhasilan",
+   "Melupakan seluruh prosesnya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Refleksi konstruktif (mis. model 'what went well/what to improve/next steps') mengubah pengalaman menjadi pembelajaran. Menyalahkan pihak lain atau hanya mengenang sukses menutup peluang perbaikan diri.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-107"
+ },
+ {
+  "q": "Self-efficacy (keyakinan akan kemampuan diri menyelesaikan tugas) paling kuat dibangun melalui:",
+  "opsi": [
+   "Pujian kosong tanpa dasar",
+   "Pengalaman keberhasilan nyata (mastery experience) yang bertahap",
+   "Menghindari tugas menantang",
+   "Membandingkan diri dengan orang lain terus-menerus"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Menurut Bandura, sumber terkuat self-efficacy adalah mastery experience—keberhasilan menyelesaikan tantangan secara bertahap. Pujian kosong atau penghindaran tidak membangun keyakinan yang kokoh.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-108"
+ },
+ {
+  "q": "Ketika nilai pribadi Anda bertabrakan dengan tekanan kelompok untuk melakukan hal yang Anda yakini salah, integritas diri menuntut:",
+  "opsi": [
+   "Mengikuti kelompok agar diterima",
+   "Mempertahankan prinsip secara tegas namun santun, meski berbeda dari mayoritas",
+   "Menghindar tanpa sikap",
+   "Menyesuaikan nilai sesuai situasi demi kenyamanan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Integritas adalah konsistensi antara nilai dan tindakan, termasuk saat menghadapi tekanan sosial. Mempertahankan prinsip secara santun namun teguh menjaga integritas tanpa konfrontasi destruktif.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-109"
+ },
+ {
+  "q": "Untuk menjaga fokus pada pekerjaan yang menuntut konsentrasi tinggi (deep work), strategi yang dianjurkan adalah:",
+  "opsi": [
+   "Membiarkan notifikasi aktif agar selalu responsif",
+   "Mengalokasikan blok waktu bebas gangguan dan mematikan distraksi",
+   "Berpindah-pindah tugas setiap beberapa menit",
+   "Mengerjakan saat banyak interupsi agar terbiasa"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Deep work menuntut blok waktu terlindung dari gangguan (notifikasi, interupsi). Context switching yang sering menurunkan kualitas dan kecepatan kerja kognitif. Lingkungan fokus adalah kunci produktivitas.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-110"
+ },
+ {
+  "q": "Anda gagal mencapai target penting. Pola pikir resilien yang sehat memandang kegagalan sebagai:",
+  "opsi": [
+   "Bukti permanen bahwa Anda tidak mampu",
+   "Peristiwa sementara dan spesifik yang dapat dipelajari dan diperbaiki",
+   "Sesuatu yang harus disembunyikan",
+   "Akhir dari upaya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Resiliensi (Seligman) memandang kemunduran sebagai sementara, spesifik, dan dapat diubah—bukan permanen, pervasif, dan personal. Cara menjelaskan kegagalan pada diri menentukan kebangkitan.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-111"
+ },
+ {
+  "q": "Manajemen energi (bukan sekadar waktu) menyarankan agar tugas paling menuntut kognitif dikerjakan pada:",
+  "opsi": [
+   "Saat energi paling rendah agar 'dipaksa'",
+   "Saat puncak energi/fokus pribadi (mis. pagi bagi banyak orang)",
+   "Kapan saja tanpa pola",
+   "Selalu di akhir hari"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Manajemen energi menyelaraskan tugas berat dengan jam puncak performa kognitif individu, menyimpan tugas ringan untuk saat energi menurun. Ini meningkatkan output tanpa menambah jam kerja.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-112"
+ },
+ {
+  "q": "Seorang rekan terus-menerus melimpahkan tugasnya kepada Anda hingga beban Anda berlebih. Respons asertif yang tepat adalah:",
+  "opsi": [
+   "Menerima semua demi menjaga hubungan",
+   "Menyampaikan batas secara jelas dan sopan, menolak yang bukan tanggung jawab Anda",
+   "Mengeluh ke rekan lain tanpa menyelesaikan",
+   "Membalas dengan melimpahkan tugas balik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Asertivitas adalah menyampaikan kebutuhan dan batas secara jujur-hormat tanpa agresif maupun pasif. Menetapkan batas yang sehat mencegah kelebihan beban dan menjaga hubungan kerja jangka panjang.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-113"
+ },
+ {
+  "q": "Kesadaran diri (self-awareness) emosional yang baik ditandai dengan kemampuan:",
+  "opsi": [
+   "Menyangkal emosi yang muncul",
+   "Mengenali emosi saat terjadi beserta pemicunya, sebelum bertindak",
+   "Selalu mengikuti dorongan emosi seketika",
+   "Mengabaikan sinyal tubuh"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Self-awareness, pilar kecerdasan emosional, adalah mengenali emosi dan pemicunya secara real-time, menciptakan jeda antara stimulus dan respons. Ini fondasi regulasi diri yang efektif.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-114"
+ },
+ {
+  "q": "Dalam mengelola pembelajaran berkelanjutan, pendekatan 'deliberate practice' menekankan:",
+  "opsi": [
+   "Mengulang yang sudah dikuasai berkali-kali",
+   "Latihan terfokus pada kelemahan dengan umpan balik dan peningkatan kesulitan bertahap",
+   "Belajar tanpa tujuan tertentu",
+   "Menghindari kesalahan sepenuhnya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Deliberate practice menargetkan area lemah secara sengaja, dengan umpan balik dan tantangan yang meningkat bertahap—bukan sekadar pengulangan zona nyaman. Inilah yang mendorong penguasaan keahlian.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-115"
+ },
+ {
+  "q": "Saat menghadapi situasi penuh ketidakpastian, sikap adaptif yang sehat adalah:",
+  "opsi": [
+   "Menuntut kepastian penuh sebelum bertindak",
+   "Menerima ambiguitas, fokus pada yang dapat dikendalikan, dan menyesuaikan rencana secara fleksibel",
+   "Panik dan menghentikan semua aktivitas",
+   "Berpegang kaku pada rencana awal apa pun yang terjadi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Adaptabilitas berarti toleransi terhadap ambiguitas, memusatkan energi pada lingkaran kendali (Stephen Covey), dan menyesuaikan rencana. Menuntut kepastian penuh atau kaku pada rencana lama menghambat respons.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-116"
+ },
+ {
+  "q": "Kebiasaan baik paling mungkin bertahan ketika dirancang dengan prinsip 'habit stacking', yaitu:",
+  "opsi": [
+   "Mengandalkan motivasi besar setiap hari",
+   "Menempelkan kebiasaan baru pada kebiasaan lama yang sudah otomatis sebagai pemicu",
+   "Mengubah banyak kebiasaan sekaligus",
+   "Menetapkan target sebesar mungkin di awal"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Habit stacking mengaitkan kebiasaan baru dengan rutinitas yang sudah mapan sebagai cue (mis. 'setelah menyalakan komputer, saya tulis tiga prioritas'). Mengandalkan motivasi atau mengubah banyak hal sekaligus rapuh.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-117"
+ },
+ {
+  "q": "Locus of control internal pada seorang pegawai tercermin dari keyakinan bahwa:",
+  "opsi": [
+   "Nasib dan keberuntungan menentukan segalanya",
+   "Hasil kerja sebagian besar dipengaruhi oleh usaha dan keputusan diri sendiri",
+   "Orang lain selalu menjadi penyebab kegagalan",
+   "Tidak ada gunanya berusaha"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Locus of control internal: individu meyakini hasil bergantung pada usaha dan pilihannya sendiri, sehingga lebih proaktif dan tangguh. Locus eksternal menyandarkan hasil pada nasib/orang lain, melemahkan inisiatif.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-118"
+ },
+ {
+  "q": "Untuk menjaga keseimbangan kerja-kehidupan jangka panjang, praktik yang berkelanjutan adalah:",
+  "opsi": [
+   "Selalu tersedia 24 jam demi terlihat berdedikasi",
+   "Menetapkan batas waktu kerja, memulihkan diri, dan menjaga kesehatan secara konsisten",
+   "Mengorbankan tidur demi menyelesaikan semua tugas",
+   "Menunda istirahat sampai pensiun"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Keberlanjutan menuntut batas yang jelas, pemulihan rutin, dan kesehatan terjaga—produktivitas jangka panjang lahir dari energi yang dikelola, bukan dari ketersediaan tanpa henti yang berujung burnout.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-119"
+ },
+ {
+  "q": "Ketika menerima tugas baru di luar zona nyaman kompetensi Anda, respons pengembangan diri yang tepat adalah:",
+  "opsi": [
+   "Menolak karena belum menguasai",
+   "Menerima sebagai peluang belajar sambil aktif mencari sumber, bimbingan, dan berlatih",
+   "Menerima namun mengerjakan asal-asalan",
+   "Menyerahkan diam-diam ke orang lain"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pertumbuhan terjadi di tepi zona nyaman. Menerima tantangan sambil proaktif belajar dan mencari bimbingan (stretch assignment) mengembangkan kompetensi. Menolak atau mengabaikan menutup peluang berkembang.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-120"
  }
 ]
