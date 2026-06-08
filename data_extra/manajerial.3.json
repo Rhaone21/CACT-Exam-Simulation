@@ -1,0 +1,222 @@
+[
+ {
+  "q": "Sebagai pimpinan, Anda menghadapi anggota tim berkinerja tinggi namun mulai menolak arahan dan memengaruhi rekan lain secara negatif. Pendekatan kepemimpinan situasional yang paling tepat adalah:",
+  "opsi": [
+   "Langsung memberi sanksi tanpa dialog",
+   "Mengabaikan karena kinerjanya tinggi",
+   "Melakukan percakapan empat mata untuk memahami akar masalah lalu menyepakati ekspektasi perilaku",
+   "Memindahkan ke unit lain agar tidak mengganggu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Kinerja tinggi tetapi sikap menurun menuntut intervensi relasional: klarifikasi akar masalah lewat dialog dan kesepakatan perilaku, bukan sanksi mendadak, pembiaran, atau memindahkan masalah ke unit lain."
+ },
+ {
+  "q": "Dalam manajemen perubahan model Kotter, kesalahan paling fatal yang membuat perubahan gagal pada tahap awal adalah:",
+  "opsi": [
+   "Terlalu cepat merayakan kemenangan",
+   "Gagal membangun rasa urgensi yang cukup",
+   "Terlalu banyak melibatkan pegawai",
+   "Mengomunikasikan visi berulang kali"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kotter menempatkan 'create urgency' sebagai langkah pertama; tanpa urgensi yang memadai, energi perubahan tak terbentuk. Merayakan kemenangan terlalu dini adalah kesalahan tahap akhir, bukan awal."
+ },
+ {
+  "q": "Anda harus mengambil keputusan penting dengan data tidak lengkap dan tenggat ketat. Strategi pengambilan keputusan yang paling rasional adalah:",
+  "opsi": [
+   "Menunda hingga seluruh data lengkap",
+   "Memutuskan berdasarkan informasi terbaik yang tersedia sambil menyiapkan rencana mitigasi",
+   "Menyerahkan sepenuhnya keputusan ke bawahan",
+   "Memilih opsi paling murah tanpa analisis"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Dalam ketidakpastian dan tenggat ketat, prinsip 'bounded rationality' menyarankan memutuskan dengan informasi terbaik yang ada plus rencana mitigasi/kontinjensi, bukan menunda tanpa batas atau melempar tanggung jawab."
+ },
+ {
+  "q": "Delegasi yang efektif mensyaratkan pemimpin menyerahkan wewenang namun tetap:",
+  "opsi": [
+   "Mengerjakan ulang seluruh hasil bawahan",
+   "Memegang akuntabilitas akhir atas hasil",
+   "Melepas tanggung jawab sepenuhnya",
+   "Merahasiakan tujuan dari pelaksana"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Wewenang dapat didelegasikan, tetapi akuntabilitas akhir tetap pada pemimpin. Delegasi efektif memberi kejelasan tujuan dan ruang, bukan micromanaging atau lepas tangan."
+ },
+ {
+  "q": "Dua unit di bawah Anda berkonflik memperebutkan sumber daya yang sama. Pendekatan resolusi konflik 'collaborating' (menang-menang) ditandai oleh:",
+  "opsi": [
+   "Salah satu unit mengalah total",
+   "Membagi dua sumber daya secara cepat tanpa membahas kebutuhan",
+   "Menggali kepentingan kedua unit untuk menemukan solusi yang memenuhi tujuan bersama",
+   "Menghindari pembahasan agar tidak gaduh"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Collaborating (Thomas-Kilmann) menggabungkan ketegasan dan kerja sama tinggi: menggali kepentingan di balik posisi untuk solusi win-win. Mengalah = accommodating, bagi dua cepat = compromising, menghindar = avoiding."
+ },
+ {
+  "q": "Sebagai manajer, Anda ingin menumbuhkan budaya pembelajaran. Respons paling tepat ketika seorang pegawai membuat kesalahan jujur dalam berinovasi adalah:",
+  "opsi": [
+   "Menghukum untuk memberi efek jera",
+   "Mengubahnya menjadi pelajaran bersama dan memperbaiki proses",
+   "Menghapus seluruh kewenangan pegawai itu",
+   "Menutupi kesalahan dari tim"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Budaya psychological safety menjadikan kesalahan jujur sebagai pembelajaran, mendorong inovasi. Menghukum kesalahan jujur menekan keberanian mencoba; menutupi menghambat perbaikan sistemik."
+ },
+ {
+  "q": "Dalam menyusun strategi unit, alat yang menautkan tujuan strategis dengan ukuran pada perspektif keuangan, pelanggan, proses internal, serta pembelajaran adalah:",
+  "opsi": [
+   "Analisis Pareto",
+   "Balanced Scorecard",
+   "Diagram Ishikawa",
+   "Matriks RACI"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Balanced Scorecard menerjemahkan strategi ke empat perspektif berimbang. Pareto memprioritaskan masalah, Ishikawa mencari sebab-akibat, RACI (Responsible, Accountable, Consulted, Informed) memetakan peran tanggung jawab."
+ },
+ {
+  "q": "Seorang pemimpin transformasional terutama menggerakkan tim melalui:",
+  "opsi": [
+   "Imbalan dan hukuman transaksional",
+   "Visi yang menginspirasi dan pemberdayaan individu",
+   "Pengawasan ketat setiap detail",
+   "Aturan birokratis yang kaku"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kepemimpinan transformasional menggerakkan lewat visi inspiratif, stimulasi intelektual, dan perhatian individual untuk menumbuhkan motivasi internal. Imbalan/hukuman adalah ciri kepemimpinan transaksional."
+ },
+ {
+  "q": "Ketika memberi umpan balik korektif kepada bawahan agar tetap memotivasi, teknik yang dianjurkan adalah:",
+  "opsi": [
+   "Menyampaikan di depan banyak orang agar menjadi pelajaran umum",
+   "Fokus pada perilaku spesifik dan dampaknya, bukan menyerang pribadi",
+   "Menumpuk seluruh kritik di akhir tahun",
+   "Menggunakan kata 'selalu' dan 'tidak pernah'"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Umpan balik efektif bersifat spesifik, tepat waktu, dan berfokus pada perilaku-dampak (bukan label pribadi), disampaikan privat. Generalisasi 'selalu/tidak pernah' dan mempermalukan publik justru merusak."
+ },
+ {
+  "q": "Anda memimpin proyek lintas-unit. Untuk mencegah kebingungan peran, alat yang menetapkan siapa Responsible, Accountable, Consulted, dan Informed adalah:",
+  "opsi": [
+   "Gantt chart",
+   "Matriks RACI",
+   "Burndown chart",
+   "Peta empati"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Matriks RACI memperjelas tanggung jawab tiap aktivitas: siapa mengerjakan, siapa bertanggung jawab akhir, siapa dikonsultasi, siapa diberi tahu. Gantt/burndown untuk jadwal/progres."
+ },
+ {
+  "q": "Dalam negosiasi anggaran dengan unit lain, prinsip 'BATNA' membantu Anda dengan cara:",
+  "opsi": [
+   "Memaksa pihak lain menyetujui tuntutan",
+   "Mengetahui alternatif terbaik bila kesepakatan gagal sehingga tidak menerima kesepakatan buruk",
+   "Menghindari negosiasi sama sekali",
+   "Selalu menerima tawaran pertama"
+  ],
+  "jawaban": 1,
+  "pembahasan": "BATNA (Best Alternative To a Negotiated Agreement) adalah opsi terbaik jika negosiasi gagal; mengetahuinya memberi daya tawar dan mencegah menerima kesepakatan yang lebih buruk dari alternatif."
+ },
+ {
+  "q": "Tim Anda mengalami penurunan produktivitas pada fase 'storming' pembentukan kelompok. Peran pemimpin yang tepat pada fase ini adalah:",
+  "opsi": [
+   "Membiarkan konflik membesar tanpa intervensi",
+   "Memfasilitasi penyelesaian perbedaan dan memperjelas peran serta norma kerja",
+   "Membubarkan tim dan membentuk yang baru",
+   "Memerintahkan semua diam dan ikut perintah"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pada fase storming (Tuckman), muncul gesekan. Pemimpin perlu memfasilitasi, menengahi perbedaan, serta memperjelas peran dan norma agar tim bergerak ke fase norming, bukan menekan atau membiarkan."
+ },
+ {
+  "q": "Untuk mengelola pemangku kepentingan, matriks 'power-interest' menyarankan stakeholder dengan kekuasaan tinggi tetapi minat rendah sebaiknya:",
+  "opsi": [
+   "Diabaikan",
+   "Dijaga kepuasannya (keep satisfied) tanpa membebani detail",
+   "Dilibatkan penuh dalam setiap rapat teknis",
+   "Hanya dipantau seadanya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pada matriks power-interest, kuadran kekuasaan tinggi/minat rendah dikelola dengan strategi 'keep satisfied'—menjaga kepuasan tanpa membanjiri detail. Minat tinggi/kuasa tinggi = manage closely."
+ },
+ {
+  "q": "Sebagai atasan, Anda diminta menilai kinerja bawahan secara objektif. Bias 'halo effect' terjadi ketika:",
+  "opsi": [
+   "Menilai berdasarkan kejadian terbaru saja",
+   "Satu sifat positif yang menonjol membuat seluruh aspek dinilai tinggi",
+   "Menilai semua orang rata-rata",
+   "Membandingkan dengan diri sendiri"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Halo effect: kesan positif pada satu dimensi meluas menilai dimensi lain secara tidak proporsional. Penilaian berbasis kejadian terbaru = recency; menilai semua di tengah = central tendency."
+ },
+ {
+  "q": "Dalam pengambilan keputusan kelompok, fenomena 'groupthink' dapat dicegah dengan:",
+  "opsi": [
+   "Menghindari perbedaan pendapat demi kekompakan",
+   "Menunjuk 'devil's advocate' dan mendorong pandangan kritis yang berbeda",
+   "Memutuskan secepat mungkin",
+   "Hanya mengandalkan pendapat pimpinan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Groupthink muncul saat keinginan harmoni menekan evaluasi kritis. Penangkalnya: menunjuk devil's advocate, mengundang dissent, dan menilai alternatif secara terbuka."
+ },
+ {
+  "q": "Anda perlu mendorong kinerja unit yang stagnan. Penetapan tujuan yang paling memacu kinerja menurut goal-setting theory adalah tujuan yang:",
+  "opsi": [
+   "Mudah dan samar agar pasti tercapai",
+   "Spesifik, menantang, namun masih realistis dan disertai umpan balik",
+   "Sangat tinggi sehingga mustahil dicapai",
+   "Dirahasiakan dari pelaksana"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Goal-setting theory (Locke & Latham): tujuan spesifik dan menantang—namun dapat dicapai—dengan umpan balik berkala menghasilkan kinerja terbaik. Tujuan samar atau mustahil melemahkan motivasi."
+ },
+ {
+  "q": "Saat melakukan coaching, perbedaan utama coaching dengan mentoring adalah:",
+  "opsi": [
+   "Coaching memberi semua jawaban, mentoring tidak",
+   "Coaching menggali potensi melalui pertanyaan, mentoring lebih berbagi pengalaman dan nasihat",
+   "Keduanya identik",
+   "Coaching hanya untuk pemula"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Coaching berfokus memunculkan solusi dari individu melalui pertanyaan reflektif; mentoring menekankan transfer pengalaman dan saran dari yang lebih senior. Keduanya pendekatan pengembangan yang berbeda."
+ },
+ {
+  "q": "Dalam kondisi krisis mendadak, gaya pengambilan keputusan yang paling sesuai biasanya bergeser ke arah:",
+  "opsi": [
+   "Konsensus penuh yang memakan waktu lama",
+   "Direktif yang cepat dan jelas, dengan tetap mengomunikasikan alasan",
+   "Menunda sampai situasi tenang",
+   "Menyerahkan pada voting publik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Krisis menuntut keputusan cepat dan arahan jelas (gaya direktif/komando), sambil tetap mengomunikasikan rasional agar tim patuh dan paham. Konsensus penuh terlalu lambat saat krisis."
+ },
+ {
+  "q": "Untuk memastikan keberlanjutan kinerja unit saat Anda promosi, langkah kaderisasi yang paling strategis adalah:",
+  "opsi": [
+   "Tidak menyiapkan pengganti agar tetap dibutuhkan",
+   "Membangun succession plan dan mengembangkan talenta kunci sejak dini",
+   "Menunjuk pengganti di hari terakhir",
+   "Menyimpan semua pengetahuan hanya pada diri sendiri"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Succession planning dan pengembangan talenta secara berkelanjutan menjamin transisi mulus dan keberlanjutan kinerja. Menahan pengetahuan atau menunda penunjukan menciptakan risiko organisasi."
+ },
+ {
+  "q": "Anda menerima instruksi atasan yang menurut analisis Anda berisiko melanggar ketentuan. Tindakan manajerial yang paling tepat dan etis adalah:",
+  "opsi": [
+   "Langsung melaksanakan tanpa bertanya",
+   "Menolak secara terbuka di forum untuk menjatuhkan atasan",
+   "Menyampaikan keberatan beralasan secara hierarkis disertai alternatif solusi, dan mendokumentasikannya",
+   "Mendiamkan dan membiarkan terjadi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Loyalitas profesional bukan kepatuhan buta. Menyampaikan keberatan beralasan melalui saluran hierarki, menawarkan alternatif, dan mendokumentasikan adalah respons etis-manajerial. Melaksanakan buta atau membiarkan justru menanggung risiko hukum/etik."
+ }
+]
