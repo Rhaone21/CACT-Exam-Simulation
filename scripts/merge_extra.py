@@ -29,9 +29,9 @@ def main():
         base = json.load(open(base_path, encoding="utf-8")) if os.path.exists(base_path) else []
         seen = {norm(s["q"]) for s in base}
 
-        extra_path = os.path.join(EXTRA_DIR, komp + ".json")
+        # baca semua file extra utk kompetensi ini: <komp>.json, <komp>.2.json, dst.
         added = 0
-        if os.path.exists(extra_path):
+        for extra_path in sorted(glob.glob(os.path.join(EXTRA_DIR, komp + "*.json"))):
             for s in json.load(open(extra_path, encoding="utf-8")):
                 if norm(s["q"]) in seen:
                     continue
