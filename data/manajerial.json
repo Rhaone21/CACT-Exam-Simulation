@@ -1,0 +1,1341 @@
+[
+ {
+  "id": "MJ-001",
+  "kompetensi": "manajerial",
+  "q": "Seorang pemimpin yang baik adalah yang mampu:",
+  "opsi": [
+   "Memberikan tugas tanpa bertanya",
+   "Memaksakan kehendak",
+   "Memberi teladan dan motivasi",
+   "Menetapkan aturan tanpa diskusi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberi teladan dan motivasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-002",
+  "kompetensi": "manajerial",
+  "q": "Dalam menyelesaikan konflik dalam tim, seorang manajer sebaiknya:",
+  "opsi": [
+   "Menghindari masalah",
+   "Mendukung pihak mayoritas",
+   "Bersikap adil dan mencari solusi win-win",
+   "Menyerahkan ke pihak luar"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bersikap adil dan mencari solusi win-win. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-003",
+  "kompetensi": "manajerial",
+  "q": "Salah satu indikator keberhasilan manajemen perubahan adalah:",
+  "opsi": [
+   "Banyaknya pegawai yang mengundurkan diri",
+   "Ketidakjelasan arah organisasi",
+   "Peningkatan kinerja dan adaptasi pegawai",
+   "Berkurangnya pekerjaan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Peningkatan kinerja dan adaptasi pegawai. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-004",
+  "kompetensi": "manajerial",
+  "q": "Pemimpin transformasional adalah pemimpin yang:",
+  "opsi": [
+   "Fokus pada aturan dan hukuman",
+   "Memotivasi dan menginspirasi perubahan positif",
+   "Tidak mau mendengar masukan",
+   "Memerintah dengan keras"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memotivasi dan menginspirasi perubahan positif. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-005",
+  "kompetensi": "manajerial",
+  "q": "Time management yang baik berarti:",
+  "opsi": [
+   "Mengerjakan semua sendiri",
+   "Menunda pekerjaan sampai deadline",
+   "Mengatur waktu secara efektif dan efisien",
+   "Menyuruh orang lain mengerjakan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengatur waktu secara efektif dan efisien. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-006",
+  "kompetensi": "manajerial",
+  "q": "Dalam manajemen, prinsip SMART digunakan untuk menyusun:",
+  "opsi": [
+   "Gaji pegawai",
+   "Sasaran kerja",
+   "Aturan berpakaian",
+   "Daftar absen"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Sasaran kerja. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-007",
+  "kompetensi": "manajerial",
+  "q": "Kemampuan manajerial yang utama bagi ASN adalah:",
+  "opsi": [
+   "Memahami perintah atasan",
+   "Menyusun peraturan",
+   "Mengatur, memimpin, dan mengevaluasi pekerjaan",
+   "Menghadiri rapat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengatur, memimpin, dan mengevaluasi pekerjaan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-008",
+  "kompetensi": "manajerial",
+  "q": "Delegasi wewenang yang baik menunjukkan:",
+  "opsi": [
+   "Pemimpin tidak mampu",
+   "Kurangnya kontrol",
+   "Kepercayaan dan pengembangan bawahan",
+   "Tidak peduli hasil"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kepercayaan dan pengembangan bawahan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-009",
+  "kompetensi": "manajerial",
+  "q": "Evaluasi kinerja secara berkala diperlukan untuk:",
+  "opsi": [
+   "Mencari kesalahan",
+   "Memenuhi kewajiban",
+   "Mengukur pencapaian dan perbaikan kinerja",
+   "Menyalahkan staf"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengukur pencapaian dan perbaikan kinerja. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-010",
+  "kompetensi": "manajerial",
+  "q": "Pembuatan keputusan yang efektif memerlukan:",
+  "opsi": [
+   "Informasi yang akurat dan relevan",
+   "Keputusan sepihak",
+   "Diskusi panjang tanpa kesimpulan",
+   "Penundaan terus-menerus"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Informasi yang akurat dan relevan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-011",
+  "kompetensi": "manajerial",
+  "q": "Kepemimpinan partisipatif dicirikan oleh:",
+  "opsi": [
+   "Semua keputusan diambil pimpinan",
+   "Keterlibatan anggota tim dalam pengambilan keputusan",
+   "Pembiaran masalah",
+   "Ketidakjelasan arahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Keterlibatan anggota tim dalam pengambilan keputusan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-012",
+  "kompetensi": "manajerial",
+  "q": "Salah satu kunci sukses membangun tim kerja adalah:",
+  "opsi": [
+   "Dominasi pimpinan",
+   "Komunikasi efektif dan kolaborasi",
+   "Persaingan antar anggota",
+   "Rotasi cepat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Komunikasi efektif dan kolaborasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-013",
+  "kompetensi": "manajerial",
+  "q": "Feedback dari atasan kepada bawahan sebaiknya bersifat:",
+  "opsi": [
+   "Menghakimi",
+   "Umum dan global",
+   "Konstruktif dan spesifik",
+   "Menggurui"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Konstruktif dan spesifik. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-014",
+  "kompetensi": "manajerial",
+  "q": "Seorang pemimpin yang visioner akan:",
+  "opsi": [
+   "Fokus pada masalah saat ini saja",
+   "Menunda inovasi",
+   "Memiliki pandangan jauh ke depan",
+   "Hanya mengikuti perintah"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memiliki pandangan jauh ke depan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-015",
+  "kompetensi": "manajerial",
+  "q": "Keputusan strategis dalam organisasi pemerintah seharusnya berdasarkan:",
+  "opsi": [
+   "Keinginan pimpinan",
+   "Kepentingan politik",
+   "Data dan analisis kebijakan",
+   "Tekanan luar"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Data dan analisis kebijakan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-016",
+  "kompetensi": "manajerial",
+  "q": "Seorang manajer yang bijak akan menyikapi kegagalan bawahan dengan:",
+  "opsi": [
+   "Menghukum secara langsung",
+   "Memecat",
+   "Membimbing untuk memperbaiki",
+   "Membiarkannya"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Membimbing untuk memperbaiki. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-017",
+  "kompetensi": "manajerial",
+  "q": "Transparansi dalam pengelolaan organisasi akan meningkatkan:",
+  "opsi": [
+   "Beban kerja",
+   "Kecurigaan",
+   "Kepercayaan publik",
+   "Kekuasaan pribadi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kepercayaan publik. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-018",
+  "kompetensi": "manajerial",
+  "q": "Penyusunan rencana kerja organisasi yang baik dimulai dari:",
+  "opsi": [
+   "Perintah atasan",
+   "Evaluasi kerja tahun lalu",
+   "Saran masyarakat",
+   "Data kehadiran pegawai"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Evaluasi kerja tahun lalu. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-019",
+  "kompetensi": "manajerial",
+  "q": "Rapat kerja yang efektif harus:",
+  "opsi": [
+   "Dilakukan tiap hari",
+   "Penuh kritik tajam",
+   "Terarah, ada agenda dan tindak lanjut",
+   "Dipimpin oleh staf termuda"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Terarah, ada agenda dan tindak lanjut. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-020",
+  "kompetensi": "manajerial",
+  "q": "Pemimpin yang komunikatif akan:",
+  "opsi": [
+   "Menghindari konflik",
+   "Memastikan pesan dipahami dan diterima",
+   "Menguasai pembicaraan",
+   "Jarang berdiskusi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memastikan pesan dipahami dan diterima. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-021",
+  "kompetensi": "manajerial",
+  "q": "Tujuan utama coaching dalam manajemen kinerja adalah:",
+  "opsi": [
+   "Mempermalukan pegawai",
+   "Meningkatkan kemampuan dan hasil kerja",
+   "Mengurangi tanggung jawab pimpinan",
+   "Menambah tugas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Meningkatkan kemampuan dan hasil kerja. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-022",
+  "kompetensi": "manajerial",
+  "q": "Sistem reward dan punishment dalam manajemen bertujuan:",
+  "opsi": [
+   "Menambah kerja",
+   "Mengontrol absen",
+   "Meningkatkan motivasi dan disiplin kerja",
+   "Mengurangi gaji"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan motivasi dan disiplin kerja. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-023",
+  "kompetensi": "manajerial",
+  "q": "Risiko dalam pengambilan keputusan manajerial dapat diminimalkan dengan:",
+  "opsi": [
+   "Mengabaikan data",
+   "Menghindari keputusan",
+   "Analisis dan informasi yang cukup",
+   "Memutuskan berdasarkan firasat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Analisis dan informasi yang cukup. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-024",
+  "kompetensi": "manajerial",
+  "q": "ASN dituntut memiliki kemampuan manajerial agar mampu:",
+  "opsi": [
+   "Mengatur absensi",
+   "Menuruti atasan",
+   "Merencanakan, mengorganisasi, dan mengevaluasi pekerjaan secara sistematis",
+   "Menolak pekerjaan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Merencanakan, mengorganisasi, dan mengevaluasi pekerjaan secara sistematis. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-025",
+  "kompetensi": "manajerial",
+  "q": "Pendelegasian tugas harus mempertimbangkan:",
+  "opsi": [
+   "Jenis kelamin bawahan",
+   "Usia pegawai",
+   "Kompetensi dan beban kerja",
+   "Hubungan pribadi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kompetensi dan beban kerja. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-026",
+  "kompetensi": "manajerial",
+  "q": "Supervisi terhadap bawahan sebaiknya dilakukan dengan tujuan:",
+  "opsi": [
+   "Menemukan kesalahan",
+   "Mencari kambing hitam",
+   "Memberikan arahan dan perbaikan",
+   "Mengurangi beban atasan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberikan arahan dan perbaikan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-027",
+  "kompetensi": "manajerial",
+  "q": "Salah satu peran penting manajer dalam organisasi publik adalah:",
+  "opsi": [
+   "Membuat kebijakan sesuai keinginan sendiri",
+   "Melaksanakan arahan pimpinan tanpa diskusi",
+   "Mengorganisasi sumber daya secara optimal",
+   "Menentukan nilai tukar rupiah"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengorganisasi sumber daya secara optimal. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-028",
+  "kompetensi": "manajerial",
+  "q": "Indikator kerja yang terukur harus bersifat:",
+  "opsi": [
+   "Global dan umum",
+   "Kualitatif saja",
+   "SMART (Specific, Measurable, Achievable, Relevant, Time-bound)",
+   "Dirahasiakan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) SMART (Specific, Measurable, Achievable, Relevant, Time-bound). Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-029",
+  "kompetensi": "manajerial",
+  "q": "Seorang pemimpin harus mampu mengelola konflik agar:",
+  "opsi": [
+   "Pegawai tidak mengeluh",
+   "Organisasi menjadi lebih kompetitif",
+   "Tim tetap solid dan produktif",
+   "Atasan merasa tenang"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tim tetap solid dan produktif. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-030",
+  "kompetensi": "manajerial",
+  "q": "Rencana strategis instansi sebaiknya disusun berdasarkan:",
+  "opsi": [
+   "Data empiris dan analisis SWOT",
+   "Ketersediaan anggaran saja",
+   "Kemauan pemimpin",
+   "Petunjuk staf"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Data empiris dan analisis SWOT. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-031",
+  "kompetensi": "manajerial",
+  "q": "Gaya kepemimpinan demokratis mendorong:",
+  "opsi": [
+   "Keputusan otoriter",
+   "Keterlibatan dan tanggung jawab bersama",
+   "Kekuasaan pusat",
+   "Penolakan usulan staf"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Keterlibatan dan tanggung jawab bersama. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-032",
+  "kompetensi": "manajerial",
+  "q": "Contoh perilaku kepemimpinan adaptif adalah:",
+  "opsi": [
+   "Tetap pada aturan lama meskipun tidak relevan",
+   "Mengikuti perubahan lingkungan kerja dan teknologi",
+   "Menghindari pelatihan",
+   "Menolak usulan baru"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengikuti perubahan lingkungan kerja dan teknologi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-033",
+  "kompetensi": "manajerial",
+  "q": "Dalam membuat keputusan strategis, manajer perlu mempertimbangkan:",
+  "opsi": [
+   "Kepentingan kelompok tertentu",
+   "Pendapat pribadi",
+   "Dampak jangka panjang terhadap organisasi",
+   "Desakan luar"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dampak jangka panjang terhadap organisasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-034",
+  "kompetensi": "manajerial",
+  "q": "Monitoring kinerja dilakukan untuk:",
+  "opsi": [
+   "Menunda laporan",
+   "Mengetahui proses dan kendala dalam pelaksanaan kegiatan",
+   "Menambah beban kerja",
+   "Menentukan promosi langsung"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengetahui proses dan kendala dalam pelaksanaan kegiatan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-035",
+  "kompetensi": "manajerial",
+  "q": "Kepemimpinan yang efektif harus mampu:",
+  "opsi": [
+   "Mengatur jadwal staf",
+   "Memberi contoh, menginspirasi, dan mengarahkan tim",
+   "Menyimpan semua informasi",
+   "Menghindari kritik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memberi contoh, menginspirasi, dan mengarahkan tim. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-036",
+  "kompetensi": "manajerial",
+  "q": "Penetapan indikator kinerja dilakukan agar:",
+  "opsi": [
+   "Pegawai merasa diawasi",
+   "Memudahkan laporan",
+   "Dapat mengukur pencapaian dan efektivitas kerja",
+   "Menambah tugas staf"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dapat mengukur pencapaian dan efektivitas kerja. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-037",
+  "kompetensi": "manajerial",
+  "q": "Prinsip dasar manajemen adalah:",
+  "opsi": [
+   "Perintah, kekuasaan, pengawasan",
+   "Planning, Organizing, Actuating, Controlling (POAC)",
+   "Tugas, jabatan, kedudukan",
+   "Monitoring, Supervisi, Teguran"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Planning, Organizing, Actuating, Controlling (POAC). Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-038",
+  "kompetensi": "manajerial",
+  "q": "Perubahan struktur organisasi harus disertai dengan:",
+  "opsi": [
+   "Penambahan pegawai",
+   "Sosialisasi dan penyesuaian peran",
+   "Pengurangan jam kerja",
+   "Pindah kantor"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Sosialisasi dan penyesuaian peran. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-039",
+  "kompetensi": "manajerial",
+  "q": "Manajer yang efektif adalah yang bisa:",
+  "opsi": [
+   "Memberi tugas sebanyak-banyaknya",
+   "Menghindari evaluasi",
+   "Memimpin, mengatur, dan memotivasi tim secara berkelanjutan",
+   "Selalu berada di kantor"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memimpin, mengatur, dan memotivasi tim secara berkelanjutan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-040",
+  "kompetensi": "manajerial",
+  "q": "Manajemen risiko diperlukan untuk:",
+  "opsi": [
+   "Meningkatkan target",
+   "Menghindari tugas",
+   "Mengantisipasi kemungkinan masalah dan kerugian",
+   "Mengatur jadwal pelatihan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengantisipasi kemungkinan masalah dan kerugian. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-041",
+  "kompetensi": "manajerial",
+  "q": "Salah satu ciri ASN yang memiliki manajemen diri yang baik adalah:",
+  "opsi": [
+   "Menunda pekerjaan",
+   "Bertanggung jawab dan mampu mengatur waktu",
+   "Mengandalkan atasan",
+   "Menolak perubahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Bertanggung jawab dan mampu mengatur waktu. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-042",
+  "kompetensi": "manajerial",
+  "q": "Keputusan yang diambil bersama tim akan:",
+  "opsi": [
+   "Menghambat waktu",
+   "Kurang efektif",
+   "Meningkatkan komitmen dan tanggung jawab",
+   "Membingungkan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan komitmen dan tanggung jawab. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-043",
+  "kompetensi": "manajerial",
+  "q": "Proses controlling dalam manajemen mencakup:",
+  "opsi": [
+   "Perintah langsung",
+   "Evaluasi hasil dan tindak lanjut",
+   "Promosi pegawai",
+   "Penundaan pelaporan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Evaluasi hasil dan tindak lanjut. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-044",
+  "kompetensi": "manajerial",
+  "q": "Dalam menghadapi krisis, seorang manajer harus:",
+  "opsi": [
+   "Menyalahkan staf",
+   "Menghindari keputusan",
+   "Bertindak cepat dan terukur",
+   "Meninggalkan rapat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bertindak cepat dan terukur. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-045",
+  "kompetensi": "manajerial",
+  "q": "Gaya kepemimpinan situasional disesuaikan dengan:",
+  "opsi": [
+   "Aturan tetap",
+   "Keinginan pribadi",
+   "Kondisi dan kebutuhan tim",
+   "Waktu luang pimpinan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kondisi dan kebutuhan tim. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-046",
+  "kompetensi": "manajerial",
+  "q": "Dalam menyusun perencanaan kerja, hal yang paling penting adalah:",
+  "opsi": [
+   "Gaji yang diterima",
+   "Data dan analisis kebutuhan",
+   "Kepentingan pribadi",
+   "Waktu istirahat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Data dan analisis kebutuhan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-047",
+  "kompetensi": "manajerial",
+  "q": "Evaluasi terhadap pelaksanaan program bertujuan:",
+  "opsi": [
+   "Memberikan hukuman",
+   "Menentukan pegawai terbaik",
+   "Mengetahui efektivitas dan efisiensi kegiatan",
+   "Menyusun absen"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengetahui efektivitas dan efisiensi kegiatan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-048",
+  "kompetensi": "manajerial",
+  "q": "Pemimpin yang otoriter cenderung:",
+  "opsi": [
+   "Menghindari perintah",
+   "Mengandalkan usulan staf",
+   "Memutuskan tanpa diskusi",
+   "Menunda keputusan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memutuskan tanpa diskusi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-049",
+  "kompetensi": "manajerial",
+  "q": "Salah satu fungsi manajemen adalah:",
+  "opsi": [
+   "Menandatangani presensi",
+   "Mengatur pakaian",
+   "Mengkoordinasi sumber daya untuk mencapai tujuan",
+   "Membeli perlengkapan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengkoordinasi sumber daya untuk mencapai tujuan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-050",
+  "kompetensi": "manajerial",
+  "q": "Seorang manajer yang profesional akan selalu:",
+  "opsi": [
+   "Fokus pada pencitraan",
+   "Menghindari beban kerja",
+   "Bekerja berdasarkan prinsip dan etika",
+   "Bergantung pada bawahan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bekerja berdasarkan prinsip dan etika. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-051",
+  "kompetensi": "manajerial",
+  "q": "Dalam manajemen, efektivitas berarti:",
+  "opsi": [
+   "Melakukan hal yang benar",
+   "Melakukan hal dengan cepat",
+   "Menuruti semua perintah",
+   "Menghindari tanggung jawab"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Melakukan hal yang benar. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-052",
+  "kompetensi": "manajerial",
+  "q": "Seorang pemimpin dapat membangun kepercayaan tim dengan cara:",
+  "opsi": [
+   "Menyimpan informasi penting",
+   "Memberikan janji-janji kosong",
+   "Konsisten, jujur, dan terbuka",
+   "Menghindari konflik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Konsisten, jujur, dan terbuka. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-053",
+  "kompetensi": "manajerial",
+  "q": "Tujuan utama dari manajemen perubahan adalah:",
+  "opsi": [
+   "Mengurangi beban pimpinan",
+   "Menambah pekerjaan staf",
+   "Meningkatkan adaptabilitas dan kinerja organisasi",
+   "Menghindari tekanan publik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan adaptabilitas dan kinerja organisasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-054",
+  "kompetensi": "manajerial",
+  "q": "Seorang manajer yang baik seharusnya mendorong bawahan untuk:",
+  "opsi": [
+   "Bergantung pada pimpinan",
+   "Menghindari inisiatif",
+   "Berpikir kritis dan berinovasi",
+   "Hanya menunggu instruksi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Berpikir kritis dan berinovasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-055",
+  "kompetensi": "manajerial",
+  "q": "Dalam pengelolaan SDM, prinsip meritokrasi artinya:",
+  "opsi": [
+   "Pemberian jabatan berdasarkan kedekatan",
+   "Promosi berdasarkan senioritas",
+   "Promosi dan penghargaan berdasarkan kinerja dan kompetensi",
+   "Semua pegawai diperlakukan sama"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Promosi dan penghargaan berdasarkan kinerja dan kompetensi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-056",
+  "kompetensi": "manajerial",
+  "q": "Manajer yang responsif terhadap masukan bawahan menunjukkan:",
+  "opsi": [
+   "Ketidaktegasan",
+   "Kepemimpinan kolaboratif",
+   "Kekurangan pengalaman",
+   "Ketergantungan pada staf"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Kepemimpinan kolaboratif. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-057",
+  "kompetensi": "manajerial",
+  "q": "Evaluasi kinerja harus dilakukan secara:",
+  "opsi": [
+   "Mendadak",
+   "Tidak teratur",
+   "Berkala dan terstruktur",
+   "Sembarangan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Berkala dan terstruktur. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-058",
+  "kompetensi": "manajerial",
+  "q": "Fungsi controlling dalam manajemen mencakup:",
+  "opsi": [
+   "Menentukan jadwal cuti",
+   "Mencari kesalahan staf",
+   "Mengevaluasi dan memperbaiki pelaksanaan kerja",
+   "Menambah aturan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengevaluasi dan memperbaiki pelaksanaan kerja. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-059",
+  "kompetensi": "manajerial",
+  "q": "Kepemimpinan yang efektif dapat meningkatkan:",
+  "opsi": [
+   "Beban kerja",
+   "Konflik internal",
+   "Kinerja dan motivasi tim",
+   "Ketegangan organisasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kinerja dan motivasi tim. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-060",
+  "kompetensi": "manajerial",
+  "q": "Manajer yang mampu mengelola waktu dengan baik akan:",
+  "opsi": [
+   "Menunda pekerjaan sulit",
+   "Fokus hanya pada tugas ringan",
+   "Menyelesaikan pekerjaan secara efisien",
+   "Menghindari pekerjaan rutin"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyelesaikan pekerjaan secara efisien. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-061",
+  "kompetensi": "manajerial",
+  "q": "Seorang manajer perlu menetapkan target yang jelas agar:",
+  "opsi": [
+   "Pegawai tidak banyak bertanya",
+   "Tugas terlihat lebih banyak",
+   "Pekerjaan bisa diukur dan dievaluasi",
+   "Anggaran bisa dihabiskan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pekerjaan bisa diukur dan dievaluasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-062",
+  "kompetensi": "manajerial",
+  "q": "Indikator kinerja utama (IKU) digunakan untuk:",
+  "opsi": [
+   "Menambah beban kerja",
+   "Mengukur pencapaian organisasi",
+   "Mengisi waktu luang",
+   "Menaikkan gaji"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengukur pencapaian organisasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-063",
+  "kompetensi": "manajerial",
+  "q": "Dalam manajemen risiko, yang pertama kali harus dilakukan adalah:",
+  "opsi": [
+   "Menghindari proyek",
+   "Mengidentifikasi risiko yang mungkin terjadi",
+   "Mengatur anggaran ulang",
+   "Membatalkan rencana"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengidentifikasi risiko yang mungkin terjadi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-064",
+  "kompetensi": "manajerial",
+  "q": "Komunikasi efektif dalam tim ditandai dengan:",
+  "opsi": [
+   "Saling menyalahkan",
+   "Tidak perlu diskusi",
+   "Terbuka, jelas, dan dua arah",
+   "Hanya dari atasan ke bawahan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Terbuka, jelas, dan dua arah. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-065",
+  "kompetensi": "manajerial",
+  "q": "Perilaku manajer yang memotivasi pegawai biasanya ditandai dengan:",
+  "opsi": [
+   "Marah saat kesalahan",
+   "Memberi contoh kerja positif",
+   "Menghindari keterlibatan",
+   "Menolak ide bawahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Memberi contoh kerja positif. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-066",
+  "kompetensi": "manajerial",
+  "q": "Prinsip manajemen yang baik dalam pengambilan keputusan adalah:",
+  "opsi": [
+   "Berdasarkan intuisi semata",
+   "Berdasarkan data dan analisis yang objektif",
+   "Menyesuaikan dengan tren",
+   "Mengikuti rekan kerja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Berdasarkan data dan analisis yang objektif. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-067",
+  "kompetensi": "manajerial",
+  "q": "Kepemimpinan transformasional mengutamakan:",
+  "opsi": [
+   "Stabilitas saja",
+   "Perubahan positif dan pemberdayaan tim",
+   "Otoritas tanpa diskusi",
+   "Pengawasan ketat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Perubahan positif dan pemberdayaan tim. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-068",
+  "kompetensi": "manajerial",
+  "q": "Salah satu hambatan dalam manajemen yang harus dihindari adalah:",
+  "opsi": [
+   "Evaluasi berkala",
+   "Komunikasi terbuka",
+   "Konflik yang tidak dikelola",
+   "Penyusunan strategi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Konflik yang tidak dikelola. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-069",
+  "kompetensi": "manajerial",
+  "q": "Untuk memastikan pelaksanaan program berjalan sesuai rencana, manajer harus:",
+  "opsi": [
+   "Membuat laporan saja",
+   "Melakukan monitoring dan evaluasi",
+   "Menghindari lapangan",
+   "Mengandalkan bawahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Melakukan monitoring dan evaluasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-070",
+  "kompetensi": "manajerial",
+  "q": "Manajer yang menyelesaikan konflik dengan cara win-win solution menunjukkan kemampuan:",
+  "opsi": [
+   "Otoriter",
+   "Negosiasi",
+   "Menghindar",
+   "Paksaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Negosiasi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-071",
+  "kompetensi": "manajerial",
+  "q": "Prinsip transparansi dalam manajemen berarti:",
+  "opsi": [
+   "Semua informasi harus dirahasiakan",
+   "Keputusan diambil sepihak",
+   "Informasi disampaikan terbuka dan dapat diakses",
+   "Hanya pimpinan yang tahu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Informasi disampaikan terbuka dan dapat diakses. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-072",
+  "kompetensi": "manajerial",
+  "q": "Dalam membuat rencana kerja, manajer harus mempertimbangkan:",
+  "opsi": [
+   "Hobi pribadi",
+   "Target organisasi dan analisis kebutuhan",
+   "Keinginan staf",
+   "Jadwal acara pribadi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Target organisasi dan analisis kebutuhan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-073",
+  "kompetensi": "manajerial",
+  "q": "Kinerja organisasi publik diukur melalui:",
+  "opsi": [
+   "Keuntungan finansial",
+   "Jumlah pegawai",
+   "Capaian indikator dan manfaat layanan",
+   "Durasi rapat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Capaian indikator dan manfaat layanan. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-074",
+  "kompetensi": "manajerial",
+  "q": "Dalam pengambilan keputusan, prinsip partisipatif berarti:",
+  "opsi": [
+   "Menghindari kritik",
+   "Keputusan hanya dari pimpinan",
+   "Melibatkan semua pihak terkait",
+   "Mengabaikan tim"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melibatkan semua pihak terkait. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MJ-075",
+  "kompetensi": "manajerial",
+  "q": "Manajer yang mampu membaca situasi dan menyesuaikan strategi menunjukkan:",
+  "opsi": [
+   "Ketidaktegasan",
+   "Kemampuan adaptasi tinggi",
+   "Keraguan",
+   "Kelemahan dalam kepemimpinan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Kemampuan adaptasi tinggi. Opsi ini paling sesuai dengan fungsi manajemen (perencanaan, pengorganisasian, pelaksanaan, dan pengendalian) yang tepat, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "q": "Fungsi manajemen menurut George R. Terry (POAC) terdiri atas:",
+  "opsi": [
+   "Planning, Organizing, Actuating, Controlling",
+   "Planning, Operating, Acting, Coordinating",
+   "Preparing, Organizing, Auditing, Controlling",
+   "Planning, Ordering, Adapting, Closing"
+  ],
+  "jawaban": 0,
+  "pembahasan": "POAC = Planning (perencanaan), Organizing (pengorganisasian), Actuating (penggerakan), Controlling (pengendalian).",
+  "kompetensi": "manajerial",
+  "id": "MJ-076"
+ },
+ {
+  "q": "Gaya kepemimpinan yang menyesuaikan pendekatan dengan tingkat kematangan bawahan disebut:",
+  "opsi": [
+   "Otokratis",
+   "Situasional",
+   "Laissez-faire",
+   "Birokratis"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kepemimpinan situasional (Hersey-Blanchard) menyesuaikan gaya (mengarahkan, melatih, mendukung, mendelegasikan) dengan kesiapan bawahan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-077"
+ },
+ {
+  "q": "Delegasi wewenang yang efektif berarti pemimpin:",
+  "opsi": [
+   "Melepas seluruh tanggung jawab",
+   "Memberi wewenang sekaligus kejelasan tugas dan tetap memantau hasil",
+   "Mengerjakan semua sendiri",
+   "Menyerahkan tugas tanpa arahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Delegasi efektif memberikan wewenang dan tanggung jawab disertai kejelasan target, dukungan, dan pemantauan — bukan lepas tangan total.",
+  "kompetensi": "manajerial",
+  "id": "MJ-078"
+ },
+ {
+  "q": "Tahap pertama dalam fungsi pengendalian (controlling) adalah:",
+  "opsi": [
+   "Memberi sanksi",
+   "Menetapkan standar/tolok ukur kinerja",
+   "Membuat laporan akhir",
+   "Mengganti pegawai"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Controlling diawali penetapan standar, lalu mengukur kinerja aktual, membandingkan dengan standar, dan mengambil tindakan korektif.",
+  "kompetensi": "manajerial",
+  "id": "MJ-079"
+ },
+ {
+  "q": "Manajemen perubahan (change management) bertujuan untuk:",
+  "opsi": [
+   "Mempertahankan kondisi lama",
+   "Membantu organisasi dan individu beradaptasi terhadap perubahan secara terencana",
+   "Menambah konflik",
+   "Menghindari inovasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Change management mengelola transisi orang, proses, dan teknologi agar perubahan diterima dan tujuan organisasi tercapai.",
+  "kompetensi": "manajerial",
+  "id": "MJ-080"
+ },
+ {
+  "q": "Model perubahan Kurt Lewin terdiri atas tiga tahap:",
+  "opsi": [
+   "Unfreeze, Change, Refreeze",
+   "Start, Run, Stop",
+   "Plan, Do, Act",
+   "Open, Close, Lock"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Model Lewin: Unfreezing (mencairkan kebiasaan lama), Changing (perubahan), Refreezing (memantapkan kondisi baru).",
+  "kompetensi": "manajerial",
+  "id": "MJ-081"
+ },
+ {
+  "q": "Coaching dalam manajemen kinerja paling tepat dipahami sebagai:",
+  "opsi": [
+   "Memberi hukuman",
+   "Proses membimbing pegawai menggali potensi dan solusi melalui pertanyaan",
+   "Memberi perintah sepihak",
+   "Mengambil alih pekerjaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Coaching menstimulasi pegawai menemukan solusinya sendiri lewat dialog dan pertanyaan, berbeda dengan mentoring atau memerintah.",
+  "kompetensi": "manajerial",
+  "id": "MJ-082"
+ },
+ {
+  "q": "Prinsip SMART dalam menetapkan tujuan/sasaran adalah:",
+  "opsi": [
+   "Specific, Measurable, Achievable, Relevant, Time-bound",
+   "Simple, Modern, Active, Real, Tight",
+   "Strong, Major, Able, Ready, Total",
+   "Smart, Modern, Agile, Rapid, Tested"
+  ],
+  "jawaban": 0,
+  "pembahasan": "SMART: Specific, Measurable, Achievable, Relevant, Time-bound — kriteria sasaran yang baik dan dapat dievaluasi.",
+  "kompetensi": "manajerial",
+  "id": "MJ-083"
+ },
+ {
+  "q": "Konflik dalam tim sebaiknya dikelola dengan pendekatan yang menghasilkan:",
+  "opsi": [
+   "Win-lose",
+   "Lose-lose",
+   "Win-win (kolaborasi)",
+   "Menghindar selamanya"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Pendekatan kolaboratif (win-win) mencari solusi yang mengakomodasi kepentingan kedua pihak, paling baik untuk hubungan jangka panjang.",
+  "kompetensi": "manajerial",
+  "id": "MJ-084"
+ },
+ {
+  "q": "Pemimpin transformasional dicirikan oleh kemampuan:",
+  "opsi": [
+   "Mengandalkan hukuman",
+   "Menginspirasi visi dan mendorong perubahan serta pengembangan anggota",
+   "Mempertahankan status quo",
+   "Bekerja sendiri"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kepemimpinan transformasional menggerakkan perubahan melalui visi, inspirasi, stimulasi intelektual, dan perhatian individual.",
+  "kompetensi": "manajerial",
+  "id": "MJ-085"
+ },
+ {
+  "q": "Span of control merujuk pada:",
+  "opsi": [
+   "Lama jam kerja",
+   "Jumlah bawahan yang dapat diawasi efektif oleh seorang atasan",
+   "Besarnya anggaran",
+   "Jumlah rapat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Span of control (rentang kendali) adalah jumlah bawahan yang secara efektif dapat dikoordinasi/diawasi seorang manajer.",
+  "kompetensi": "manajerial",
+  "id": "MJ-086"
+ },
+ {
+  "q": "Pengambilan keputusan berbasis bukti (evidence-based) menekankan:",
+  "opsi": [
+   "Intuisi semata",
+   "Penggunaan data, fakta, dan analisis yang relevan",
+   "Pendapat atasan saja",
+   "Kebiasaan lama"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Keputusan berbasis bukti mengandalkan data dan analisis objektif untuk mengurangi bias dan meningkatkan kualitas keputusan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-087"
+ },
+ {
+  "q": "Salah satu indikator tim kerja yang efektif adalah:",
+  "opsi": [
+   "Tujuan yang tidak jelas",
+   "Peran kabur",
+   "Komunikasi terbuka dan tujuan bersama yang jelas",
+   "Persaingan saling menjatuhkan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Tim efektif memiliki tujuan bersama yang jelas, peran terdefinisi, saling percaya, dan komunikasi yang terbuka.",
+  "kompetensi": "manajerial",
+  "id": "MJ-088"
+ },
+ {
+  "q": "Motivasi menurut teori Maslow yang berada pada tingkat tertinggi adalah:",
+  "opsi": [
+   "Kebutuhan fisiologis",
+   "Kebutuhan rasa aman",
+   "Aktualisasi diri",
+   "Kebutuhan sosial"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Hierarki Maslow dari bawah: fisiologis, rasa aman, sosial, penghargaan, dan aktualisasi diri (puncak).",
+  "kompetensi": "manajerial",
+  "id": "MJ-089"
+ },
+ {
+  "q": "Pendelegasian tugas harus mempertimbangkan terutama:",
+  "opsi": [
+   "Hubungan pribadi",
+   "Kompetensi dan beban kerja penerima tugas",
+   "Usia pegawai",
+   "Tempat tinggal"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tugas didelegasikan sesuai kompetensi dan kapasitas/beban kerja agar hasil optimal dan pengembangan pegawai berjalan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-090"
+ },
+ {
+  "q": "Rapat yang efektif sebaiknya memiliki:",
+  "opsi": [
+   "Agenda jelas, durasi terkendali, dan tindak lanjut",
+   "Banyak peserta tanpa tujuan",
+   "Durasi tak terbatas",
+   "Tanpa notulen"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Rapat efektif memiliki agenda dan tujuan jelas, waktu terkontrol, partisipasi terarah, serta keputusan dan tindak lanjut yang dicatat.",
+  "kompetensi": "manajerial",
+  "id": "MJ-091"
+ },
+ {
+  "q": "Manajemen by Objectives (MBO) menekankan:",
+  "opsi": [
+   "Perintah harian terperinci",
+   "Kesepakatan tujuan antara atasan dan bawahan lalu evaluasi capaian",
+   "Pengawasan tanpa target",
+   "Penilaian berdasarkan kehadiran"
+  ],
+  "jawaban": 1,
+  "pembahasan": "MBO (Peter Drucker) menetapkan tujuan bersama yang terukur antara atasan-bawahan dan menilai kinerja berdasarkan capaian tujuan tersebut.",
+  "kompetensi": "manajerial",
+  "id": "MJ-092"
+ },
+ {
+  "q": "Fungsi organizing dalam manajemen mencakup:",
+  "opsi": [
+   "Menetapkan tujuan",
+   "Mengatur struktur, pembagian tugas, dan koordinasi sumber daya",
+   "Memberi penghargaan",
+   "Menyusun laporan keuangan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Organizing menata struktur organisasi, membagi tugas/wewenang, dan mengoordinasikan sumber daya untuk mencapai tujuan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-093"
+ },
+ {
+  "q": "Seorang pemimpin yang memberi umpan balik konstruktif sebaiknya:",
+  "opsi": [
+   "Mengkritik di depan umum",
+   "Spesifik, fokus pada perilaku, dan menawarkan solusi",
+   "Bersifat umum dan menghakimi",
+   "Menunda hingga lupa"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Umpan balik konstruktif bersifat spesifik, tepat waktu, fokus pada perilaku (bukan pribadi), dan berorientasi perbaikan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-094"
+ },
+ {
+  "q": "Budaya organisasi yang kuat ditandai oleh:",
+  "opsi": [
+   "Nilai bersama yang dianut dan dipraktikkan anggota",
+   "Banyaknya peraturan",
+   "Seragam yang sama",
+   "Jumlah pegawai besar"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Budaya organisasi kuat tercermin dari nilai, norma, dan keyakinan bersama yang dihayati dan menjadi pedoman perilaku anggota.",
+  "kompetensi": "manajerial",
+  "id": "MJ-095"
+ },
+ {
+  "q": "Manajemen kinerja yang baik bersifat:",
+  "opsi": [
+   "Sekali setahun saja saat penilaian",
+   "Berkelanjutan: perencanaan, pemantauan, pembinaan, dan penilaian",
+   "Hanya saat ada masalah",
+   "Tanpa target"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Manajemen kinerja adalah siklus berkelanjutan: menetapkan sasaran, memantau, melakukan coaching, lalu menilai dan menindaklanjuti.",
+  "kompetensi": "manajerial",
+  "id": "MJ-096"
+ },
+ {
+  "q": "Analisis beban kerja (ABK) digunakan untuk:",
+  "opsi": [
+   "Menentukan warna ruangan",
+   "Menghitung kebutuhan jumlah dan jenis pegawai secara objektif",
+   "Mengatur jadwal cuti",
+   "Menilai loyalitas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ABK mengukur volume kerja terhadap waktu kerja efektif untuk menentukan kebutuhan pegawai secara objektif dan proporsional.",
+  "kompetensi": "manajerial",
+  "id": "MJ-097"
+ },
+ {
+  "q": "Prinsip akuntabilitas bagi seorang manajer publik berarti:",
+  "opsi": [
+   "Bebas dari tanggung jawab",
+   "Mempertanggungjawabkan keputusan dan penggunaan sumber daya",
+   "Merahasiakan kinerja",
+   "Menghindari evaluasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Akuntabilitas adalah kewajiban mempertanggungjawabkan pengelolaan sumber daya dan capaian kinerja kepada pihak yang berkepentingan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-098"
+ },
+ {
+  "q": "Saat menghadapi resistensi terhadap perubahan, langkah manajer yang tepat adalah:",
+  "opsi": [
+   "Memaksakan tanpa penjelasan",
+   "Mengomunikasikan manfaat, melibatkan pegawai, dan memberi dukungan",
+   "Mengabaikan keluhan",
+   "Menghentikan perubahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Resistensi diatasi dengan komunikasi yang jelas, partisipasi, edukasi, dan dukungan agar pegawai memahami dan menerima perubahan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-099"
+ },
+ {
+  "q": "Pemberdayaan (empowerment) pegawai berarti:",
+  "opsi": [
+   "Memberi otonomi dan kepercayaan untuk mengambil keputusan dalam lingkup tugasnya",
+   "Menambah beban tanpa wewenang",
+   "Mengawasi setiap detail",
+   "Membatasi inisiatif"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Empowerment memberi pegawai wewenang, sumber daya, dan kepercayaan untuk berinisiatif dan mengambil keputusan, meningkatkan motivasi dan kinerja.",
+  "kompetensi": "manajerial",
+  "id": "MJ-100"
+ },
+ {
+  "q": "Indikator keberhasilan manajemen perubahan adalah:",
+  "opsi": [
+   "Banyak pegawai mengundurkan diri",
+   "Peningkatan kinerja dan adaptasi pegawai terhadap kondisi baru",
+   "Arah organisasi makin kabur",
+   "Berkurangnya layanan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Perubahan dikatakan berhasil bila organisasi lebih adaptif, kinerja meningkat, dan kondisi baru terinternalisasi oleh pegawai.",
+  "kompetensi": "manajerial",
+  "id": "MJ-101"
+ },
+ {
+  "q": "Salah satu peran manajer sebagai 'disturbance handler' menurut Mintzberg adalah:",
+  "opsi": [
+   "Menyusun anggaran",
+   "Menangani gangguan/krisis yang muncul tak terduga",
+   "Mengisi presensi",
+   "Merancang logo"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Dalam peran manajerial Mintzberg, disturbance handler menangani konflik/krisis tak terduga agar operasi tetap berjalan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-102"
+ },
+ {
+  "q": "Pengembangan kompetensi ASN minimal yang menjadi hak pegawai per tahun adalah:",
+  "opsi": [
+   "20 jam pelajaran (PNS)",
+   "2 jam",
+   "100 hari",
+   "Tidak diatur"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Sesuai ketentuan ASN, PNS berhak pengembangan kompetensi paling sedikit 20 JP/tahun (dan PPPK 24 JP/tahun), mendukung pembelajaran berkelanjutan.",
+  "kompetensi": "manajerial",
+  "id": "MJ-103"
+ }
+]
