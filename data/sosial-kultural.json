@@ -1,0 +1,977 @@
+[
+ {
+  "id": "SK-001",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam bekerja di lingkungan multikultural, seorang ASN harus mampu:",
+  "opsi": [
+   "Menyesuaikan budaya sendiri pada lingkungan",
+   "Menghindari perbedaan",
+   "Menghargai dan memahami keragaman budaya",
+   "Menghindari interaksi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menghargai dan memahami keragaman budaya. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-002",
+  "kompetensi": "sosial-kultural",
+  "q": "Ketika rekan kerja memiliki latar belakang budaya berbeda, kita sebaiknya:",
+  "opsi": [
+   "Mengajak mereka mengikuti budaya kita",
+   "Menghindari kerja sama",
+   "Menunjukkan sikap empati dan terbuka",
+   "Menilai mereka secara negatif"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menunjukkan sikap empati dan terbuka. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-003",
+  "kompetensi": "sosial-kultural",
+  "q": "Sikap menghargai perbedaan agama, suku, dan bahasa termasuk bagian dari:",
+  "opsi": [
+   "Etika bisnis",
+   "Kemampuan manajerial",
+   "Kompetensi sosial kultural",
+   "Strategi komunikasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kompetensi sosial kultural. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-004",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam menghadapi masyarakat lokal saat penugasan di daerah, ASN harus:",
+  "opsi": [
+   "Mengutamakan standar pusat",
+   "Tidak perlu berinteraksi",
+   "Menghargai adat dan nilai setempat",
+   "Memberi perintah langsung"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menghargai adat dan nilai setempat. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-005",
+  "kompetensi": "sosial-kultural",
+  "q": "Kunci utama membangun hubungan baik di lingkungan kerja yang heterogen adalah:",
+  "opsi": [
+   "Dominasi budaya mayoritas",
+   "Penyeragaman nilai",
+   "Toleransi dan komunikasi terbuka",
+   "Kompetisi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Toleransi dan komunikasi terbuka. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-006",
+  "kompetensi": "sosial-kultural",
+  "q": "Ketika ASN ditugaskan ke daerah terpencil dengan budaya asing baginya, yang seharusnya dilakukan adalah:",
+  "opsi": [
+   "Menolak tugas tersebut",
+   "Memaksakan budaya kota",
+   "Belajar dan menyesuaikan diri",
+   "Tetap menggunakan bahasa ibu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Belajar dan menyesuaikan diri. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-007",
+  "kompetensi": "sosial-kultural",
+  "q": "Contoh konkret penerapan sikap inklusif di tempat kerja adalah:",
+  "opsi": [
+   "Menghindari pegawai berbeda agama",
+   "Mengundang semua staf dalam diskusi tanpa diskriminasi",
+   "Memilih rekan kerja dari kelompok yang sama",
+   "Menolak usulan dari minoritas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengundang semua staf dalam diskusi tanpa diskriminasi. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-008",
+  "kompetensi": "sosial-kultural",
+  "q": "Keragaman sosial budaya di Indonesia menjadi kekuatan apabila:",
+  "opsi": [
+   "Diseragamkan",
+   "Dihindari dalam kerja sama",
+   "Dikelola dengan prinsip persatuan dan toleransi",
+   "Dipisahkan dalam tim kerja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dikelola dengan prinsip persatuan dan toleransi. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-009",
+  "kompetensi": "sosial-kultural",
+  "q": "ASN yang mampu bekerja efektif dengan berbagai kalangan menunjukkan:",
+  "opsi": [
+   "Kompetensi teknis",
+   "Kompetensi manajerial",
+   "Kompetensi sosial kultural",
+   "Kompetensi organisasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kompetensi sosial kultural. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-010",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam forum resmi yang melibatkan masyarakat lintas budaya, komunikasi yang baik harus bersifat:",
+  "opsi": [
+   "Sepihak dan tegas",
+   "Formal dan tanpa tanya jawab",
+   "Terbuka, adaptif, dan menghargai budaya",
+   "Seragam dan tersusun"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Terbuka, adaptif, dan menghargai budaya. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-011",
+  "kompetensi": "sosial-kultural",
+  "q": "Jika ada rekan kerja yang mengalami diskriminasi, tindakan kita sebaiknya:",
+  "opsi": [
+   "Menjauh",
+   "Mengabaikan",
+   "Memberi dukungan dan melaporkan ke atasan",
+   "Ikut membenarkan diskriminasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberi dukungan dan melaporkan ke atasan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-012",
+  "kompetensi": "sosial-kultural",
+  "q": "ASN yang peka terhadap keberagaman akan selalu:",
+  "opsi": [
+   "Fokus pada budaya sendiri",
+   "Menghindari kerjasama dengan kelompok lain",
+   "Menghormati dan menghargai perbedaan",
+   "Mencari kesamaan latar belakang"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menghormati dan menghargai perbedaan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-013",
+  "kompetensi": "sosial-kultural",
+  "q": "Sikap empati dalam lingkungan kerja multicultural adalah:",
+  "opsi": [
+   "Merasa kasihan terhadap minoritas",
+   "Menghindari pergaulan",
+   "Mampu memahami dan merasakan dari sudut pandang orang lain",
+   "Menyamakan budaya"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mampu memahami dan merasakan dari sudut pandang orang lain. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-014",
+  "kompetensi": "sosial-kultural",
+  "q": "Tantangan utama dalam lingkungan kerja yang beragam adalah:",
+  "opsi": [
+   "Komunikasi dan pemahaman antarbudaya",
+   "Jam kerja",
+   "Gaji yang berbeda",
+   "Jarak tempat tinggal"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Komunikasi dan pemahaman antarbudaya. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-015",
+  "kompetensi": "sosial-kultural",
+  "q": "Cara ASN membangun hubungan sosial yang positif adalah dengan:",
+  "opsi": [
+   "Mengisolasi diri dari kelompok berbeda",
+   "Memaksakan pandangan pribadi",
+   "Menjaga sikap terbuka dan saling menghargai",
+   "Mencari keuntungan sendiri"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menjaga sikap terbuka dan saling menghargai. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-016",
+  "kompetensi": "sosial-kultural",
+  "q": "Contoh pelanggaran terhadap etika sosial budaya dalam kerja adalah:",
+  "opsi": [
+   "Mengucapkan salam",
+   "Menggunakan bahasa daerah",
+   "Melecehkan simbol budaya rekan kerja",
+   "Mengikuti upacara lokal"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melecehkan simbol budaya rekan kerja. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-017",
+  "kompetensi": "sosial-kultural",
+  "q": "Mengapa penting bagi ASN memahami budaya lokal tempat bertugas?",
+  "opsi": [
+   "Agar bisa menguasai masyarakat",
+   "Untuk menunjukkan keunggulan budaya sendiri",
+   "Untuk membangun hubungan kerja yang efektif dan harmonis",
+   "Agar bisa lebih cepat pulang"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Untuk membangun hubungan kerja yang efektif dan harmonis. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-018",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam kerja tim yang heterogen, pengambilan keputusan sebaiknya:",
+  "opsi": [
+   "Diambil oleh kelompok mayoritas",
+   "Dihindari",
+   "Melibatkan semua pihak dengan adil",
+   "Diambil sendiri oleh ketua"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melibatkan semua pihak dengan adil. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-019",
+  "kompetensi": "sosial-kultural",
+  "q": "Contoh inklusivitas dalam rapat adalah:",
+  "opsi": [
+   "Hanya memberi waktu bicara pada pegawai senior",
+   "Menolak ide dari latar belakang berbeda",
+   "Mendorong semua anggota untuk menyampaikan pendapat",
+   "Menyuruh diam peserta yang berbeda"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mendorong semua anggota untuk menyampaikan pendapat. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-020",
+  "kompetensi": "sosial-kultural",
+  "q": "Prinsip “Bhinneka Tunggal Ika” mendorong ASN untuk:",
+  "opsi": [
+   "Menyamakan semua budaya",
+   "Menghindari konflik",
+   "Menghargai perbedaan dalam kebersamaan",
+   "Menganut satu budaya saja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menghargai perbedaan dalam kebersamaan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-021",
+  "kompetensi": "sosial-kultural",
+  "q": "Jika terjadi kesalahpahaman karena perbedaan budaya, ASN sebaiknya:",
+  "opsi": [
+   "Meminta maaf dan mencari pemahaman bersama",
+   "Menyalahkan pihak lain",
+   "Menghindari interaksi selanjutnya",
+   "Melaporkan langsung ke media"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Meminta maaf dan mencari pemahaman bersama. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-022",
+  "kompetensi": "sosial-kultural",
+  "q": "Kunci keberhasilan pelayanan publik dalam masyarakat multikultural adalah:",
+  "opsi": [
+   "Ketegasan dan ketatnya aturan",
+   "Kecepatan pelayanan",
+   "Empati, komunikasi, dan penghargaan terhadap nilai lokal",
+   "Seragamnya petugas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Empati, komunikasi, dan penghargaan terhadap nilai lokal. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-023",
+  "kompetensi": "sosial-kultural",
+  "q": "Pelatihan keberagaman (diversity training) bagi ASN bermanfaat untuk:",
+  "opsi": [
+   "Menambah tunjangan",
+   "Menyeragamkan cara pikir",
+   "Meningkatkan kesadaran dan sensitivitas terhadap keberagaman",
+   "Mengubah budaya kerja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan kesadaran dan sensitivitas terhadap keberagaman. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-024",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam situasi konflik budaya, sikap yang paling tepat adalah:",
+  "opsi": [
+   "Netral tanpa pendapat",
+   "Menyalahkan pihak yang berbeda",
+   "Menjadi penengah dan mencari solusi bersama",
+   "Menghindar dari masalah"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menjadi penengah dan mencari solusi bersama. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-025",
+  "kompetensi": "sosial-kultural",
+  "q": "Ketika menerima tamu dari latar budaya yang berbeda, sikap ASN harus:",
+  "opsi": [
+   "Formil dan kaku",
+   "Menunjukkan keunggulan budaya sendiri",
+   "Ramah, terbuka, dan menghargai budaya mereka",
+   "Mengabaikan adat istiadat mereka"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Ramah, terbuka, dan menghargai budaya mereka. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-026",
+  "kompetensi": "sosial-kultural",
+  "q": "ASN sebagai pelayan publik diharapkan:",
+  "opsi": [
+   "Netral secara sosial",
+   "Hanya melayani kelompok tertentu",
+   "Melayani dengan adil dan menghormati semua kalangan",
+   "Memilih pelanggan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melayani dengan adil dan menghormati semua kalangan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-027",
+  "kompetensi": "sosial-kultural",
+  "q": "Penggunaan istilah yang sensitif terhadap budaya tertentu dalam komunikasi publik harus:",
+  "opsi": [
+   "Diperbanyak",
+   "Dihindari",
+   "Diperkuat",
+   "Dijadikan humor"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Dihindari. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-028",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam perayaan hari besar keagamaan di kantor, ASN sebaiknya:",
+  "opsi": [
+   "Ikut merayakan semua dengan tulus",
+   "Menghindari karena bukan agamanya",
+   "Menolak undangan",
+   "Membuat batasan kaku"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Ikut merayakan semua dengan tulus. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-029",
+  "kompetensi": "sosial-kultural",
+  "q": "Contoh empati budaya di tempat kerja adalah:",
+  "opsi": [
+   "Mengabaikan perbedaan",
+   "Meminta semua orang menyesuaikan",
+   "Bertanya dan mencoba memahami kebiasaan orang lain",
+   "Menghindari pembicaraan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bertanya dan mencoba memahami kebiasaan orang lain. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-030",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam program sosialisasi pemerintah ke daerah, bahasa yang digunakan sebaiknya:",
+  "opsi": [
+   "Bahasa Inggris saja",
+   "Bahasa daerah atau bahasa Indonesia yang mudah dipahami",
+   "Bahasa hukum resmi",
+   "Bahasa teknis"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Bahasa daerah atau bahasa Indonesia yang mudah dipahami. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-031",
+  "kompetensi": "sosial-kultural",
+  "q": "Ketika warga lokal menyampaikan masukan dengan adat dan gaya khasnya, ASN sebaiknya:",
+  "opsi": [
+   "Menyela dengan bahasa formal",
+   "Mendengarkan dengan empati dan hormat",
+   "Mengabaikan karena tidak sesuai standar",
+   "Menertawakan logat mereka"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mendengarkan dengan empati dan hormat. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-032",
+  "kompetensi": "sosial-kultural",
+  "q": "Mengakomodasi kebutuhan budaya berbeda dalam kebijakan layanan publik adalah contoh dari:",
+  "opsi": [
+   "Toleransi pasif",
+   "Diskriminasi",
+   "Inklusivitas",
+   "Pengabaian"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Inklusivitas. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-033",
+  "kompetensi": "sosial-kultural",
+  "q": "Salah satu tujuan dari kompetensi sosial kultural ASN adalah:",
+  "opsi": [
+   "Menyeragamkan semua orang",
+   "Menghindari konflik budaya",
+   "Meningkatkan pelayanan yang adil dan setara untuk semua",
+   "Meningkatkan pendapatan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan pelayanan yang adil dan setara untuk semua. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-034",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam diskusi publik, ASN harus bisa menyampaikan pendapat dengan:",
+  "opsi": [
+   "Nada tinggi agar dominan",
+   "Bahasa yang provokatif",
+   "Bahasa santun dan mudah dipahami oleh semua lapisan",
+   "Bahasa akademik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bahasa santun dan mudah dipahami oleh semua lapisan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-035",
+  "kompetensi": "sosial-kultural",
+  "q": "Jika ASN ditempatkan di daerah baru, langkah awal yang bijak adalah:",
+  "opsi": [
+   "Menegaskan posisi sebagai pejabat",
+   "Menyendiri dan menonton",
+   "Membangun hubungan sosial dengan tokoh masyarakat",
+   "Mengkritik kebiasaan setempat"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Membangun hubungan sosial dengan tokoh masyarakat. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-036",
+  "kompetensi": "sosial-kultural",
+  "q": "Komunikasi antarbudaya yang baik memerlukan:",
+  "opsi": [
+   "Asumsi dan penilaian pribadi",
+   "Penyesuaian bahasa, sikap, dan pemahaman nilai",
+   "Bahasa resmi dan baku saja",
+   "Minim interaksi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Penyesuaian bahasa, sikap, dan pemahaman nilai. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-037",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam tim kerja lintas generasi dan budaya, koordinasi akan berjalan baik jika:",
+  "opsi": [
+   "Perbedaan diabaikan",
+   "Diskusi tidak diperlukan",
+   "Ada saling pengertian dan kesepakatan",
+   "Yang muda mengikuti yang tua"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Ada saling pengertian dan kesepakatan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-038",
+  "kompetensi": "sosial-kultural",
+  "q": "Sikap inklusif dalam pelayanan publik mencerminkan:",
+  "opsi": [
+   "Pelayanan khusus",
+   "Netralitas berlebihan",
+   "Komitmen terhadap keadilan dan keterbukaan",
+   "Keterbatasan sumber daya"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Komitmen terhadap keadilan dan keterbukaan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-039",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam menyusun program berbasis masyarakat, penting untuk:",
+  "opsi": [
+   "Hanya mendengarkan tokoh penting",
+   "Menghindari diskusi",
+   "Melibatkan berbagai kelompok dan mendengar suara mereka",
+   "Menyalin program lama"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melibatkan berbagai kelompok dan mendengar suara mereka. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-040",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam menghadapi ujaran kebencian berbasis SARA, ASN sebaiknya:",
+  "opsi": [
+   "Membiarkannya",
+   "Membalas dengan tegas",
+   "Melaporkan sesuai prosedur dan menjaga netralitas",
+   "Ikut menyebarkan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Melaporkan sesuai prosedur dan menjaga netralitas. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-041",
+  "kompetensi": "sosial-kultural",
+  "q": "Pentingnya memahami perbedaan gaya komunikasi antar budaya adalah agar:",
+  "opsi": [
+   "Bisa menghindar",
+   "Tidak terjadi kesalahan interpretasi",
+   "Menjadi lebih tinggi kedudukannya",
+   "Bisa menguasai rapat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Tidak terjadi kesalahan interpretasi. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-042",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam kerja tim multikultural, keberhasilan ditentukan oleh:",
+  "opsi": [
+   "Keseragaman ide",
+   "Budaya mayoritas",
+   "Kolaborasi yang setara dan saling menghargai",
+   "Kepemimpinan tunggal"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kolaborasi yang setara dan saling menghargai. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-043",
+  "kompetensi": "sosial-kultural",
+  "q": "Jika seorang ASN tidak memahami budaya setempat, bisa terjadi:",
+  "opsi": [
+   "Inovasi baru",
+   "Konflik dan kesalahpahaman",
+   "Kenaikan pangkat",
+   "Peningkatan layanan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Konflik dan kesalahpahaman. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-044",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam forum lintas budaya, bahasa tubuh yang terlalu agresif bisa dianggap:",
+  "opsi": [
+   "Ramah",
+   "Profesional",
+   "Mengancam atau tidak sopan",
+   "Wajar"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengancam atau tidak sopan. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-045",
+  "kompetensi": "sosial-kultural",
+  "q": "Strategi untuk membangun keharmonisan antar budaya adalah:",
+  "opsi": [
+   "Penyeragaman sikap",
+   "Diskusi terbuka dan pelibatan aktif semua pihak",
+   "Dominasi budaya tertentu",
+   "Pemisahan kelompok"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Diskusi terbuka dan pelibatan aktif semua pihak. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-046",
+  "kompetensi": "sosial-kultural",
+  "q": "ASN yang toleran akan selalu:",
+  "opsi": [
+   "Memaksakan cara sendiri",
+   "Mendengarkan dan memahami tanpa menghakimi",
+   "Menghindari diskusi",
+   "Bekerja sendiri"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mendengarkan dan memahami tanpa menghakimi. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-047",
+  "kompetensi": "sosial-kultural",
+  "q": "Pelayanan publik berbasis keberagaman akan:",
+  "opsi": [
+   "Memperlambat proses",
+   "Menimbulkan diskriminasi",
+   "Memenuhi kebutuhan masyarakat secara menyeluruh",
+   "Menimbulkan konflik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memenuhi kebutuhan masyarakat secara menyeluruh. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-048",
+  "kompetensi": "sosial-kultural",
+  "q": "Dalam pergaulan kerja multikultural, kita perlu menghindari:",
+  "opsi": [
+   "Humor",
+   "Percakapan",
+   "Stereotip dan prasangka",
+   "Kerja sama"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Stereotip dan prasangka. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-049",
+  "kompetensi": "sosial-kultural",
+  "q": "Meningkatkan sensitivitas budaya bisa dilakukan dengan:",
+  "opsi": [
+   "Menonton film luar negeri saja",
+   "Menghadiri pelatihan keberagaman dan terlibat aktif",
+   "Membaca undang-undang",
+   "Menghindari kelompok tertentu"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menghadiri pelatihan keberagaman dan terlibat aktif. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "SK-050",
+  "kompetensi": "sosial-kultural",
+  "q": "ASN yang mampu memahami keragaman sosial budaya akan lebih mudah:",
+  "opsi": [
+   "Menerima promosi",
+   "Beradaptasi dan memberikan pelayanan prima",
+   "Menjadi pimpinan",
+   "Menyesuaikan gaji"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Beradaptasi dan memberikan pelayanan prima. Opsi ini paling sesuai dengan sikap menghargai keberagaman, toleransi, dan pelayanan publik yang inklusif, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "q": "Semboyan 'Bhinneka Tunggal Ika' bersumber dari kitab:",
+  "opsi": [
+   "Negarakertagama",
+   "Sutasoma",
+   "Pararaton",
+   "Arjunawiwaha"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Bhinneka Tunggal Ika berasal dari Kakawin Sutasoma karya Mpu Tantular, bermakna berbeda-beda tetapi tetap satu.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-051"
+ },
+ {
+  "q": "Sikap ASN dalam menghadapi keberagaman suku, agama, dan budaya seharusnya:",
+  "opsi": [
+   "Menyeragamkan semua",
+   "Menghargai dan mengelola perbedaan sebagai kekuatan",
+   "Menghindari kelompok berbeda",
+   "Mengutamakan kelompok mayoritas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kompetensi sosial kultural menuntut ASN menghargai keberagaman dan menjadikannya modal kebersamaan, bukan menyeragamkan atau mendiskriminasi.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-052"
+ },
+ {
+  "q": "Empati budaya (cultural empathy) berarti kemampuan untuk:",
+  "opsi": [
+   "Mengasihani kelompok minoritas",
+   "Memahami dan merasakan situasi dari sudut pandang budaya orang lain",
+   "Menyamakan semua budaya",
+   "Mengabaikan perbedaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Empati budaya adalah kemampuan menempatkan diri pada perspektif budaya orang lain untuk memahami nilai dan kebiasaannya secara hormat.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-053"
+ },
+ {
+  "q": "Pelayanan publik yang inklusif berarti:",
+  "opsi": [
+   "Melayani hanya kelompok tertentu",
+   "Memberikan layanan yang adil dan setara bagi semua warga tanpa diskriminasi",
+   "Mengutamakan yang membayar lebih",
+   "Menyulitkan kelompok rentan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Inklusivitas menjamin akses layanan yang setara bagi semua kalangan, termasuk penyandang disabilitas dan kelompok rentan.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-054"
+ },
+ {
+  "q": "Ketika ditugaskan di daerah dengan budaya yang asing, langkah awal ASN yang bijak adalah:",
+  "opsi": [
+   "Memaksakan kebiasaan asalnya",
+   "Belajar dan menyesuaikan diri dengan adat serta nilai setempat",
+   "Menghindari interaksi",
+   "Mengkritik kebiasaan lokal"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Adaptasi budaya dimulai dengan mempelajari dan menghormati adat setempat agar terbangun hubungan kerja yang harmonis dan efektif.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-055"
+ },
+ {
+  "q": "Toleransi dalam kehidupan berbangsa diwujudkan dengan:",
+  "opsi": [
+   "Memaksakan keyakinan sendiri",
+   "Menghormati hak orang lain menjalankan keyakinan dan adatnya",
+   "Menghindari perbedaan",
+   "Mendominasi diskusi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Toleransi adalah sikap menghargai dan membiarkan orang lain menjalankan keyakinan/kebiasaannya selama tidak melanggar hukum dan hak orang lain.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-056"
+ },
+ {
+  "q": "Dalam komunikasi antarbudaya, kesalahpahaman sering terjadi karena:",
+  "opsi": [
+   "Bahasa tubuh dan makna kata yang berbeda antar budaya",
+   "Terlalu banyak data",
+   "Ruangan yang sempit",
+   "Waktu yang singkat"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Perbedaan bahasa, simbol, dan bahasa tubuh dapat menimbulkan misinterpretasi; karena itu dibutuhkan kepekaan dan klarifikasi.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-057"
+ },
+ {
+  "q": "Wawasan Nusantara adalah cara pandang bangsa Indonesia tentang:",
+  "opsi": [
+   "Persaingan antardaerah",
+   "Diri dan lingkungannya sebagai satu kesatuan wilayah, bangsa, dan budaya",
+   "Keunggulan satu suku",
+   "Pemisahan wilayah"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Wawasan Nusantara menekankan kesatuan wilayah, bangsa, dan kebudayaan demi persatuan NKRI.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-058"
+ },
+ {
+  "q": "Sikap yang tepat saat rekan kerja merayakan hari besar agamanya yang berbeda adalah:",
+  "opsi": [
+   "Menolak menghormati",
+   "Menghormati dan memberikan ucapan/dukungan yang pantas",
+   "Mengabaikan",
+   "Melarang perayaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Menghormati perayaan keagamaan rekan kerja mencerminkan toleransi dan harmoni di lingkungan kerja yang beragam.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-059"
+ },
+ {
+  "q": "Ujaran kebencian berbasis SARA harus disikapi ASN dengan:",
+  "opsi": [
+   "Ikut menyebarkan",
+   "Menolak, tidak menyebarkan, dan melaporkan sesuai prosedur",
+   "Membiarkan",
+   "Membalas dengan ujaran serupa"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ASN wajib netral dan menjaga persatuan; ujaran kebencian SARA harus dihentikan penyebarannya dan dilaporkan melalui saluran resmi.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-060"
+ },
+ {
+  "q": "Penggunaan bahasa dalam sosialisasi program ke masyarakat daerah sebaiknya:",
+  "opsi": [
+   "Bahasa teknis dan asing",
+   "Bahasa yang mudah dipahami, bila perlu bahasa daerah",
+   "Bahasa hukum yang rumit",
+   "Istilah yang membingungkan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Komunikasi publik yang efektif menyesuaikan bahasa dengan audiens agar pesan mudah dipahami semua lapisan masyarakat.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-061"
+ },
+ {
+  "q": "Gotong royong sebagai nilai sosial budaya bangsa mencerminkan:",
+  "opsi": [
+   "Individualisme",
+   "Kerja sama dan solidaritas untuk kepentingan bersama",
+   "Persaingan",
+   "Ketergantungan pada satu orang"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Gotong royong adalah nilai luhur kebersamaan dan kerja sama sukarela demi kepentingan bersama, fondasi kohesi sosial.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-062"
+ },
+ {
+  "q": "Pancasila sebagai dasar negara menempatkan keberagaman dalam sila:",
+  "opsi": [
+   "Sila ke-3, Persatuan Indonesia",
+   "Sila ke-1 saja",
+   "Sila ke-5 saja",
+   "Tidak ada"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Sila ke-3 'Persatuan Indonesia' menegaskan persatuan di atas keberagaman; nilai keadilan dan kemanusiaan juga menopang harmoni sosial.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-063"
+ },
+ {
+  "q": "Stereotip negatif terhadap kelompok tertentu sebaiknya dihindari karena:",
+  "opsi": [
+   "Mempercepat keputusan",
+   "Menimbulkan prasangka dan diskriminasi yang tidak adil",
+   "Membuat populer",
+   "Menghemat waktu"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Stereotip menggeneralisasi secara keliru dan memicu prasangka serta diskriminasi, bertentangan dengan keadilan dan inklusivitas.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-064"
+ },
+ {
+  "q": "Saat terjadi konflik antarbudaya dalam tim, peran ASN yang ideal adalah:",
+  "opsi": [
+   "Memihak satu kelompok",
+   "Menjadi penengah yang adil dan mencari solusi bersama",
+   "Menghindari masalah",
+   "Memperbesar konflik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ASN sebaiknya bersikap netral, menjembatani perbedaan, dan memfasilitasi solusi yang diterima semua pihak (win-win).",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-065"
+ },
+ {
+  "q": "Sensitivitas gender di tempat kerja diwujudkan dengan:",
+  "opsi": [
+   "Membedakan kesempatan berdasarkan jenis kelamin",
+   "Memberi kesempatan dan perlakuan setara tanpa diskriminasi gender",
+   "Mengabaikan kebutuhan khusus",
+   "Membatasi peran perempuan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kesetaraan gender memberi kesempatan, perlakuan, dan akses yang setara serta mengakomodasi kebutuhan spesifik secara adil.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-066"
+ },
+ {
+  "q": "Nilai 'tepa selira' dalam budaya Indonesia berarti:",
+  "opsi": [
+   "Tegas tanpa kompromi",
+   "Tenggang rasa, mampu merasakan perasaan orang lain",
+   "Mementingkan diri sendiri",
+   "Menghindari interaksi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tepa selira adalah sikap tenggang rasa dan menghargai perasaan orang lain, mendukung keharmonisan sosial.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-067"
+ },
+ {
+  "q": "Dalam melayani masyarakat penyandang disabilitas, ASN harus:",
+  "opsi": [
+   "Mengabaikan kebutuhan mereka",
+   "Menyediakan aksesibilitas dan pelayanan yang ramah serta setara",
+   "Menyuruh menunggu paling akhir",
+   "Menolak melayani"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pelayanan inklusif wajib menjamin aksesibilitas dan perlakuan setara bagi penyandang disabilitas sesuai amanat undang-undang.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-068"
+ },
+ {
+  "q": "Mengakomodasi kebutuhan budaya berbeda dalam kebijakan layanan publik merupakan contoh:",
+  "opsi": [
+   "Diskriminasi",
+   "Inklusivitas dan kepekaan sosial budaya",
+   "Pengabaian",
+   "Penyeragaman paksa"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Mengakomodasi keragaman kebutuhan budaya mencerminkan inklusivitas dan responsivitas layanan terhadap masyarakat yang majemuk.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-069"
+ },
+ {
+  "q": "Netralitas ASN dalam kehidupan sosial-politik berarti:",
+  "opsi": [
+   "Berpihak pada partai tertentu",
+   "Tidak memihak dan melayani semua golongan secara adil",
+   "Aktif berkampanye",
+   "Mengarahkan pilihan masyarakat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ASN wajib netral, bebas dari pengaruh dan keberpihakan politik, serta melayani seluruh masyarakat secara adil.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-070"
+ },
+ {
+  "q": "Komunikasi lintas budaya yang efektif memerlukan:",
+  "opsi": [
+   "Asumsi pribadi",
+   "Mendengar aktif, keterbukaan, dan penyesuaian terhadap nilai budaya lawan bicara",
+   "Dominasi pembicaraan",
+   "Menghakimi cepat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Efektivitas komunikasi antarbudaya bergantung pada mendengar aktif, empati, keterbukaan, dan kemampuan menyesuaikan gaya komunikasi.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-071"
+ },
+ {
+  "q": "Kearifan lokal (local wisdom) sebaiknya diperlakukan ASN sebagai:",
+  "opsi": [
+   "Penghambat pembangunan",
+   "Sumber nilai dan solusi yang dapat diintegrasikan dalam kebijakan",
+   "Hal yang harus dihapus",
+   "Tidak relevan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kearifan lokal menyimpan nilai dan praktik yang dapat memperkuat kebijakan agar selaras dengan konteks masyarakat setempat.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-072"
+ },
+ {
+  "q": "Diversity di tempat kerja dapat menjadi kekuatan apabila:",
+  "opsi": [
+   "Diabaikan",
+   "Dikelola dengan inklusi sehingga beragam perspektif berkontribusi",
+   "Disembunyikan",
+   "Menjadi sumber pemisahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Keberagaman yang dikelola secara inklusif menghadirkan beragam ide dan perspektif yang memperkaya solusi dan inovasi.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-073"
+ },
+ {
+  "q": "Saat warga menyampaikan keluhan dengan logat dan gaya khas daerahnya, ASN sebaiknya:",
+  "opsi": [
+   "Menertawakan logatnya",
+   "Mendengarkan dengan hormat dan empati",
+   "Mengabaikan",
+   "Menyela dengan bahasa formal"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Menghargai cara penyampaian warga tanpa merendahkan logat/budayanya adalah wujud pelayanan yang empatik dan menghormati keberagaman.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-074"
+ },
+ {
+  "q": "Integrasi sosial dalam masyarakat majemuk paling efektif dibangun melalui:",
+  "opsi": [
+   "Pemisahan kelompok",
+   "Dialog, kerja sama, dan rasa saling percaya antarkelompok",
+   "Dominasi satu budaya",
+   "Persaingan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Integrasi sosial tumbuh dari interaksi positif, dialog, kolaborasi, dan kepercayaan yang melintasi batas kelompok.",
+  "kompetensi": "sosial-kultural",
+  "id": "SK-075"
+ }
+]
