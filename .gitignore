@@ -1,0 +1,10 @@
+# OS / editor
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Vercel
+.vercel
+
+# Sumber PDF (besar, bukan bagian web)
+*.pdf
