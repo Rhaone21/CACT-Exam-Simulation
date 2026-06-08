@@ -1,0 +1,222 @@
+[
+ {
+  "q": "Anda menerima email yang tampak dari pimpinan, meminta transfer dana segera dengan alasan mendesak dan rahasia. Ciri ini paling mengindikasikan serangan:",
+  "opsi": [
+   "Ransomware",
+   "Business Email Compromise / spear phishing",
+   "Serangan DDoS (Distributed Denial of Service)",
+   "SQL injection (penyuntikan perintah Structured Query Language)"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Email penyamaran pimpinan dengan tekanan urgensi-kerahasiaan untuk transfer dana adalah ciri Business Email Compromise (spear phishing tertarget). Verifikasi melalui kanal terpisah wajib sebelum bertindak."
+ },
+ {
+  "q": "Prinsip keamanan informasi 'CIA triad' terdiri atas Confidentiality, Integrity, dan:",
+  "opsi": [
+   "Authentication",
+   "Availability",
+   "Authorization",
+   "Accountability"
+  ],
+  "jawaban": 1,
+  "pembahasan": "CIA triad = Confidentiality (kerahasiaan), Integrity (keutuhan), Availability (ketersediaan). Authentication/authorization/accountability penting namun bukan komponen segitiga CIA itu sendiri."
+ },
+ {
+  "q": "Untuk melindungi akun dari pencurian kata sandi, mekanisme yang menambah lapisan verifikasi kedua (mis. kode OTP/One-Time Password atau aplikasi authenticator) disebut:",
+  "opsi": [
+   "Single sign-on",
+   "Autentikasi multifaktor (MFA)",
+   "Enkripsi simetris",
+   "Captcha"
+  ],
+  "jawaban": 1,
+  "pembahasan": "MFA mensyaratkan dua faktor atau lebih (sesuatu yang diketahui/dimiliki/melekat), sehingga password yang bocor saja tidak cukup untuk masuk. SSO menyatukan login, bukan menambah faktor."
+ },
+ {
+  "q": "Sebuah situs menampilkan gembok dan 'https'. Hal ini menjamin:",
+  "opsi": [
+   "Situs pasti bukan penipuan",
+   "Komunikasi terenkripsi saat transit, tetapi tidak menjamin kredibilitas pemilik situs",
+   "Data Anda tidak akan pernah disalahgunakan",
+   "Situs bebas malware"
+  ],
+  "jawaban": 1,
+  "pembahasan": "HTTPS (HyperText Transfer Protocol Secure)/TLS (Transport Layer Security) mengenkripsi data dalam perjalanan dan memverifikasi domain, tetapi situs phishing pun bisa memakai HTTPS. Gembok bukan jaminan kejujuran pemilik atau bebas malware."
+ },
+ {
+  "q": "Menurut UU No. 27 Tahun 2022 tentang PDP (Pelindungan Data Pribadi), data seperti riwayat kesehatan, biometrik, dan orientasi politik termasuk kategori:",
+  "opsi": [
+   "Data pribadi umum",
+   "Data pribadi yang bersifat spesifik",
+   "Data publik terbuka",
+   "Metadata teknis"
+  ],
+  "jawaban": 1,
+  "pembahasan": "UU PDP membedakan data pribadi umum dan spesifik. Data kesehatan, biometrik, genetika, keuangan pribadi, orientasi seksual, pandangan politik, dan catatan kejahatan tergolong spesifik dengan perlindungan lebih ketat."
+ },
+ {
+  "q": "Anda menemukan kabar mengejutkan di media sosial. Langkah literasi digital paling tepat sebelum membagikannya adalah:",
+  "opsi": [
+   "Langsung membagikan karena penting",
+   "Memverifikasi sumber primer, tanggal, dan konteks melalui rujukan kredibel",
+   "Menilai benar karena banyak yang membagikan",
+   "Mempercayai karena ada gambar pendukung"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Verifikasi (cek sumber asli, tanggal, konteks, silang rujukan kredibel) adalah inti literasi digital sebelum menyebarkan. Popularitas atau adanya gambar bukan bukti kebenaran; gambar mudah dimanipulasi."
+ },
+ {
+  "q": "Teknik manipulasi yang memanfaatkan psikologi manusia (rasa percaya, takut, mendesak) untuk membocorkan informasi disebut:",
+  "opsi": [
+   "Brute force",
+   "Social engineering",
+   "Port scanning",
+   "Man-in-the-middle"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Social engineering mengeksploitasi faktor manusia (kepercayaan, otoritas, urgensi) ketimbang celah teknis. Phishing, pretexting, dan baiting adalah bentuknya. Pertahanan utamanya kesadaran pengguna."
+ },
+ {
+  "q": "Praktik 'data backup' yang tangguh mengikuti aturan 3-2-1, yang berarti:",
+  "opsi": [
+   "3 kata sandi, 2 admin, 1 server",
+   "3 salinan data, pada 2 jenis media berbeda, dengan 1 salinan di lokasi terpisah (offsite)",
+   "Backup 3 kali sehari setiap 2 jam ke 1 folder",
+   "3 pengguna mengakses 2 file 1 kali"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Aturan 3-2-1: simpan 3 salinan data, pada 2 media berbeda, dengan minimal 1 salinan offsite/terpisah. Ini melindungi dari kegagalan media, ransomware, dan bencana lokasi."
+ },
+ {
+  "q": "Sebuah model AI generatif menghasilkan jawaban yang terdengar meyakinkan namun faktanya salah. Fenomena ini dikenal sebagai:",
+  "opsi": [
+   "Overfitting",
+   "Halusinasi (hallucination)",
+   "Caching",
+   "Tokenisasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Halusinasi adalah keluaran AI yang fasih tetapi tidak akurat/tak berdasar fakta. Pengguna wajib memverifikasi keluaran AI terhadap sumber tepercaya, khususnya untuk keputusan publik."
+ },
+ {
+  "q": "Dalam etika penggunaan AI di instansi, mengunggah dokumen rahasia warga ke layanan AI publik berisiko karena:",
+  "opsi": [
+   "Memperlambat respons model",
+   "Data dapat tersimpan/terproses pihak ketiga dan melanggar kerahasiaan serta UU PDP",
+   "Mengurangi akurasi jawaban",
+   "Menghabiskan kuota internet"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Mengunggah data rahasia/pribadi ke layanan AI publik dapat membocorkan data ke pihak ketiga, melanggar kerahasiaan dan UU PDP. Gunakan layanan resmi yang menjamin perlindungan data atau anonimkan data."
+ },
+ {
+  "q": "Indikator awal bahwa sebuah situs adalah phishing yang paling andal diperiksa adalah:",
+  "opsi": [
+   "Logo instansi terlihat resmi",
+   "Alamat domain/URL (Uniform Resource Locator) yang tidak sesuai dengan domain resmi instansi",
+   "Halaman terlihat profesional",
+   "Adanya tombol 'login'"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Domain/URL adalah penanda paling andal: phishing memakai domain mirip namun berbeda (typosquatting). Logo dan tampilan profesional mudah ditiru, sehingga bukan indikator keaslian."
+ },
+ {
+  "q": "Konsep 'jejak digital' (digital footprint) penting bagi ASN (Aparatur Sipil Negara) karena:",
+  "opsi": [
+   "Hanya berlaku untuk akun anonim",
+   "Aktivitas dan unggahan daring dapat permanen, terlacak, dan memengaruhi reputasi serta integritas jabatan",
+   "Otomatis terhapus setelah logout",
+   "Tidak dapat diakses siapa pun"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jejak digital cenderung permanen dan dapat ditelusuri; unggahan ASN memengaruhi citra institusi dan netralitas. Kehati-hatian bermedia sosial adalah bagian dari integritas jabatan."
+ },
+ {
+  "q": "Ketika perangkat kerja terinfeksi ransomware yang mengenkripsi berkas, langkah pertama yang benar adalah:",
+  "opsi": [
+   "Segera membayar tebusan agar cepat pulih",
+   "Mengisolasi perangkat dari jaringan dan melaporkan ke tim keamanan/TI (Teknologi Informasi)",
+   "Memformat tanpa melapor",
+   "Menyebar peringatan ke seluruh grup publik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Respons insiden: putuskan perangkat dari jaringan untuk mencegah penyebaran, lalu laporkan ke tim TI/keamanan untuk penanganan dan pemulihan dari backup. Membayar tebusan tidak menjamin pemulihan dan mendanai pelaku."
+ },
+ {
+  "q": "Literasi data menuntut kemampuan membaca grafik secara kritis. Grafik batang dengan sumbu Y yang tidak dimulai dari nol berisiko:",
+  "opsi": [
+   "Selalu salah secara matematis",
+   "Melebih-lebihkan perbedaan antarkategori secara visual sehingga menyesatkan",
+   "Membuat data tidak terbaca",
+   "Menghapus sebagian data"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Sumbu yang dipotong (tidak dari nol) dapat membesar-besarkan selisih secara visual, menyesatkan pembaca meski angkanya benar. Literasi data menuntut kewaspadaan terhadap manipulasi visualisasi."
+ },
+ {
+  "q": "Penggunaan kata sandi yang kuat dan unik per akun paling efisien dikelola dengan:",
+  "opsi": [
+   "Menyimpan di catatan tempel di meja",
+   "Menggunakan password manager tepercaya",
+   "Memakai satu sandi sama untuk semua akun",
+   "Menyimpan di file teks tanpa proteksi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Password manager menghasilkan dan menyimpan sandi unik-kuat secara terenkripsi, sehingga pengguna cukup mengingat satu master password. Sandi seragam atau catatan terbuka sangat rawan."
+ },
+ {
+  "q": "Dalam konteks SPBE, 'berbagi pakai' (sharing) infrastruktur dan aplikasi bertujuan utama untuk:",
+  "opsi": [
+   "Menambah jumlah server tiap instansi",
+   "Efisiensi sumber daya dan mengurangi duplikasi pembangunan sistem",
+   "Memperlambat integrasi",
+   "Membatasi akses antarinstansi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Berbagi pakai (shared services) dalam SPBE menekan duplikasi, menghemat anggaran, dan mendorong integrasi layanan. Tiap instansi tak perlu membangun ulang sistem serupa."
+ },
+ {
+  "q": "Bias algoritmik dalam sistem AI pelayanan publik dapat muncul ketika:",
+  "opsi": [
+   "Data pelatihan beragam dan representatif",
+   "Data pelatihan mencerminkan ketimpangan historis sehingga keputusan otomatis memperkuat diskriminasi",
+   "Model diuji lintas kelompok",
+   "Hasil dievaluasi transparan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Bias algoritmik timbul saat data latih mengandung bias historis; model lalu mereproduksi/mengamplifikasi ketidakadilan. Mitigasi: data representatif, audit keadilan, transparansi, dan pengawasan manusia."
+ },
+ {
+  "q": "Praktik 'shadow IT' (TI bayangan) di instansi, yaitu pegawai memakai aplikasi/cloud pribadi untuk data kerja tanpa izin, berbahaya karena:",
+  "opsi": [
+   "Meningkatkan kontrol keamanan resmi",
+   "Data kerja keluar dari kendali dan kebijakan keamanan instansi, menambah risiko kebocoran",
+   "Mempercepat audit keamanan",
+   "Tidak berdampak apa pun"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Shadow IT memindahkan data ke layanan tak terkelola, di luar kontrol keamanan dan kepatuhan instansi, memperbesar risiko kebocoran dan pelanggaran PDP. Gunakan layanan resmi yang disetujui."
+ },
+ {
+  "q": "Ketika menilai kredibilitas sumber daring, metode 'lateral reading' berarti:",
+  "opsi": [
+   "Membaca seluruh isi situs itu sampai habis",
+   "Membuka tab lain untuk memeriksa reputasi sumber dari pihak independen",
+   "Hanya membaca judul",
+   "Mempercayai bila desainnya bagus"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Lateral reading—teknik pemeriksa fakta—meninggalkan halaman sumber sejenak untuk mengecek reputasinya lewat sumber independen lain, alih-alih menilai dari isi/desain situs itu sendiri."
+ },
+ {
+  "q": "Sebuah deepfake video pejabat beredar dan memicu kegaduhan. Sebagai ASN yang melek digital, sikap paling tepat adalah:",
+  "opsi": [
+   "Langsung menyebarkan untuk memperingatkan publik",
+   "Menahan diri, memverifikasi melalui kanal resmi, dan mengedukasi bahwa konten dapat dimanipulasi AI",
+   "Mempercayai karena wajah dan suara mirip",
+   "Mengabaikan tanpa klarifikasi apa pun"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Deepfake memanfaatkan AI untuk memalsukan wajah/suara secara meyakinkan. Respons melek digital: tidak ikut menyebar, verifikasi via sumber resmi, dan mengedukasi publik tentang risiko manipulasi sintetis. Kemiripan visual bukan bukti keaslian."
+ }
+]
