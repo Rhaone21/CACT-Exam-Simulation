@@ -1,0 +1,977 @@
+[
+ {
+  "id": "MD-001",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola diri berarti mampu:",
+  "opsi": [
+   "Mengatur orang lain",
+   "Menyuruh orang lain bekerja",
+   "Mengendalikan emosi, waktu, dan tanggung jawab pribadi",
+   "Mendelegasikan semua tugas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengendalikan emosi, waktu, dan tanggung jawab pribadi. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-002",
+  "kompetensi": "mengelola-diri",
+  "q": "Salah satu indikator pengelolaan emosi yang baik adalah:",
+  "opsi": [
+   "Meluapkan amarah di tempat umum",
+   "Menunda pekerjaan saat emosi",
+   "Menyampaikan perasaan dengan cara yang tepat dan profesional",
+   "Memendam kemarahan selamanya"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyampaikan perasaan dengan cara yang tepat dan profesional. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-003",
+  "kompetensi": "mengelola-diri",
+  "q": "Ketika menghadapi tekanan kerja tinggi, ASN yang mampu mengelola diri akan:",
+  "opsi": [
+   "Marah-marah",
+   "Menyerah",
+   "Mengatur napas, tetap tenang, dan menyusun prioritas",
+   "Pulang lebih awal"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengatur napas, tetap tenang, dan menyusun prioritas. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-004",
+  "kompetensi": "mengelola-diri",
+  "q": "Time management atau manajemen waktu membantu ASN untuk:",
+  "opsi": [
+   "Menunda pekerjaan",
+   "Menyelesaikan tugas dengan lebih efektif dan efisien",
+   "Mengurangi jam kerja",
+   "Mengalihkan tanggung jawab"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menyelesaikan tugas dengan lebih efektif dan efisien. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-005",
+  "kompetensi": "mengelola-diri",
+  "q": "Contoh pengelolaan diri yang baik saat menghadapi kritik adalah:",
+  "opsi": [
+   "Marah dan membalas",
+   "Menolak semua kritik",
+   "Mendengarkan, mengevaluasi, dan mengambil pelajaran",
+   "Mengabaikan kritik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mendengarkan, mengevaluasi, dan mengambil pelajaran. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-006",
+  "kompetensi": "mengelola-diri",
+  "q": "Dalam pengelolaan diri, refleksi diri bermanfaat untuk:",
+  "opsi": [
+   "Menyalahkan orang lain",
+   "Mencari kesalahan rekan kerja",
+   "Mengenali kelebihan dan kekurangan diri untuk perbaikan",
+   "Meninggalkan pekerjaan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengenali kelebihan dan kekurangan diri untuk perbaikan. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-007",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola stres secara sehat dapat dilakukan dengan cara berikut, kecuali:",
+  "opsi": [
+   "Olahraga",
+   "Tidur cukup",
+   "Minum alkohol",
+   "Berpikir positif"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Minum alkohol. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-008",
+  "kompetensi": "mengelola-diri",
+  "q": "Apa pentingnya menetapkan tujuan pribadi dalam bekerja?",
+  "opsi": [
+   "Membingungkan diri sendiri",
+   "Menambah tekanan",
+   "Memberi arah dan motivasi",
+   "Menyulitkan rekan kerja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberi arah dan motivasi. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-009",
+  "kompetensi": "mengelola-diri",
+  "q": "Ketika merasa kewalahan dengan banyak tugas, langkah terbaik adalah:",
+  "opsi": [
+   "Diam saja",
+   "Menyusun skala prioritas",
+   "Menolak semua",
+   "Mengeluh terus-menerus"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menyusun skala prioritas. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-010",
+  "kompetensi": "mengelola-diri",
+  "q": "Cara mengelola diri dalam menghadapi rekan kerja yang sulit adalah:",
+  "opsi": [
+   "Membalas dengan perlakuan buruk",
+   "Menghindarinya sepenuhnya",
+   "Menjaga komunikasi asertif dan profesional",
+   "Memprovokasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menjaga komunikasi asertif dan profesional. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-011",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola diri saat menghadapi kegagalan berarti:",
+  "opsi": [
+   "Menyalahkan keadaan",
+   "Berhenti mencoba",
+   "Belajar dari kegagalan dan bangkit",
+   "Menyalahkan orang lain"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Belajar dari kegagalan dan bangkit. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-012",
+  "kompetensi": "mengelola-diri",
+  "q": "Salah satu kunci pengelolaan diri yang sukses adalah:",
+  "opsi": [
+   "Ketidaksabaran",
+   "Kedisiplinan",
+   "Ketergantungan pada orang lain",
+   "Kemarahan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Kedisiplinan. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-013",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola diri termasuk dalam kecerdasan:",
+  "opsi": [
+   "Intelektual",
+   "Emosional",
+   "Sosial",
+   "Jasmani"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Emosional. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-014",
+  "kompetensi": "mengelola-diri",
+  "q": "Manajemen diri membantu ASN untuk:",
+  "opsi": [
+   "Menunda tugas",
+   "Menghindari konflik",
+   "Menyelesaikan pekerjaan tepat waktu dan berkualitas",
+   "Melimpahkan beban kerja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyelesaikan pekerjaan tepat waktu dan berkualitas. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-015",
+  "kompetensi": "mengelola-diri",
+  "q": "Langkah awal mengelola waktu yang baik adalah:",
+  "opsi": [
+   "Melakukan semua tugas sekaligus",
+   "Mengabaikan tenggat",
+   "Membuat daftar prioritas harian",
+   "Menunda hingga akhir"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Membuat daftar prioritas harian. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-016",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengatur emosi secara sehat dapat dilakukan dengan:",
+  "opsi": [
+   "Menyalahkan orang",
+   "Membanting barang",
+   "Menulis jurnal atau berbicara dengan orang terpercaya",
+   "Marah di media sosial"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menulis jurnal atau berbicara dengan orang terpercaya. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-017",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengapa ASN perlu memiliki kemampuan mengelola diri?",
+  "opsi": [
+   "Untuk mendapatkan gaji lebih",
+   "Agar tidak ditegur atasan",
+   "Untuk menunjang kinerja profesional yang stabil",
+   "Untuk lebih santai"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Untuk menunjang kinerja profesional yang stabil. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-018",
+  "kompetensi": "mengelola-diri",
+  "q": "Reaksi ASN terhadap tekanan harus:",
+  "opsi": [
+   "Menyesal",
+   "Menyerah",
+   "Terarah dan konstruktif",
+   "Mengeluh ke media"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Terarah dan konstruktif. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-019",
+  "kompetensi": "mengelola-diri",
+  "q": "Pengelolaan diri yang buruk akan berdampak pada:",
+  "opsi": [
+   "Semangat kerja meningkat",
+   "Hubungan kerja harmonis",
+   "Kinerja menurun dan konflik meningkat",
+   "Semua berjalan lancar"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kinerja menurun dan konflik meningkat. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-020",
+  "kompetensi": "mengelola-diri",
+  "q": "Dalam situasi darurat, ASN yang mampu mengelola diri akan:",
+  "opsi": [
+   "Panik",
+   "Berteriak-teriak",
+   "Tetap tenang dan bertindak sesuai prosedur",
+   "Melarikan diri"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tetap tenang dan bertindak sesuai prosedur. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-021",
+  "kompetensi": "mengelola-diri",
+  "q": "Latihan mindfulness membantu dalam:",
+  "opsi": [
+   "Menambah kerja",
+   "Mengabaikan tugas",
+   "Meningkatkan kesadaran diri dan fokus",
+   "Menghindari tanggung jawab"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan kesadaran diri dan fokus. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-022",
+  "kompetensi": "mengelola-diri",
+  "q": "ASN yang dapat mengelola diri biasanya memiliki:",
+  "opsi": [
+   "Emosi meledak-ledak",
+   "Produktivitas tinggi dan stabil",
+   "Hubungan buruk dengan rekan",
+   "Kinerja yang fluktuatif"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Produktivitas tinggi dan stabil. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-023",
+  "kompetensi": "mengelola-diri",
+  "q": "Dalam menghadapi konflik, pengelolaan diri mencakup:",
+  "opsi": [
+   "Menyulut emosi",
+   "Menghindari tanggung jawab",
+   "Mendengarkan dengan tenang dan menanggapi secara bijak",
+   "Menyalahkan pihak lain"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mendengarkan dengan tenang dan menanggapi secara bijak. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-024",
+  "kompetensi": "mengelola-diri",
+  "q": "Cara efektif menjaga motivasi diri adalah:",
+  "opsi": [
+   "Menghindari tantangan",
+   "Beristirahat tanpa henti",
+   "Mengingat tujuan dan hasil positif yang ingin dicapai",
+   "Menyerahkan semua kepada orang lain"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengingat tujuan dan hasil positif yang ingin dicapai. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-025",
+  "kompetensi": "mengelola-diri",
+  "q": "Contoh sikap mengelola diri yang buruk adalah:",
+  "opsi": [
+   "Meluapkan emosi pada rekan",
+   "Membuat to-do list",
+   "Melatih kesabaran",
+   "Membuat rencana kerja"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Meluapkan emosi pada rekan. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-026",
+  "kompetensi": "mengelola-diri",
+  "q": "Pengelolaan diri akan memperkuat kemampuan ASN dalam:",
+  "opsi": [
+   "Menolak tanggung jawab",
+   "Menjalankan tugas secara profesional",
+   "Menghindari pekerjaan",
+   "Memprovokasi konflik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menjalankan tugas secara profesional. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-027",
+  "kompetensi": "mengelola-diri",
+  "q": "Cara mengelola diri ketika menerima tugas mendadak adalah:",
+  "opsi": [
+   "Menolaknya",
+   "Marah",
+   "Menyusun kembali prioritas dan menyelesaikan sebaik mungkin",
+   "Mengeluh"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menyusun kembali prioritas dan menyelesaikan sebaik mungkin. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-028",
+  "kompetensi": "mengelola-diri",
+  "q": "ASN yang mampu mengelola dirinya tidak mudah:",
+  "opsi": [
+   "Bersyukur",
+   "Lelah",
+   "Terpengaruh emosi negatif dalam mengambil keputusan",
+   "Makan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Terpengaruh emosi negatif dalam mengambil keputusan. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-029",
+  "kompetensi": "mengelola-diri",
+  "q": "Emosi positif dalam diri dapat ditumbuhkan melalui:",
+  "opsi": [
+   "Mengeluh",
+   "Bersyukur dan berpikir positif",
+   "Membandingkan dengan orang lain",
+   "Menyalahkan nasib"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Bersyukur dan berpikir positif. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-030",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola energi pribadi mencakup:",
+  "opsi": [
+   "Mengonsumsi kafein berlebih",
+   "Pola tidur, makan sehat, dan olahraga",
+   "Kerja lembur setiap hari",
+   "Menyibukkan diri terus-menerus"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Pola tidur, makan sehat, dan olahraga. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-031",
+  "kompetensi": "mengelola-diri",
+  "q": "Dalam situasi sulit, mengelola diri berarti:",
+  "opsi": [
+   "Menyerah",
+   "Menghindari tanggung jawab",
+   "Tetap tenang dan mencari solusi rasional",
+   "Mengalihkan masalah"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tetap tenang dan mencari solusi rasional. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-032",
+  "kompetensi": "mengelola-diri",
+  "q": "Kemampuan mengelola diri berkaitan erat dengan:",
+  "opsi": [
+   "Kebiasaan buruk",
+   "Disiplin dan kesadaran diri",
+   "Menunda pekerjaan",
+   "Komplain"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Disiplin dan kesadaran diri. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-033",
+  "kompetensi": "mengelola-diri",
+  "q": "Cara tepat menyikapi kesalahan adalah:",
+  "opsi": [
+   "Menyalahkan orang lain",
+   "Menutup-nutupi",
+   "Mengakui dan memperbaiki",
+   "Lari dari tanggung jawab"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengakui dan memperbaiki. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-034",
+  "kompetensi": "mengelola-diri",
+  "q": "Self-awareness dalam pengelolaan diri adalah:",
+  "opsi": [
+   "Kesadaran tentang orang lain",
+   "Kesadaran terhadap emosi, pikiran, dan tindakan sendiri",
+   "Mengatur rekan kerja",
+   "Mengontrol atasan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Kesadaran terhadap emosi, pikiran, dan tindakan sendiri. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-035",
+  "kompetensi": "mengelola-diri",
+  "q": "Perilaku profesional mencerminkan:",
+  "opsi": [
+   "Kepribadian yang sembrono",
+   "Emosi yang meledak-ledak",
+   "Pengelolaan diri yang baik",
+   "Ketidakteraturan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pengelolaan diri yang baik. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-036",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola diri dalam konteks kerja tim berarti:",
+  "opsi": [
+   "Memaksakan kehendak",
+   "Menyalahkan rekan",
+   "Berkontribusi dengan cara yang teratur dan positif",
+   "Menghindari diskusi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Berkontribusi dengan cara yang teratur dan positif. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-037",
+  "kompetensi": "mengelola-diri",
+  "q": "Emosi yang tidak terkendali akan:",
+  "opsi": [
+   "Meningkatkan produktivitas",
+   "Memperbaiki relasi",
+   "Mengganggu kinerja dan hubungan kerja",
+   "Meningkatkan fokus"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengganggu kinerja dan hubungan kerja. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-038",
+  "kompetensi": "mengelola-diri",
+  "q": "ASN yang tidak mampu mengelola diri berisiko:",
+  "opsi": [
+   "Dipromosikan",
+   "Dicontoh",
+   "Mengalami penurunan kinerja",
+   "Menjadi panutan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengalami penurunan kinerja. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-039",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola diri juga berarti mampu:",
+  "opsi": [
+   "Mengatur perilaku sesuai norma dan etika kerja",
+   "Bertindak sesuka hati",
+   "Melanggar aturan bila perlu",
+   "Menghindari semua aturan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Mengatur perilaku sesuai norma dan etika kerja. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-040",
+  "kompetensi": "mengelola-diri",
+  "q": "Dalam menghadapi perubahan, ASN yang mampu mengelola diri akan:",
+  "opsi": [
+   "Menolak mentah-mentah",
+   "Menerima dan menyesuaikan diri secara proaktif",
+   "Menghindar",
+   "Mengeluh di media sosial"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menerima dan menyesuaikan diri secara proaktif. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-041",
+  "kompetensi": "mengelola-diri",
+  "q": "Untuk mengembangkan pengelolaan diri, ASN bisa memulai dari:",
+  "opsi": [
+   "Menyalahkan sistem",
+   "Meningkatkan kesadaran diri dan disiplin",
+   "Melarikan diri dari masalah",
+   "Berkonflik dengan rekan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Meningkatkan kesadaran diri dan disiplin. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-042",
+  "kompetensi": "mengelola-diri",
+  "q": "Contoh pengelolaan diri saat gagal adalah:",
+  "opsi": [
+   "Menyerah",
+   "Menyalahkan orang lain",
+   "Menganalisis kesalahan dan mencoba lagi",
+   "Menghindari semua tugas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menganalisis kesalahan dan mencoba lagi. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-043",
+  "kompetensi": "mengelola-diri",
+  "q": "Kemampuan mengelola diri mendukung ASN dalam:",
+  "opsi": [
+   "Membuat kegaduhan",
+   "Melanggar peraturan",
+   "Bekerja profesional dan tahan tekanan",
+   "Menunda tugas"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Bekerja profesional dan tahan tekanan. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-044",
+  "kompetensi": "mengelola-diri",
+  "q": "Mengelola diri saat konflik berarti:",
+  "opsi": [
+   "Memprovokasi",
+   "Menyerang balik",
+   "Mencari solusi dan tetap profesional",
+   "Menghindar"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mencari solusi dan tetap profesional. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-045",
+  "kompetensi": "mengelola-diri",
+  "q": "Kejujuran dalam bekerja merupakan bagian dari:",
+  "opsi": [
+   "Manipulasi",
+   "Pengelolaan diri yang baik",
+   "Penghindaran masalah",
+   "Menghindari laporan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Pengelolaan diri yang baik. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-046",
+  "kompetensi": "mengelola-diri",
+  "q": "Pengelolaan diri membantu ASN:",
+  "opsi": [
+   "Bermalas-malasan",
+   "Menyesuaikan perilaku sesuai situasi",
+   "Melawan perintah",
+   "Menunda tugas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menyesuaikan perilaku sesuai situasi. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-047",
+  "kompetensi": "mengelola-diri",
+  "q": "ASN yang mampu mengelola diri akan cenderung:",
+  "opsi": [
+   "Terburu-buru",
+   "Tidak konsisten",
+   "Profesional dan bertanggung jawab",
+   "Mengabaikan prosedur"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Profesional dan bertanggung jawab. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-048",
+  "kompetensi": "mengelola-diri",
+  "q": "Self-regulation mencakup kemampuan untuk:",
+  "opsi": [
+   "Menahan godaan dan mengontrol reaksi",
+   "Melampiaskan emosi",
+   "Membalas kritik",
+   "Menolak pekerjaan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Menahan godaan dan mengontrol reaksi. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-049",
+  "kompetensi": "mengelola-diri",
+  "q": "Manfaat dari mengelola diri adalah:",
+  "opsi": [
+   "Menambah beban kerja",
+   "Hubungan kerja terganggu",
+   "Keseimbangan antara kehidupan pribadi dan pekerjaan",
+   "Hilangnya fokus"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Keseimbangan antara kehidupan pribadi dan pekerjaan. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "MD-050",
+  "kompetensi": "mengelola-diri",
+  "q": "ASN yang dapat mengelola diri menunjukkan:",
+  "opsi": [
+   "Impulsif",
+   "Konsistensi dalam sikap, etika, dan kinerja",
+   "Ketidakteraturan",
+   "Ketidakpastian"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Konsistensi dalam sikap, etika, dan kinerja. Opsi ini paling sesuai dengan pengelolaan diri, disiplin, integritas, dan profesionalisme ASN, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "q": "Matriks Eisenhower membantu mengelola tugas berdasarkan dua dimensi, yaitu:",
+  "opsi": [
+   "Mudah dan sulit",
+   "Penting dan mendesak",
+   "Murah dan mahal",
+   "Baru dan lama"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Matriks Eisenhower mengelompokkan tugas berdasarkan tingkat kepentingan dan kemendesakan untuk menentukan prioritas tindakan.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-051"
+ },
+ {
+  "q": "Tugas yang penting tetapi tidak mendesak sebaiknya:",
+  "opsi": [
+   "Diabaikan",
+   "Dijadwalkan dan dikerjakan secara terencana",
+   "Selalu ditunda",
+   "Didelegasikan seluruhnya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kuadran penting–tidak mendesak (mis. perencanaan, pengembangan diri) sebaiknya dijadwalkan agar tidak menumpuk menjadi krisis.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-052"
+ },
+ {
+  "q": "Kebiasaan menunda-nunda pekerjaan disebut:",
+  "opsi": [
+   "Multitasking",
+   "Prokrastinasi",
+   "Delegasi",
+   "Prioritisasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Prokrastinasi adalah menunda pekerjaan penting, sering berdampak pada kualitas hasil dan stres; perlu dikelola dengan disiplin diri.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-053"
+ },
+ {
+  "q": "Integritas seorang ASN paling tepat dicerminkan oleh:",
+  "opsi": [
+   "Bekerja baik hanya saat diawasi",
+   "Konsistensi antara nilai, ucapan, dan tindakan meski tanpa pengawasan",
+   "Mengikuti semua perintah tanpa pertimbangan etika",
+   "Mementingkan citra"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Integritas adalah keselarasan nilai, perkataan, dan perbuatan, serta kejujuran yang konsisten termasuk saat tidak diawasi.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-054"
+ },
+ {
+  "q": "Saat menerima gratifikasi yang berhubungan dengan jabatan, ASN seharusnya:",
+  "opsi": [
+   "Menerima diam-diam",
+   "Menolak dan/atau melaporkannya ke KPK/UPG",
+   "Membagikannya ke rekan",
+   "Menyimpannya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Gratifikasi terkait jabatan berpotensi suap; ASN wajib menolak dan melaporkan sesuai aturan (mis. melalui Unit Pengendalian Gratifikasi/KPK).",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-055"
+ },
+ {
+  "q": "Kecerdasan emosional (EQ) mencakup kemampuan untuk:",
+  "opsi": [
+   "Menghafal data",
+   "Mengenali dan mengelola emosi diri serta berempati pada orang lain",
+   "Berhitung cepat",
+   "Mengetik cepat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "EQ meliputi kesadaran diri, pengelolaan emosi, motivasi diri, empati, dan keterampilan sosial.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-056"
+ },
+ {
+  "q": "Saat menghadapi kritik atas pekerjaan, sikap pengelolaan diri yang sehat adalah:",
+  "opsi": [
+   "Marah dan defensif",
+   "Menerima secara terbuka dan menjadikannya bahan perbaikan",
+   "Membalas mengkritik",
+   "Mengabaikan total"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pengelolaan diri yang baik menanggapi kritik dengan tenang, memilah yang konstruktif, dan menggunakannya untuk berkembang.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-057"
+ },
+ {
+  "q": "Growth mindset (pola pikir berkembang) ditandai dengan keyakinan bahwa:",
+  "opsi": [
+   "Kemampuan bersifat tetap sejak lahir",
+   "Kemampuan dapat berkembang melalui usaha dan belajar",
+   "Kegagalan akhir dari segalanya",
+   "Bakat menentukan segalanya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Growth mindset (Carol Dweck) meyakini kemampuan bisa tumbuh lewat usaha, strategi, dan pembelajaran dari kegagalan.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-058"
+ },
+ {
+  "q": "Manajemen stres yang konstruktif antara lain dilakukan dengan:",
+  "opsi": [
+   "Memendam masalah",
+   "Mengatur prioritas, istirahat cukup, dan mencari dukungan",
+   "Melampiaskan pada rekan kerja",
+   "Menghindari semua tugas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Stres dikelola dengan menata prioritas, menjaga keseimbangan, teknik relaksasi, serta berbagi/meminta dukungan secara sehat.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-059"
+ },
+ {
+  "q": "Disiplin diri seorang ASN tercermin dari:",
+  "opsi": [
+   "Datang sesuai mood",
+   "Konsistensi menaati aturan, jam kerja, dan menyelesaikan tugas tepat waktu",
+   "Menunggu diperintah",
+   "Bekerja sesuka hati"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Disiplin diri adalah kemampuan mengendalikan diri untuk taat aturan dan komitmen secara konsisten tanpa harus diawasi.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-060"
+ },
+ {
+  "q": "Self-awareness (kesadaran diri) penting karena membantu seseorang:",
+  "opsi": [
+   "Menyalahkan orang lain",
+   "Mengenali kekuatan, kelemahan, dan emosinya untuk berkembang",
+   "Menghindari evaluasi",
+   "Merasa selalu benar"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kesadaran diri memungkinkan seseorang memahami kelebihan/kekurangan dan pemicu emosinya, dasar pengembangan diri yang efektif.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-061"
+ },
+ {
+  "q": "Teknik Pomodoro dalam manajemen waktu menganjurkan:",
+  "opsi": [
+   "Bekerja tanpa henti seharian",
+   "Bekerja fokus dalam interval (mis. 25 menit) diselingi istirahat singkat",
+   "Menunda pekerjaan",
+   "Multitasking ekstrem"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pomodoro membagi kerja menjadi interval fokus dengan jeda pendek untuk menjaga konsentrasi dan mengurangi kelelahan.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-062"
+ },
+ {
+  "q": "Adaptabilitas (kemampuan beradaptasi) di tempat kerja berarti:",
+  "opsi": [
+   "Menolak perubahan",
+   "Fleksibel menyesuaikan diri terhadap perubahan tugas, teknologi, dan lingkungan",
+   "Bekerja dengan satu cara saja",
+   "Menghindari hal baru"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Adaptabilitas adalah kesediaan dan kemampuan menyesuaikan diri secara positif terhadap perubahan kondisi kerja.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-063"
+ },
+ {
+  "q": "Akuntabilitas pribadi (personal accountability) berarti:",
+  "opsi": [
+   "Menyalahkan keadaan",
+   "Bertanggung jawab penuh atas tindakan dan hasil kerja sendiri",
+   "Mengandalkan orang lain",
+   "Menghindari tugas sulit"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Akuntabilitas pribadi adalah kesediaan memikul tanggung jawab atas pilihan, tindakan, dan hasil kerja tanpa mencari kambing hitam.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-064"
+ },
+ {
+  "q": "Konflik kepentingan terjadi ketika:",
+  "opsi": [
+   "Pegawai bekerja keras",
+   "Kepentingan pribadi berpotensi memengaruhi objektivitas tugas jabatan",
+   "Pegawai mengikuti pelatihan",
+   "Pegawai mematuhi aturan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Konflik kepentingan muncul saat kepentingan pribadi dapat memengaruhi keputusan jabatan; ASN wajib menghindari dan mengungkapkannya.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-065"
+ },
+ {
+  "q": "Cara efektif mengembangkan diri secara berkelanjutan adalah:",
+  "opsi": [
+   "Berhenti belajar setelah lulus",
+   "Belajar sepanjang hayat melalui pelatihan, membaca, dan refleksi",
+   "Menunggu instruksi atasan",
+   "Menghindari tantangan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Lifelong learning menjaga kompetensi tetap relevan; ASN didorong terus belajar dan merefleksikan pengalaman kerja.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-066"
+ },
+ {
+  "q": "Saat melakukan kesalahan dalam pekerjaan, sikap profesional yang tepat adalah:",
+  "opsi": [
+   "Menyembunyikannya",
+   "Mengakui, memperbaiki, dan mengambil pelajaran",
+   "Menyalahkan rekan",
+   "Mengabaikannya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Profesionalisme menuntut kejujuran mengakui kesalahan, segera memperbaiki, dan belajar agar tidak terulang.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-067"
+ },
+ {
+  "q": "Work-life balance penting untuk dijaga karena:",
+  "opsi": [
+   "Mengurangi produktivitas selamanya",
+   "Menjaga kesehatan, kesejahteraan, dan kinerja jangka panjang",
+   "Menghindari pekerjaan",
+   "Tidak ada manfaatnya"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Keseimbangan kerja-kehidupan mencegah kelelahan (burnout) dan menjaga kesehatan serta produktivitas yang berkelanjutan.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-068"
+ },
+ {
+  "q": "Menetapkan tujuan pribadi sebaiknya menggunakan prinsip:",
+  "opsi": [
+   "Samar dan tak terukur",
+   "SMART (spesifik, terukur, dapat dicapai, relevan, ada tenggat)",
+   "Mengikuti orang lain",
+   "Tanpa rencana"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tujuan pribadi yang SMART lebih mudah dipantau dan dicapai karena jelas, terukur, realistis, relevan, dan punya tenggat.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-069"
+ },
+ {
+  "q": "Resiliensi (ketangguhan diri) adalah kemampuan untuk:",
+  "opsi": [
+   "Menyerah saat sulit",
+   "Bangkit dan pulih dari kegagalan atau tekanan",
+   "Menghindari masalah",
+   "Menyalahkan nasib"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Resiliensi adalah daya tahan dan kemampuan pulih dari kesulitan, tetap berfungsi baik di bawah tekanan, dan belajar darinya.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-070"
+ },
+ {
+  "q": "Manajemen waktu yang baik dimulai dengan:",
+  "opsi": [
+   "Mengerjakan tugas secara acak",
+   "Menyusun prioritas dan rencana harian",
+   "Menunggu tenggat",
+   "Menghindari daftar tugas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Manajemen waktu efektif berawal dari menetapkan prioritas dan merencanakan aktivitas agar fokus pada hal yang bernilai tinggi.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-071"
+ },
+ {
+  "q": "Sikap proaktif menurut Stephen Covey berarti:",
+  "opsi": [
+   "Bereaksi terhadap keadaan",
+   "Mengambil inisiatif dan bertanggung jawab atas respons kita sendiri",
+   "Menunggu nasib",
+   "Menyalahkan lingkungan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Proaktif (7 Habits) berarti bertindak atas dasar nilai dan tanggung jawab, fokus pada hal yang dapat kita kendalikan, bukan sekadar bereaksi.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-072"
+ },
+ {
+  "q": "Loyalitas ASN yang benar ditujukan terutama kepada:",
+  "opsi": [
+   "Atasan secara pribadi",
+   "Pancasila, UUD 1945, NKRI, dan kepentingan bangsa serta negara",
+   "Kelompok tertentu",
+   "Partai politik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Loyalitas ASN (nilai 'Loyal' BerAKHLAK) berpedoman pada Pancasila, UUD 1945, NKRI, serta pemerintahan yang sah, bukan loyalitas pribadi/golongan.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-073"
+ },
+ {
+  "q": "Mengelola emosi saat menghadapi warga yang marah sebaiknya dilakukan dengan:",
+  "opsi": [
+   "Membalas marah",
+   "Tetap tenang, mendengarkan, dan mencari solusi",
+   "Mengabaikan warga",
+   "Meninggalkan loket"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Pengendalian emosi dan empati membantu meredakan situasi; mendengarkan keluhan dengan tenang membuka jalan penyelesaian.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-074"
+ },
+ {
+  "q": "Refleksi diri secara berkala bermanfaat untuk:",
+  "opsi": [
+   "Membuang waktu",
+   "Mengevaluasi capaian dan merancang perbaikan ke depan",
+   "Menghindari tanggung jawab",
+   "Menyalahkan orang lain"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Refleksi membantu seseorang mengevaluasi pengalaman, mengenali pelajaran, dan menyusun langkah perbaikan untuk pengembangan diri.",
+  "kompetensi": "mengelola-diri",
+  "id": "MD-075"
+ }
+]
