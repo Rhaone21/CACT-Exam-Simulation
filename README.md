@@ -11,6 +11,9 @@ siap deploy ke Vercel.
 - **Bagikan hasil**: link berisi skor + salin ringkasan teks.
 - Aksesibel: kontras WCAG, navigasi keyboard (A–D / 1–4 pilih, ←/→ navigasi, F tandai), `prefers-reduced-motion`.
 
+## Dokumentasi
+Detail lengkap di folder [`docs/`](docs/README.md): arsitektur, panduan soal, deploy, UI/UX.
+
 ## Struktur
 ```
 index.html              # shell
