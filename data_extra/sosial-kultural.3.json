@@ -1,0 +1,222 @@
+[
+ {
+  "q": "Anda memimpin tim dengan anggota dari beragam suku, agama, dan latar daerah. Seorang anggota mengeluh jadwal rapat selalu bentrok dengan ibadahnya. Respons paling tepat adalah:",
+  "opsi": [
+   "Meminta anggota itu menyesuaikan diri karena mayoritas tidak terganggu",
+   "Menjadwal ulang rapat agar mengakomodasi kebutuhan ibadah tanpa mengorbankan tujuan kerja",
+   "Mengeluarkan anggota dari tim",
+   "Mengabaikan keluhan demi efisiensi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Inklusivitas menuntut akomodasi yang wajar terhadap kebutuhan keagamaan selama tujuan kerja tetap tercapai. Memaksa minoritas menyesuaikan atau mengabaikan keluhan menutup ruang keberagaman."
+ },
+ {
+  "q": "Dalam masyarakat majemuk, sikap 'etnosentrisme' dapat menghambat pelayanan publik karena:",
+  "opsi": [
+   "Mendorong penghargaan setara antarbudaya",
+   "Menilai budaya lain semata berdasarkan ukuran budaya sendiri sehingga menimbulkan bias layanan",
+   "Memperkuat kolaborasi lintas budaya",
+   "Meningkatkan empati"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Etnosentrisme menempatkan budaya sendiri sebagai standar tunggal untuk menilai budaya lain, memicu prasangka dan diskriminasi layanan. Lawannya, relativisme budaya, mendorong pemahaman setara."
+ },
+ {
+  "q": "Seorang warga difabel kesulitan mengakses loket layanan yang berundak. Prinsip yang seharusnya menjadi acuan penyediaan layanan adalah:",
+  "opsi": [
+   "Pelayanan seragam tanpa pengecualian",
+   "Aksesibilitas dan desain universal yang ramah semua kelompok",
+   "Menyarankan warga datang dengan pendamping saja",
+   "Mengarahkan ke kantor lain"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Desain universal dan aksesibilitas memastikan layanan dapat dijangkau semua warga termasuk difabel (ramp, loket rendah, bantuan). Menggeser beban ke warga bertentangan dengan kesetaraan akses."
+ },
+ {
+  "q": "Beredar pesan berisi provokasi SARA (Suku, Agama, Ras, Antargolongan) di grup kerja menjelang pemilu. Sebagai ASN (Aparatur Sipil Negara) yang menjaga netralitas dan kohesi sosial, tindakan tepat adalah:",
+  "opsi": [
+   "Meneruskan ke grup lain untuk klarifikasi massal",
+   "Tidak menyebarkan, meredakan dengan ajakan menjaga persatuan, dan melaporkan bila perlu",
+   "Membalas dengan provokasi tandingan",
+   "Diam dan ikut menertawakan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ASN wajib netral dan menjaga kohesi sosial: tidak ikut menyebarkan provokasi SARA, meredakan suasana, dan menempuh pelaporan resmi bila konten melanggar. Membalas atau meneruskan justru memperluas konflik."
+ },
+ {
+  "q": "Dalam komunikasi lintas budaya, 'high-context culture' cenderung:",
+  "opsi": [
+   "Menyampaikan pesan secara eksplisit dan langsung",
+   "Mengandalkan konteks, isyarat nonverbal, dan hubungan dalam memahami pesan",
+   "Mengabaikan hierarki sosial",
+   "Selalu menghindari basa-basi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Budaya konteks-tinggi (banyak di Asia) banyak menyandarkan makna pada konteks, relasi, dan isyarat nonverbal, bukan kata eksplisit. Memahami ini penting agar komunikasi lintas budaya tidak salah tafsir."
+ },
+ {
+  "q": "Sebuah kebijakan baru berpotensi menggusur komunitas adat. Pendekatan yang menghormati hak dan kearifan lokal adalah:",
+  "opsi": [
+   "Melaksanakan kebijakan tanpa konsultasi demi kecepatan",
+   "Melakukan dialog partisipatif dan persetujuan berdasar informasi awal (FPIC) dengan komunitas",
+   "Memberi kompensasi tanpa mendengar aspirasi",
+   "Menganggap kearifan lokal penghambat pembangunan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Penghormatan hak masyarakat adat menuntut dialog partisipatif dan prinsip persetujuan atas dasar informasi di awal tanpa paksaan (FPIC/Free, Prior and Informed Consent). Pelaksanaan sepihak mengabaikan hak dan kearifan lokal."
+ },
+ {
+  "q": "Stereotip yang tidak disadari yang memengaruhi keputusan perekrutan disebut:",
+  "opsi": [
+   "Bias eksplisit",
+   "Bias implisit (unconscious bias)",
+   "Afirmasi sadar",
+   "Meritokrasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Unconscious/implicit bias adalah asosiasi otomatis di luar kesadaran yang dapat mendiskriminasi tanpa niat. Menyadarinya dan menerapkan kriteria objektif membantu keputusan yang adil."
+ },
+ {
+  "q": "Dalam menangani keluhan warga yang marah dan emosional, langkah pertama yang paling efektif secara sosial-kultural adalah:",
+  "opsi": [
+   "Membela diri dan menjelaskan aturan terlebih dahulu",
+   "Mendengarkan aktif dan mengakui perasaannya sebelum mencari solusi",
+   "Meminta warga tenang dulu dengan nada tinggi",
+   "Mengabaikan sampai emosinya reda sendiri"
+  ],
+  "jawaban": 1,
+  "pembahasan": "De-eskalasi dimulai dengan mendengar aktif dan validasi emosi (acknowledgement), yang menurunkan ketegangan sebelum masuk ke solusi. Membela diri lebih dulu cenderung memicu konfrontasi."
+ },
+ {
+  "q": "Konsep 'gotong royong' sebagai modal sosial Indonesia paling tepat dimanfaatkan dalam program publik dengan cara:",
+  "opsi": [
+   "Memaksa partisipasi warga tanpa imbalan",
+   "Mendorong kolaborasi sukarela berbasis kepentingan bersama dan kepercayaan",
+   "Menggantikan seluruh peran pemerintah",
+   "Membatasi keterlibatan hanya pada tokoh tertentu"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Gotong royong sebagai modal sosial bekerja optimal lewat kolaborasi sukarela, kepercayaan, dan tujuan bersama. Memaksa atau membatasi partisipasi mengikis semangat kebersamaan."
+ },
+ {
+  "q": "Seorang rekan kerja kerap melontarkan 'lelucon' bernuansa merendahkan kelompok tertentu. Sikap ASN yang tepat untuk membangun lingkungan inklusif adalah:",
+  "opsi": [
+   "Ikut tertawa agar tidak dianggap kaku",
+   "Menegur secara santun bahwa lelucon itu menyinggung dan tidak pantas di tempat kerja",
+   "Melaporkan langsung ke media",
+   "Membalas dengan lelucon serupa"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Lingkungan inklusif menuntut keberanian menegur ujaran merendahkan secara santun namun tegas (allyship). Ikut tertawa menormalkan diskriminasi; membalas memperburuk iklim kerja."
+ },
+ {
+  "q": "Dalam pelayanan publik di daerah dengan bahasa lokal dominan, langkah yang menjembatani kesenjangan komunikasi adalah:",
+  "opsi": [
+   "Memaksa warga memakai bahasa Indonesia formal",
+   "Menyediakan petugas/penerjemah yang memahami bahasa dan adat setempat",
+   "Mengurangi layanan di daerah tersebut",
+   "Mengandalkan dokumen tertulis saja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Kepekaan budaya menuntut jembatan komunikasi: petugas yang menguasai bahasa/adat lokal meningkatkan kualitas dan keadilan layanan, terutama bagi warga yang kurang fasih bahasa formal."
+ },
+ {
+  "q": "Prinsip 'kesetaraan' (equality) berbeda dengan 'keadilan' (equity). Dalam program bantuan, pendekatan equity berarti:",
+  "opsi": [
+   "Memberi jumlah sama persis ke setiap orang",
+   "Memberi sesuai kebutuhan agar yang lebih rentan memperoleh dukungan lebih besar",
+   "Memberi hanya kepada kelompok mayoritas",
+   "Meniadakan bantuan agar netral"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Equity menyesuaikan dukungan dengan kebutuhan/kondisi awal sehingga hasil lebih adil; equality memberi sama rata tanpa memandang perbedaan kondisi. Kelompok rentan butuh dukungan proporsional lebih besar."
+ },
+ {
+  "q": "Saat memfasilitasi musyawarah warga dengan kepentingan berbeda, peran fasilitator yang menjaga keadilan proses adalah:",
+  "opsi": [
+   "Memihak kelompok paling vokal",
+   "Memberi ruang setara bagi semua suara dan menjaga proses tetap menghormati",
+   "Mempercepat keputusan agar selesai",
+   "Mengambil keputusan sendiri"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Fasilitator yang adil memastikan partisipasi setara, termasuk suara minoritas/kurang vokal, dan menjaga proses yang menghormati. Memihak yang vokal atau memutuskan sepihak merusak legitimasi musyawarah."
+ },
+ {
+  "q": "Fenomena 'culture shock' pada ASN yang ditugaskan ke daerah berbeda budaya paling sehat dihadapi dengan:",
+  "opsi": [
+   "Menutup diri dari budaya setempat",
+   "Sikap terbuka belajar, observasi, dan adaptasi bertahap terhadap norma lokal",
+   "Memaksakan kebiasaan asal sepenuhnya",
+   "Meminta segera dipindahkan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Culture shock diatasi melalui keterbukaan, belajar aktif, dan adaptasi bertahap (acculturation) tanpa kehilangan jati diri. Menutup diri atau memaksakan kebiasaan asal memperpanjang ketegangan."
+ },
+ {
+  "q": "Sebuah berita viral memperkeruh hubungan antarkelompok di wilayah kerja Anda. Sebagai ASN, kontribusi terbaik untuk kohesi sosial adalah:",
+  "opsi": [
+   "Menyebarkan opini pribadi yang memihak",
+   "Memverifikasi fakta, menahan penyebaran info belum jelas, dan mendorong dialog antar pihak",
+   "Menunggu sampai konflik selesai sendiri",
+   "Memblokir semua pihak yang berbeda pendapat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Menjaga kohesi sosial menuntut verifikasi fakta, menahan hoaks, dan memfasilitasi dialog. Menyebar opini memihak atau pasif total memperdalam polarisasi."
+ },
+ {
+  "q": "Toleransi aktif berbeda dari sekadar toleransi pasif karena toleransi aktif mencakup:",
+  "opsi": [
+   "Sekadar membiarkan perbedaan tanpa interaksi",
+   "Upaya nyata mengenal, menghargai, dan bekerja sama lintas perbedaan",
+   "Mengabaikan keberadaan kelompok lain",
+   "Menyamakan semua keyakinan menjadi satu"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Toleransi aktif melampaui 'membiarkan': ada usaha mengenal, menghargai, dan berkolaborasi lintas perbedaan. Ia juga bukan peleburan identitas, melainkan koeksistensi yang saling menghormati."
+ },
+ {
+  "q": "Dalam menyusun program pemberdayaan perempuan di komunitas yang konservatif, pendekatan yang paling berkelanjutan adalah:",
+  "opsi": [
+   "Mengabaikan tokoh lokal demi kecepatan",
+   "Melibatkan tokoh masyarakat dan keluarga agar program selaras nilai setempat sembari memajukan kesetaraan",
+   "Memaksakan model dari luar tanpa adaptasi",
+   "Membatalkan program karena dianggap sensitif"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Perubahan sosial berkelanjutan menggandeng tokoh dan keluarga sebagai mitra, menautkan tujuan kesetaraan dengan nilai lokal. Memaksakan model luar memicu resistensi; membatalkan menutup peluang kemajuan."
+ },
+ {
+  "q": "Empati kultural dalam pelayanan berarti petugas mampu:",
+  "opsi": [
+   "Memaksakan solusi standar untuk semua",
+   "Memahami sudut pandang dan latar budaya warga sebelum menentukan respons layanan",
+   "Menilai warga dari penampilan",
+   "Mengutamakan kecepatan di atas pemahaman"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Empati kultural adalah kemampuan memahami kerangka budaya warga untuk merespons secara tepat dan menghormati. Solusi seragam tanpa pemahaman konteks sering gagal memenuhi kebutuhan riil."
+ },
+ {
+  "q": "Konflik horizontal antarwarga sering berakar pada kesenjangan dan prasangka. Intervensi jangka panjang yang menyasar akar masalah adalah:",
+  "opsi": [
+   "Penindakan represif semata",
+   "Program kontak antarkelompok, dialog, dan pengurangan kesenjangan ekonomi-sosial",
+   "Pemisahan permanen antarkelompok",
+   "Pembiaran sampai mereda"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Teori kontak antarkelompok dan keadilan sosial menunjukkan dialog, interaksi positif, dan pengurangan kesenjangan meredam prasangka secara berkelanjutan. Represi atau segregasi hanya menahan, tak menyelesaikan akar."
+ },
+ {
+  "q": "Sebagai ASN, ketika nilai pribadi Anda berbeda dengan kebutuhan layanan warga yang sah, prinsip profesional menuntut Anda:",
+  "opsi": [
+   "Menolak melayani karena berbeda keyakinan",
+   "Tetap memberi layanan setara dan tidak diskriminatif sesuai hak warga",
+   "Melayani hanya yang sepaham",
+   "Menunda layanan tanpa alasan jelas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Netralitas dan keadilan layanan publik mengharuskan ASN melayani semua warga secara setara tanpa diskriminasi, terlepas dari perbedaan nilai pribadi. Diskriminasi layanan melanggar hak warga dan etika ASN."
+ }
+]
