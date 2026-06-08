@@ -1,0 +1,222 @@
+[
+ {
+  "q": "Premis: 'Semua pegawai yang lulus sertifikasi berhak ikut diklat lanjutan. Sebagian pegawai unit A belum lulus sertifikasi.' Kesimpulan yang pasti benar adalah:",
+  "opsi": [
+   "Semua pegawai unit A berhak ikut diklat lanjutan",
+   "Sebagian pegawai unit A belum tentu berhak ikut diklat lanjutan",
+   "Tidak ada pegawai unit A yang berhak ikut diklat lanjutan",
+   "Semua pegawai unit A sudah lulus sertifikasi"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Yang belum lulus sertifikasi tidak otomatis berhak; jadi sebagian pegawai unit A (yang belum lulus) belum tentu berhak. Kita tak punya info bahwa semua atau tidak ada yang berhak, sehingga hanya pernyataan (B) yang pasti valid."
+ },
+ {
+  "q": "Sebuah argumen menyatakan: 'Kebijakan ini pasti baik karena diusulkan oleh pejabat berpengalaman.' Argumen ini mengandung sesat pikir:",
+  "opsi": [
+   "Ad hominem",
+   "Appeal to authority (argumentum ad verecundiam)",
+   "Straw man",
+   "False dilemma"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Menyimpulkan kebenaran semata dari otoritas/pengalaman pengusul, tanpa menilai isi argumen, adalah appeal to authority. Pengalaman relevan tetapi bukan jaminan kebenaran klaim."
+ },
+ {
+  "q": "Data: penjualan naik setiap kali iklan ditayangkan, tetapi iklan selalu tayang saat musim liburan. Kesimpulan 'iklan menyebabkan kenaikan penjualan' lemah karena:",
+  "opsi": [
+   "Sampel terlalu besar",
+   "Ada variabel perancu (musim liburan) yang bisa menjadi sebab sebenarnya",
+   "Korelasi selalu berarti sebab-akibat",
+   "Iklan tidak pernah berpengaruh"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Musim liburan adalah confounding variable yang berkorelasi dengan iklan sekaligus penjualan. Korelasi tidak membuktikan kausalitas bila ada perancu; perlu kontrol/eksperimen untuk menyimpulkan sebab."
+ },
+ {
+  "q": "Jika 'Tidak ada laporan yang terlambat yang akan diterima' dan 'Laporan Budi diterima', maka yang pasti benar:",
+  "opsi": [
+   "Laporan Budi terlambat",
+   "Laporan Budi tidak terlambat",
+   "Laporan Budi mungkin terlambat",
+   "Informasi tidak cukup"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Modus tollens: jika terlambat maka tidak diterima. Laporan Budi diterima (bukan 'tidak diterima'), sehingga ia tidak mungkin terlambat. Kesimpulan pasti: Budi tidak terlambat."
+ },
+ {
+  "q": "Deret: 3, 6, 12, 24, ... Pola yang tepat dan suku berikutnya adalah:",
+  "opsi": [
+   "Ditambah 3; suku berikut 27",
+   "Dikali 2; suku berikut 48",
+   "Dikuadratkan; suku berikut 576",
+   "Ditambah bilangan genap; suku berikut 38"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tiap suku dikali 2 (3→6→12→24), maka 24×2 = 48. Pola geometri rasio 2."
+ },
+ {
+  "q": "Seseorang berargumen: 'Kalau kita tidak menaikkan anggaran, program gagal total; kalau menaikkan, kita boros. Jadi mau apa pun pasti rugi.' Kelemahan logisnya adalah:",
+  "opsi": [
+   "Generalisasi tergesa",
+   "Dilema palsu (false dilemma) karena mengabaikan opsi di antara dua ekstrem",
+   "Ad hominem",
+   "Circular reasoning"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Argumen memaksa hanya dua pilihan ekstrem (gagal total vs boros), padahal ada opsi tengah seperti efisiensi atau penambahan terukur. Ini false dilemma/dikotomi palsu."
+ },
+ {
+  "q": "Lima orang (A, B, C, D, E) antre. A di depan B. C tepat di belakang B. D paling depan. Jika E paling belakang, urutan dari depan adalah:",
+  "opsi": [
+   "D, A, B, C, E",
+   "D, B, A, C, E",
+   "A, D, B, C, E",
+   "D, A, C, B, E"
+  ],
+  "jawaban": 0,
+  "pembahasan": "D paling depan, E paling belakang. A di depan B dan C tepat di belakang B → urutan B, C berurutan dengan A sebelum B. Maka D, A, B, C, E memenuhi semua syarat."
+ },
+ {
+  "q": "Klaim: 'Sejak program X dimulai, angka kemiskinan turun, maka program X efektif.' Untuk menguji klaim ini secara kritis, bukti paling kuat adalah:",
+  "opsi": [
+   "Testimoni beberapa penerima manfaat",
+   "Perbandingan dengan kelompok kontrol yang tidak menerima program (counterfactual)",
+   "Jumlah anggaran yang besar",
+   "Liputan media yang positif"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Untuk menilai dampak kausal, dibutuhkan pembanding tanpa intervensi (counterfactual/kelompok kontrol) agar penurunan tak salah diatribusikan ke program. Testimoni, anggaran, dan media tidak mengisolasi sebab."
+ },
+ {
+  "q": "Pernyataan 'Jika hujan, jalan basah. Jalan basah.' Menyimpulkan 'maka hujan' adalah sesat pikir:",
+  "opsi": [
+   "Modus ponens yang sah",
+   "Menegaskan konsekuen (affirming the consequent)",
+   "Modus tollens yang sah",
+   "Silogisme disjungtif"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Dari 'jika P maka Q' dan 'Q', menyimpulkan 'P' adalah menegaskan konsekuen—keliru, sebab jalan basah bisa karena sebab lain (penyiraman). Hanya modus ponens (P→Q, P, maka Q) dan modus tollens yang sah."
+ },
+ {
+  "q": "Dalam tabel: rata-rata gaji naik, tetapi median gaji tetap. Interpretasi paling tepat adalah:",
+  "opsi": [
+   "Semua pegawai mengalami kenaikan",
+   "Kemungkinan kenaikan terkonsentrasi pada sebagian kecil bergaji sangat tinggi",
+   "Tidak ada yang naik gaji",
+   "Data pasti salah"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Rata-rata naik sementara median tetap menandakan distribusi miring: sebagian kecil nilai sangat tinggi menarik mean ke atas tanpa menggeser titik tengah. Median lebih tahan terhadap outlier."
+ },
+ {
+  "q": "Argumen: 'Banyak orang percaya kebijakan ini buruk, jadi pasti buruk.' Sesat pikir yang terjadi:",
+  "opsi": [
+   "Appeal to popularity (bandwagon)",
+   "Slippery slope",
+   "Begging the question",
+   "Red herring"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Menyimpulkan kebenaran dari banyaknya yang percaya adalah appeal to popularity/bandwagon. Popularitas keyakinan bukan bukti kebenaran proposisi."
+ },
+ {
+  "q": "Jika semua A adalah B, dan semua B adalah C, maka:",
+  "opsi": [
+   "Semua C adalah A",
+   "Semua A adalah C",
+   "Sebagian C bukan A maka bukan B",
+   "Tidak dapat disimpulkan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Silogisme transitif: A⊆B dan B⊆C maka A⊆C (semua A adalah C). Kebalikannya (semua C adalah A) tidak sah karena C bisa lebih luas."
+ },
+ {
+  "q": "Sebuah kebijakan dievaluasi. Penalaran 'kebijakan harus dilanjutkan karena sudah banyak dana dikeluarkan' menunjukkan bias:",
+  "opsi": [
+   "Sunk cost fallacy",
+   "Anchoring",
+   "Confirmation bias",
+   "Availability heuristic"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Sunk cost fallacy: mempertahankan keputusan karena biaya yang sudah terlanjur, bukan karena manfaat ke depan. Keputusan rasional menilai prospek manfaat-biaya mulai dari sekarang."
+ },
+ {
+  "q": "Dari empat pernyataan, hanya satu benar: (1) Ani berbohong. (2) Budi jujur. (3) Ani jujur. (4) Budi berbohong. Jika tepat satu pernyataan benar, maka:",
+  "opsi": [
+   "Tidak konsisten, tak ada solusi",
+   "Pernyataan (1) dan (3) saling bertentangan, begitu pula (2) dan (4); agar tepat satu benar mustahil karena tiap pasangan menghasilkan satu benar",
+   "Semua benar",
+   "Ani dan Budi sama-sama jujur"
+  ],
+  "jawaban": 1,
+  "pembahasan": "(1) vs (3) adalah negasi: salah satu pasti benar. (2) vs (4) juga negasi: salah satu pasti benar. Maka minimal dua pernyataan benar, sehingga syarat 'tepat satu benar' mustahil dipenuhi—ini melatih konsistensi logika."
+ },
+ {
+  "q": "Klaim statistik: '90% pengguna puas.' Pertanyaan kritis paling penting untuk menilai klaim ini adalah:",
+  "opsi": [
+   "Apakah warnanya menarik",
+   "Berapa ukuran sampel dan bagaimana responden dipilih",
+   "Siapa yang mendesain grafik",
+   "Kapan tepatnya diumumkan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Validitas klaim survei bergantung pada ukuran sampel dan metode pemilihan (representatif atau bias). 90% dari 10 orang terpilih sangat berbeda maknanya dari 90% sampel acak besar."
+ },
+ {
+  "q": "Pola angka: 1, 1, 2, 3, 5, 8, ... Bilangan berikutnya dan nama deret ini:",
+  "opsi": [
+   "12, deret aritmetika",
+   "13, deret Fibonacci",
+   "11, deret geometri",
+   "10, deret kuadrat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Deret Fibonacci: tiap suku adalah jumlah dua suku sebelumnya. 5+8 = 13."
+ },
+ {
+  "q": "Seorang analis menolak data yang bertentangan dengan hipotesisnya dan hanya mengutip data yang mendukung. Ini adalah:",
+  "opsi": [
+   "Metode ilmiah yang benar",
+   "Confirmation bias (bias konfirmasi)",
+   "Triangulasi data",
+   "Analisis sensitivitas"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Confirmation bias: mencari/menonjolkan bukti yang mendukung keyakinan sambil mengabaikan yang membantah. Penalaran kritis menuntut uji terhadap bukti yang berlawanan pula."
+ },
+ {
+  "q": "Pernyataan bersyarat 'Hanya jika menyerahkan dokumen, pengajuan diproses' setara secara logis dengan:",
+  "opsi": [
+   "Jika dokumen diserahkan, pasti diproses",
+   "Jika pengajuan diproses, maka dokumen telah diserahkan",
+   "Jika tidak diproses, dokumen tidak diserahkan",
+   "Dokumen dan proses tidak berhubungan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "'Hanya jika Q, P' berarti P→Q (penyerahan dokumen adalah syarat perlu untuk diproses). Maka jika diproses (P), pasti dokumen diserahkan (Q). Bukan berarti penyerahan menjamin diproses (itu syarat cukup)."
+ },
+ {
+  "q": "Dalam memutuskan kebijakan, mempertimbangkan 'apa yang tidak terlihat' (biaya peluang dan efek tak langsung) penting untuk menghindari:",
+  "opsi": [
+   "Analisis menyeluruh",
+   "Bias 'seen vs unseen' yang hanya menilai dampak yang tampak",
+   "Pemikiran sistemik",
+   "Evaluasi berbasis bukti"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Penilaian yang hanya melihat dampak langsung/terlihat mengabaikan biaya peluang dan konsekuensi tak langsung, menghasilkan keputusan keliru. Berpikir kritis menimbang yang tampak maupun tak tampak."
+ },
+ {
+  "q": "Tiga saklar di lantai bawah mengontrol tiga lampu di lantai atas; Anda hanya boleh naik sekali. Strategi yang memungkinkan mengidentifikasi pasangan saklar-lampu memanfaatkan:",
+  "opsi": [
+   "Hanya kondisi nyala/mati",
+   "Variabel tambahan berupa panas bohlam: nyalakan satu lalu matikan, nyalakan saklar kedua, lalu naik",
+   "Menebak secara acak",
+   "Mustahil dipecahkan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Dengan menambah dimensi informasi (suhu): saklar1 dinyalakan beberapa menit lalu dimatikan, saklar2 dinyalakan, saklar3 dibiarkan mati. Di atas: lampu menyala = saklar2; mati tapi hangat = saklar1; mati dan dingin = saklar3. Berpikir kritis menambah variabel di luar dua keadaan biner."
+ }
+]
