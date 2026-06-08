@@ -1,0 +1,1328 @@
+[
+ {
+  "id": "TK-001",
+  "kompetensi": "teknis",
+  "q": "Apa yang dimaksud dengan Standar Operasional Prosedur (SOP) dalam lingkup kerja ASN?",
+  "opsi": [
+   "Petunjuk kerja yang bersifat opsional",
+   "Peraturan pemerintah yang bersifat hukum pidana",
+   "Dokumen yang berisi prosedur kerja yang standar",
+   "Aturan internal yang bersifat rahasia"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Dokumen yang berisi prosedur kerja yang standar. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-002",
+  "kompetensi": "teknis",
+  "q": "Dalam proses penyusunan anggaran, hal pertama yang perlu dilakukan oleh ASN adalah:",
+  "opsi": [
+   "Mengevaluasi laporan keuangan tahun lalu",
+   "Menyusun dokumen pelaksanaan anggaran",
+   "Melakukan pengadaan barang dan jasa",
+   "Melakukan perencanaan kegiatan dan kebutuhan biaya"
+  ],
+  "jawaban": 3,
+  "pembahasan": "Jawaban yang tepat: (D) Melakukan perencanaan kegiatan dan kebutuhan biaya. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-003",
+  "kompetensi": "teknis",
+  "q": "Dokumen Rencana Kerja Pemerintah (RKP) disusun setiap:",
+  "opsi": [
+   "6 bulan",
+   "1 tahun",
+   "2 tahun",
+   "5 tahun"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) 1 tahun. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-004",
+  "kompetensi": "teknis",
+  "q": "Apa peran e-Performance dalam kinerja ASN?",
+  "opsi": [
+   "Menyimpan data pribadi pegawai",
+   "Memantau aktivitas absensi pegawai",
+   "Menilai dan memantau kinerja pegawai secara elektronik",
+   "Menganalisis data pemilu"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menilai dan memantau kinerja pegawai secara elektronik. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-005",
+  "kompetensi": "teknis",
+  "q": "Dalam UU ASN, manajemen ASN diatur dalam Undang-Undang nomor:",
+  "opsi": [
+   "17 Tahun 2003",
+   "5 Tahun 2014",
+   "23 Tahun 2011",
+   "32 Tahun 2004"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) 5 Tahun 2014. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-006",
+  "kompetensi": "teknis",
+  "q": "Aplikasi SIPD digunakan oleh ASN untuk mendukung kegiatan:",
+  "opsi": [
+   "Pelaporan internal kepegawaian",
+   "Penjadwalan kegiatan dinas luar",
+   "Pengelolaan informasi pemerintahan daerah",
+   "Proses rekrutmen ASN baru"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pengelolaan informasi pemerintahan daerah. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-007",
+  "kompetensi": "teknis",
+  "q": "Yang termasuk dalam pengadaan barang dan jasa pemerintah adalah:",
+  "opsi": [
+   "Rekrutmen pegawai honorer",
+   "Penyusunan RKA-KL",
+   "Pembuatan kontrak kerja pembangunan fisik",
+   "Penyusunan laporan keuangan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pembuatan kontrak kerja pembangunan fisik. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-008",
+  "kompetensi": "teknis",
+  "q": "Apa yang dimaksud dengan e-Government?",
+  "opsi": [
+   "Pemerintah yang dibentuk oleh swasta",
+   "Sistem birokrasi berbasis telekomunikasi",
+   "Penggunaan teknologi informasi dalam tata kelola pemerintahan",
+   "Sistem pemilu berbasis elektronik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Penggunaan teknologi informasi dalam tata kelola pemerintahan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-009",
+  "kompetensi": "teknis",
+  "q": "Siapa yang bertanggung jawab atas pelaksanaan anggaran di sebuah instansi?",
+  "opsi": [
+   "Kepala Sub Bagian Keuangan",
+   "Pejabat Pembuat Komitmen",
+   "Kepala Biro Umum",
+   "Kuasa Pengguna Anggaran"
+  ],
+  "jawaban": 3,
+  "pembahasan": "Jawaban yang tepat: (D) Kuasa Pengguna Anggaran. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-010",
+  "kompetensi": "teknis",
+  "q": "Dalam proses penyusunan laporan keuangan, ASN wajib menerapkan prinsip:",
+  "opsi": [
+   "Transparansi dan akuntabilitas",
+   "Efisiensi dan rahasia",
+   "Subjektivitas dan loyalitas",
+   "Kesederhanaan dan kecepatan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Transparansi dan akuntabilitas. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-011",
+  "kompetensi": "teknis",
+  "q": "Program reformasi birokrasi bertujuan untuk:",
+  "opsi": [
+   "Menambah jumlah pegawai ASN",
+   "Meningkatkan efisiensi dan kualitas pelayanan publik",
+   "Meningkatkan anggaran lembaga",
+   "Mengganti seluruh pejabat lama"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Meningkatkan efisiensi dan kualitas pelayanan publik. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-012",
+  "kompetensi": "teknis",
+  "q": "Laporan pertanggungjawaban keuangan biasanya disusun dalam bentuk:",
+  "opsi": [
+   "SKP",
+   "LRA dan Neraca",
+   "Nota Dinas",
+   "Peraturan Presiden"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) LRA dan Neraca. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-013",
+  "kompetensi": "teknis",
+  "q": "Layanan publik dikatakan berkualitas jika memenuhi unsur:",
+  "opsi": [
+   "Cepat, mahal, dan terbatas",
+   "Transparan, lambat, dan akurat",
+   "Cepat, tepat, dan terjangkau",
+   "Bebas, eksklusif, dan rahasia"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Cepat, tepat, dan terjangkau. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-014",
+  "kompetensi": "teknis",
+  "q": "Dalam sistem perencanaan nasional, RPJMN berlaku selama:",
+  "opsi": [
+   "1 tahun",
+   "3 tahun",
+   "5 tahun",
+   "10 tahun"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) 5 tahun. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-015",
+  "kompetensi": "teknis",
+  "q": "Aplikasi SAKTI digunakan ASN untuk:",
+  "opsi": [
+   "Melaporkan kinerja harian",
+   "Mengelola keuangan instansi",
+   "Menganalisis data pemilu",
+   "Mengatur absensi pegawai"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengelola keuangan instansi. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-016",
+  "kompetensi": "teknis",
+  "q": "Peran Pejabat Pembuat Komitmen (PPK) dalam pengadaan adalah:",
+  "opsi": [
+   "Menyusun TOR dan HPS",
+   "Mengesahkan SK CPNS",
+   "Mengatur jadwal kerja harian",
+   "Melakukan audit internal"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Menyusun TOR dan HPS. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-017",
+  "kompetensi": "teknis",
+  "q": "Metode penyusunan anggaran berbasis kinerja menekankan pada:",
+  "opsi": [
+   "Besarnya gaji pegawai",
+   "Jumlah pengeluaran",
+   "Output dan outcome",
+   "Jumlah tenaga kerja"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Output dan outcome. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-018",
+  "kompetensi": "teknis",
+  "q": "e-Monev digunakan untuk:",
+  "opsi": [
+   "Evaluasi dan monitoring program pembangunan",
+   "Membuat anggaran tahunan",
+   "Rekrutmen ASN baru",
+   "Penilaian prestasi kerja"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Evaluasi dan monitoring program pembangunan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-019",
+  "kompetensi": "teknis",
+  "q": "Pengelolaan arsip dinamis dilakukan oleh:",
+  "opsi": [
+   "Sekretaris daerah",
+   "Kepala biro",
+   "Arsiparis",
+   "Auditor internal"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Arsiparis. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-020",
+  "kompetensi": "teknis",
+  "q": "Apa yang dimaksud dengan output dalam suatu program?",
+  "opsi": [
+   "Dampak jangka panjang",
+   "Sumber daya yang digunakan",
+   "Hasil langsung dari kegiatan",
+   "Biaya pelaksanaan kegiatan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Hasil langsung dari kegiatan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-021",
+  "kompetensi": "teknis",
+  "q": "Salah satu indikator keberhasilan pelaksanaan anggaran adalah:",
+  "opsi": [
+   "Penyerapan anggaran tinggi",
+   "Banyaknya pegawai",
+   "Jumlah proposal yang diajukan",
+   "Lama waktu pelaksanaan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Penyerapan anggaran tinggi. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-022",
+  "kompetensi": "teknis",
+  "q": "SKP disusun berdasarkan:",
+  "opsi": [
+   "RPJMN",
+   "Analisis SWOT",
+   "Sasaran kinerja organisasi",
+   "Penilaian atasan langsung"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Sasaran kinerja organisasi. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-023",
+  "kompetensi": "teknis",
+  "q": "Aplikasi OM-SPAN digunakan untuk:",
+  "opsi": [
+   "Manajemen absensi pegawai",
+   "Pengelolaan kinerja",
+   "Sistem pembayaran pemerintah",
+   "Proses mutasi ASN"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Sistem pembayaran pemerintah. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-024",
+  "kompetensi": "teknis",
+  "q": "Salah satu tujuan pelaporan keuangan adalah:",
+  "opsi": [
+   "Menyembunyikan defisit",
+   "Menampilkan kekuatan politik",
+   "Memberikan informasi yang relevan dan andal",
+   "Meningkatkan birokrasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Memberikan informasi yang relevan dan andal. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-025",
+  "kompetensi": "teknis",
+  "q": "Laporan kinerja instansi pemerintah disusun setiap:",
+  "opsi": [
+   "1 bulan",
+   "3 bulan",
+   "6 bulan",
+   "1 tahun"
+  ],
+  "jawaban": 3,
+  "pembahasan": "Jawaban yang tepat: (D) 1 tahun. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-026",
+  "kompetensi": "teknis",
+  "q": "Dalam sistem merit, pengembangan karier ASN berdasarkan:",
+  "opsi": [
+   "Senioritas",
+   "Hubungan kekeluargaan",
+   "Kompetensi dan kinerja",
+   "Kedekatan dengan atasan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kompetensi dan kinerja. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-027",
+  "kompetensi": "teknis",
+  "q": "Salah satu prinsip dalam manajemen proyek adalah:",
+  "opsi": [
+   "Tidak perlu pengawasan",
+   "Tanpa evaluasi",
+   "Perencanaan dan pengendalian",
+   "Asal cepat selesai"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Perencanaan dan pengendalian. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-028",
+  "kompetensi": "teknis",
+  "q": "Siapa yang menyusun TOR (Term of Reference) dalam kegiatan pengadaan barang/jasa?",
+  "opsi": [
+   "Auditor internal",
+   "PPK",
+   "Penyedia jasa",
+   "KPA"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) PPK. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-029",
+  "kompetensi": "teknis",
+  "q": "Apa yang termasuk biaya langsung dalam proyek?",
+  "opsi": [
+   "Sewa kantor",
+   "Gaji pegawai tetap",
+   "Pembelian bahan untuk kegiatan",
+   "Biaya listrik"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pembelian bahan untuk kegiatan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-030",
+  "kompetensi": "teknis",
+  "q": "Tujuan dari evaluasi program adalah:",
+  "opsi": [
+   "Menghentikan kegiatan yang sedang berjalan",
+   "Menghukum pelaksana",
+   "Menilai capaian dan memperbaiki pelaksanaan ke depan",
+   "Mengurangi anggaran"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Menilai capaian dan memperbaiki pelaksanaan ke depan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-031",
+  "kompetensi": "teknis",
+  "q": "Instrumen yang digunakan untuk mengukur pencapaian kinerja individu ASN adalah:",
+  "opsi": [
+   "NPWP",
+   "SKP",
+   "NIP",
+   "DPA"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) SKP. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-032",
+  "kompetensi": "teknis",
+  "q": "Dalam manajemen risiko, langkah pertama yang dilakukan adalah:",
+  "opsi": [
+   "Menentukan respon risiko",
+   "Mencari dana cadangan",
+   "Identifikasi risiko",
+   "Menyusun laporan keuangan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Identifikasi risiko. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-033",
+  "kompetensi": "teknis",
+  "q": "Salah satu bentuk perencanaan strategis instansi pemerintah adalah:",
+  "opsi": [
+   "Rencana Belanja",
+   "Rencana Tahunan Proyek",
+   "Renstra",
+   "TOR"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Renstra. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-034",
+  "kompetensi": "teknis",
+  "q": "Dalam SPIP (Sistem Pengendalian Intern Pemerintah), unsur utama adalah:",
+  "opsi": [
+   "Penindakan dan pengawasan",
+   "Perencanaan dan realisasi",
+   "Lingkungan pengendalian, penilaian risiko, informasi dan komunikasi",
+   "Keamanan dan kecepatan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Lingkungan pengendalian, penilaian risiko, informasi dan komunikasi. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-035",
+  "kompetensi": "teknis",
+  "q": "Laporan akuntabilitas kinerja instansi pemerintah disebut:",
+  "opsi": [
+   "LKPJ",
+   "RKA",
+   "LAKIP",
+   "TOR"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) LAKIP. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-036",
+  "kompetensi": "teknis",
+  "q": "Rencana kerja tahunan dalam instansi dikenal sebagai:",
+  "opsi": [
+   "RKPD",
+   "Renja",
+   "RKP",
+   "Renstra"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Renja. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-037",
+  "kompetensi": "teknis",
+  "q": "Metode SMART dalam penyusunan SKP adalah singkatan dari:",
+  "opsi": [
+   "Strategi, Manajemen, Anggaran, Rencana, T aktik",
+   "Spesifik, Measurable, Achievable, Relevant, Time-bound",
+   "Supervisi, Monitoring, Analisis, Review, Timeline",
+   "Sasaran, Misi, Anggaran, Rencana, Target"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Spesifik, Measurable, Achievable, Relevant, Time-bound. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-038",
+  "kompetensi": "teknis",
+  "q": "Pagu anggaran adalah:",
+  "opsi": [
+   "Jumlah anggaran yang telah direalisasikan",
+   "Total dana yang diminta oleh instansi",
+   "Batas tertinggi anggaran yang disediakan",
+   "Biaya pengeluaran bulanan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Batas tertinggi anggaran yang disediakan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-039",
+  "kompetensi": "teknis",
+  "q": "Analisis SWOT digunakan dalam:",
+  "opsi": [
+   "Evaluasi program kegiatan",
+   "Penilaian prestasi kerja",
+   "Penyusunan peraturan daerah",
+   "Perencanaan strategis"
+  ],
+  "jawaban": 3,
+  "pembahasan": "Jawaban yang tepat: (D) Perencanaan strategis. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-040",
+  "kompetensi": "teknis",
+  "q": "Instrumen pelaporan keuangan yang digunakan oleh instansi pemerintah pusat adalah:",
+  "opsi": [
+   "SIMDA",
+   "SAKTI",
+   "e-Kinerja",
+   "SIRUP"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) SAKTI. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-041",
+  "kompetensi": "teknis",
+  "q": "Fungsi utama dari SIRUP adalah:",
+  "opsi": [
+   "Sistem informasi rekap data pegawai",
+   "Sistem informasi untuk absensi",
+   "Sistem informasi rencana umum pengadaan",
+   "Sistem informasi mutasi ASN"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Sistem informasi rencana umum pengadaan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-042",
+  "kompetensi": "teknis",
+  "q": "Dalam proyek pemerintah, baseline digunakan untuk:",
+  "opsi": [
+   "Penyesuaian dana",
+   "Standar perbandingan kinerja",
+   "Alat komunikasi",
+   "Rencana suku bunga"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Standar perbandingan kinerja. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-043",
+  "kompetensi": "teknis",
+  "q": "Salah satu dokumen pendukung dalam pengadaan barang/jasa adalah:",
+  "opsi": [
+   "Renstra",
+   "TOR dan RAB",
+   "LAKIP",
+   "SKP"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) TOR dan RAB. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-044",
+  "kompetensi": "teknis",
+  "q": "Siapa yang bertanggung jawab membuat perjanjian kerja sama dalam pengadaan?",
+  "opsi": [
+   "PPK",
+   "KPA",
+   "Kepala Seksi",
+   "Bendahara"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) PPK. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-045",
+  "kompetensi": "teknis",
+  "q": "Satuan biaya perjalanan dinas diatur dalam:",
+  "opsi": [
+   "SKP",
+   "Perpres tentang standar biaya",
+   "Peraturan daerah",
+   "UU ASN"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Perpres tentang standar biaya. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-046",
+  "kompetensi": "teknis",
+  "q": "Aplikasi yang digunakan untuk menyusun dan merekam data rencana dan realisasi anggaran adalah:",
+  "opsi": [
+   "e-SPM",
+   "SIMAK-BMN",
+   "SAKTI",
+   "SIPKD"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) SAKTI. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-047",
+  "kompetensi": "teknis",
+  "q": "Tujuan adanya mekanisme pelaporan SPIP adalah:",
+  "opsi": [
+   "Meningkatkan kerahasiaan data",
+   "Menghemat anggaran",
+   "Meningkatkan efektivitas dan efisiensi organisasi",
+   "Menambah laporan tahunan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan efektivitas dan efisiensi organisasi. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-048",
+  "kompetensi": "teknis",
+  "q": "Salah satu manfaat penggunaan teknologi informasi dalam administrasi pemerintahan adalah:",
+  "opsi": [
+   "Menambah pekerjaan manual",
+   "Menurunkan produktivitas",
+   "Meningkatkan efisiensi dan transparansi",
+   "Mengurangi jumlah ASN"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan efisiensi dan transparansi. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-049",
+  "kompetensi": "teknis",
+  "q": "SIKD adalah sistem informasi untuk:",
+  "opsi": [
+   "Keuangan",
+   "Kinerja",
+   "Kearsipan",
+   "Pengadaan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kearsipan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-050",
+  "kompetensi": "teknis",
+  "q": "Peraturan pemerintah tentang pengadaan barang/jasa adalah PP Nomor:",
+  "opsi": [
+   "48 Tahun 2005",
+   "45 Tahun 2013",
+   "16 Tahun 2018",
+   "40 Tahun 2004"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) 16 Tahun 2018. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-051",
+  "kompetensi": "teknis",
+  "q": "SIMAK-BMN adalah sistem untuk:",
+  "opsi": [
+   "Pengelolaan keuangan daerah",
+   "Penilaian kinerja ASN",
+   "Pengelolaan aset dan barang milik negara",
+   "Analisis risiko organisasi"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Pengelolaan aset dan barang milik negara. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-052",
+  "kompetensi": "teknis",
+  "q": "Kode Rekening dalam anggaran digunakan untuk:",
+  "opsi": [
+   "Memudahkan pengawasan kinerja pegawai",
+   "Membedakan jenis belanja",
+   "Mencatat jam kerja",
+   "Membuat laporan SKP"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Membedakan jenis belanja. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-053",
+  "kompetensi": "teknis",
+  "q": "SPM adalah singkatan dari:",
+  "opsi": [
+   "Surat Pembayaran Manual",
+   "Sistem Perencanaan Mandiri",
+   "Surat Perintah Membayar",
+   "Sistem Pelaporan Mandiri"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Surat Perintah Membayar. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-054",
+  "kompetensi": "teknis",
+  "q": "Sistem aplikasi pelaporan online berbasis akuntansi dikenal dengan:",
+  "opsi": [
+   "SAKTI",
+   "e-SPM",
+   "e-Monev",
+   "SIMDA"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) SAKTI. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-055",
+  "kompetensi": "teknis",
+  "q": "Dalam proses audit, auditor internal harus bersifat:",
+  "opsi": [
+   "Netral dan objektif",
+   "Subjektif dan cepat",
+   "Loyal kepada atasan",
+   "Hanya memeriksa pelaporan keuangan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Netral dan objektif. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-056",
+  "kompetensi": "teknis",
+  "q": "LPSE berperan dalam:",
+  "opsi": [
+   "Proses pengadaan barang/jasa secara elektronik",
+   "Perekrutan ASN",
+   "Evaluasi kinerja",
+   "Mutasi jabatan"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Jawaban yang tepat: (A) Proses pengadaan barang/jasa secara elektronik. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-057",
+  "kompetensi": "teknis",
+  "q": "Penetapan Kinerja dilakukan pada awal:",
+  "opsi": [
+   "Triwulan",
+   "Semester",
+   "Tahun anggaran",
+   "Bulan"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tahun anggaran. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-058",
+  "kompetensi": "teknis",
+  "q": "Monitoring adalah proses untuk:",
+  "opsi": [
+   "Menilai proyek selesai atau tidak",
+   "Melaporkan pencapaian ke media",
+   "Mengamati dan menilai pelaksanaan program",
+   "Menyusun RAB"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengamati dan menilai pelaksanaan program. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-059",
+  "kompetensi": "teknis",
+  "q": "Evaluasi dilakukan setelah:",
+  "opsi": [
+   "Penyusunan anggaran",
+   "Pelaksanaan kegiatan",
+   "Pengadaan barang",
+   "Pemotongan anggaran"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Pelaksanaan kegiatan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-060",
+  "kompetensi": "teknis",
+  "q": "Tujuan utama pengelolaan aset negara adalah:",
+  "opsi": [
+   "Menjual seluruh aset yang tidak dipakai",
+   "Meningkatkan PAD",
+   "Mengoptimalkan pemanfaatan dan akuntabilitas",
+   "Mengurangi biaya operasional"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Mengoptimalkan pemanfaatan dan akuntabilitas. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-061",
+  "kompetensi": "teknis",
+  "q": "Dalam menyusun RKA-KL, hal yang harus diperhatikan adalah:",
+  "opsi": [
+   "Kemauan atasan",
+   "Ketersediaan tenaga honorer",
+   "Kebutuhan nyata dan kesesuaian dengan prioritas nasional",
+   "Kepentingan pihak ketiga"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Kebutuhan nyata dan kesesuaian dengan prioritas nasional. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-062",
+  "kompetensi": "teknis",
+  "q": "Prinsip efektivitas dalam pengelolaan anggaran berarti:",
+  "opsi": [
+   "Menghabiskan seluruh anggaran",
+   "Mendapatkan hasil maksimal dengan biaya optimal",
+   "Mengutamakan pengadaan barang",
+   "Mengurangi jumlah pegawai"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mendapatkan hasil maksimal dengan biaya optimal. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-063",
+  "kompetensi": "teknis",
+  "q": "Salah satu prinsip dasar Good Governance adalah:",
+  "opsi": [
+   "Kecepatan kerja",
+   "Efisiensi waktu",
+   "Akuntabilitas",
+   "Ketaatan hierarki"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Akuntabilitas. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-064",
+  "kompetensi": "teknis",
+  "q": "Renja disusun setiap:",
+  "opsi": [
+   "Triwulan",
+   "Semester",
+   "Tahun",
+   "Lima tahun"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Tahun. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-065",
+  "kompetensi": "teknis",
+  "q": "Sistem akuntabilitas kinerja instansi pemerintah bertujuan untuk:",
+  "opsi": [
+   "Menambah tunjangan",
+   "Mengatur mutasi",
+   "Meningkatkan transparansi dan akuntabilitas",
+   "Mengurangi jumlah pegawai"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Meningkatkan transparansi dan akuntabilitas. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-066",
+  "kompetensi": "teknis",
+  "q": "Salah satu peran analis kebijakan adalah:",
+  "opsi": [
+   "Menyiapkan anggaran",
+   "Melakukan riset dan merumuskan rekomendasi kebijakan",
+   "Melaksanakan audit",
+   "Menjadi juru bicara lembaga"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Melakukan riset dan merumuskan rekomendasi kebijakan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-067",
+  "kompetensi": "teknis",
+  "q": "Laporan keuangan pemerintah harus memenuhi asas:",
+  "opsi": [
+   "Asal cepat",
+   "Transparansi dan akuntabilitas",
+   "Kerahasiaan",
+   "Kepentingan internal saja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Transparansi dan akuntabilitas. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-068",
+  "kompetensi": "teknis",
+  "q": "Dalam sistem pengadaan, siapa yang menyusun HPS?",
+  "opsi": [
+   "Kepala bagian umum",
+   "PPK",
+   "Auditor",
+   "Kepala biro hukum"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) PPK. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-069",
+  "kompetensi": "teknis",
+  "q": "Dalam pengelolaan risiko, risiko strategis dapat berdampak pada:",
+  "opsi": [
+   "Kehilangan barang kecil",
+   "Operasional harian",
+   "Capaian tujuan organisasi secara keseluruhan",
+   "Gaji pegawai"
+  ],
+  "jawaban": 2,
+  "pembahasan": "Jawaban yang tepat: (C) Capaian tujuan organisasi secara keseluruhan. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-070",
+  "kompetensi": "teknis",
+  "q": "Indikator kinerja utama (IKU) berguna untuk:",
+  "opsi": [
+   "Menentukan gaji pegawai",
+   "Menilai keberhasilan organisasi",
+   "Mengelola arsip",
+   "Mengatur jam kerja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Menilai keberhasilan organisasi. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-071",
+  "kompetensi": "teknis",
+  "q": "Fungsi utama dari SPSE adalah:",
+  "opsi": [
+   "Menyimpan data pegawai",
+   "Mengelola transaksi pengadaan secara elektronik",
+   "Membuat laporan kinerja",
+   "Menyusun APBN"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Mengelola transaksi pengadaan secara elektronik. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "id": "TK-072",
+  "kompetensi": "teknis",
+  "q": "SKP harus disusun berdasarkan prinsip:",
+  "opsi": [
+   "Senioritas dan jabatan",
+   "Tugas jabatan dan hasil yang ingin dicapai",
+   "Banyaknya pekerjaan",
+   "Durasi bekerja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jawaban yang tepat: (B) Tugas jabatan dan hasil yang ingin dicapai. Opsi ini paling sesuai dengan prinsip tata kelola, regulasi, dan administrasi pemerintahan yang benar, sedangkan opsi lain kurang relevan atau bertentangan dengan prinsip tersebut."
+ },
+ {
+  "q": "Undang-Undang tentang Aparatur Sipil Negara yang terbaru menggantikan UU No. 5 Tahun 2014 adalah:",
+  "opsi": [
+   "UU No. 20 Tahun 2023",
+   "UU No. 23 Tahun 2014",
+   "UU No. 11 Tahun 2020",
+   "UU No. 30 Tahun 2014"
+  ],
+  "jawaban": 0,
+  "pembahasan": "UU No. 20 Tahun 2023 tentang ASN menggantikan UU No. 5 Tahun 2014, mengatur antara lain penataan tenaga non-ASN dan penguatan sistem merit.",
+  "kompetensi": "teknis",
+  "id": "TK-073"
+ },
+ {
+  "q": "Dalam UU ASN, pegawai ASN terdiri atas:",
+  "opsi": [
+   "PNS dan TNI",
+   "PNS dan PPPK",
+   "PNS dan honorer",
+   "PPPK dan tenaga kontrak"
+  ],
+  "jawaban": 1,
+  "pembahasan": "ASN terdiri atas PNS (Pegawai Negeri Sipil) dan PPPK (Pegawai Pemerintah dengan Perjanjian Kerja).",
+  "kompetensi": "teknis",
+  "id": "TK-074"
+ },
+ {
+  "q": "Sistem merit dalam manajemen ASN menekankan pada:",
+  "opsi": [
+   "Kedekatan dengan pejabat",
+   "Kualifikasi, kompetensi, dan kinerja secara adil",
+   "Senioritas dan masa kerja",
+   "Afiliasi politik"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Sistem merit adalah kebijakan manajemen ASN berdasarkan kualifikasi, kompetensi, dan kinerja secara adil dan wajar tanpa diskriminasi.",
+  "kompetensi": "teknis",
+  "id": "TK-075"
+ },
+ {
+  "q": "Nilai dasar ASN BerAKHLAK merupakan akronim dari:",
+  "opsi": [
+   "Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif",
+   "Bersih, Akuntabel, Kreatif, Harmonis, Loyal, Aktif, Kompeten",
+   "Berani, Adil, Kuat, Hebat, Loyal, Aman, Kompak",
+   "Berorientasi Hasil, Amanah, Kompeten, Hemat, Loyal, Akurat, Kolektif"
+  ],
+  "jawaban": 0,
+  "pembahasan": "BerAKHLAK: Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif — core values ASN sesuai SE Menteri PANRB.",
+  "kompetensi": "teknis",
+  "id": "TK-076"
+ },
+ {
+  "q": "Penilaian kinerja PNS saat ini menggunakan pendekatan yang terdiri dari:",
+  "opsi": [
+   "SKP dan DP3",
+   "SKP dan Perilaku Kerja",
+   "Absensi dan SKP",
+   "DP3 dan kehadiran"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Sesuai PP 30/2019, penilaian kinerja PNS terdiri dari SKP (Sasaran Kinerja Pegawai) dan penilaian Perilaku Kerja.",
+  "kompetensi": "teknis",
+  "id": "TK-077"
+ },
+ {
+  "q": "Dokumen yang memuat target kinerja yang harus dicapai pegawai dalam satu tahun adalah:",
+  "opsi": [
+   "DPA",
+   "SKP",
+   "RKA",
+   "LAKIP"
+  ],
+  "jawaban": 1,
+  "pembahasan": "SKP (Sasaran Kinerja Pegawai) memuat target kinerja individu yang diturunkan dari sasaran organisasi.",
+  "kompetensi": "teknis",
+  "id": "TK-078"
+ },
+ {
+  "q": "Tahapan siklus anggaran (APBN) yang benar secara berurutan adalah:",
+  "opsi": [
+   "Pelaksanaan, perencanaan, pertanggungjawaban",
+   "Perencanaan, penetapan, pelaksanaan, pertanggungjawaban",
+   "Penetapan, pelaksanaan, perencanaan",
+   "Pertanggungjawaban, pelaksanaan, perencanaan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Siklus APBN: perencanaan & penganggaran, penetapan/pengesahan, pelaksanaan, lalu pelaporan & pertanggungjawaban.",
+  "kompetensi": "teknis",
+  "id": "TK-079"
+ },
+ {
+  "q": "Lembaga yang berwenang memeriksa pengelolaan dan tanggung jawab keuangan negara adalah:",
+  "opsi": [
+   "BPKP",
+   "BPK",
+   "KPK",
+   "Inspektorat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "BPK (Badan Pemeriksa Keuangan) adalah lembaga negara yang memeriksa pengelolaan dan tanggung jawab keuangan negara sesuai UUD 1945.",
+  "kompetensi": "teknis",
+  "id": "TK-080"
+ },
+ {
+  "q": "Opini tertinggi yang dapat diberikan BPK atas laporan keuangan adalah:",
+  "opsi": [
+   "Wajar Dengan Pengecualian (WDP)",
+   "Tidak Wajar (TW)",
+   "Wajar Tanpa Pengecualian (WTP)",
+   "Tidak Menyatakan Pendapat (TMP)"
+  ],
+  "jawaban": 2,
+  "pembahasan": "WTP (Wajar Tanpa Pengecualian) adalah opini terbaik, menyatakan laporan keuangan disajikan wajar dalam semua hal yang material.",
+  "kompetensi": "teknis",
+  "id": "TK-081"
+ },
+ {
+  "q": "Batas nilai pengadaan barang/jasa yang dapat dilakukan melalui Pengadaan Langsung untuk barang diatur dalam:",
+  "opsi": [
+   "Perpres 16 Tahun 2018 beserta perubahannya",
+   "UU 17 Tahun 2003",
+   "PP 60 Tahun 2008",
+   "Permendagri 13 Tahun 2006"
+  ],
+  "jawaban": 0,
+  "pembahasan": "Pengadaan barang/jasa pemerintah diatur dalam Perpres 16/2018 (diubah dengan Perpres 12/2021), termasuk metode pemilihan seperti Pengadaan Langsung.",
+  "kompetensi": "teknis",
+  "id": "TK-082"
+ },
+ {
+  "q": "Sistem Pengendalian Intern Pemerintah (SPIP) diatur dalam:",
+  "opsi": [
+   "PP 60 Tahun 2008",
+   "PP 30 Tahun 2019",
+   "UU 5 Tahun 2014",
+   "Perpres 81 Tahun 2010"
+  ],
+  "jawaban": 0,
+  "pembahasan": "SPIP diatur dalam PP No. 60 Tahun 2008, dengan lima unsur termasuk lingkungan pengendalian dan penilaian risiko.",
+  "kompetensi": "teknis",
+  "id": "TK-083"
+ },
+ {
+  "q": "Reformasi Birokrasi memiliki tiga sasaran utama, salah satunya adalah:",
+  "opsi": [
+   "Menambah jumlah kementerian",
+   "Birokrasi yang bersih dan akuntabel",
+   "Memperbanyak peraturan",
+   "Memperpanjang prosedur"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Tiga sasaran RB: birokrasi yang bersih & akuntabel, efektif & efisien, serta pelayanan publik yang berkualitas.",
+  "kompetensi": "teknis",
+  "id": "TK-084"
+ },
+ {
+  "q": "Dokumen perencanaan pembangunan nasional jangka panjang (RPJPN) berlaku untuk periode:",
+  "opsi": [
+   "5 tahun",
+   "10 tahun",
+   "20 tahun",
+   "1 tahun"
+  ],
+  "jawaban": 2,
+  "pembahasan": "RPJPN berlaku 20 tahun, RPJMN 5 tahun, dan RKP (Rencana Kerja Pemerintah) tahunan.",
+  "kompetensi": "teknis",
+  "id": "TK-085"
+ },
+ {
+  "q": "Asas penyelenggaraan pelayanan publik menurut UU 25 Tahun 2009 antara lain:",
+  "opsi": [
+   "Kerahasiaan dan eksklusivitas",
+   "Kepentingan umum, kepastian hukum, dan keterbukaan",
+   "Kecepatan tanpa standar",
+   "Diskriminasi positif"
+  ],
+  "jawaban": 1,
+  "pembahasan": "UU 25/2009 menetapkan asas pelayanan publik: kepentingan umum, kepastian hukum, kesamaan hak, keterbukaan, akuntabilitas, dan lainnya.",
+  "kompetensi": "teknis",
+  "id": "TK-086"
+ },
+ {
+  "q": "Standar Pelayanan Publik wajib memuat, antara lain:",
+  "opsi": [
+   "Gaji petugas",
+   "Persyaratan, prosedur, jangka waktu, dan biaya/tarif",
+   "Nomor rekening pribadi",
+   "Jadwal cuti pegawai"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Komponen standar pelayanan mencakup persyaratan, sistem/mekanisme/prosedur, jangka waktu penyelesaian, biaya/tarif, dan produk layanan.",
+  "kompetensi": "teknis",
+  "id": "TK-087"
+ },
+ {
+  "q": "Jenis jabatan dalam ASN terdiri atas Jabatan Administrasi, Jabatan Fungsional, dan:",
+  "opsi": [
+   "Jabatan Politik",
+   "Jabatan Pimpinan Tinggi",
+   "Jabatan Honorer",
+   "Jabatan Kontrak"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Jabatan ASN: Jabatan Administrasi (JA), Jabatan Fungsional (JF), dan Jabatan Pimpinan Tinggi (JPT).",
+  "kompetensi": "teknis",
+  "id": "TK-088"
+ },
+ {
+  "q": "Aplikasi yang digunakan untuk perencanaan dan penganggaran keuangan daerah secara terintegrasi adalah:",
+  "opsi": [
+   "SIPD",
+   "SAKTI",
+   "SIMAK-BMN",
+   "SIRUP"
+  ],
+  "jawaban": 0,
+  "pembahasan": "SIPD (Sistem Informasi Pemerintahan Daerah) digunakan untuk perencanaan, penganggaran, dan pengelolaan keuangan daerah secara terintegrasi.",
+  "kompetensi": "teknis",
+  "id": "TK-089"
+ },
+ {
+  "q": "Prinsip pengadaan barang/jasa pemerintah meliputi efisien, efektif, transparan, terbuka, bersaing, adil, dan:",
+  "opsi": [
+   "Rahasia",
+   "Akuntabel",
+   "Lambat",
+   "Eksklusif"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Prinsip pengadaan: efisien, efektif, transparan, terbuka, bersaing, adil, dan akuntabel (Perpres 16/2018).",
+  "kompetensi": "teknis",
+  "id": "TK-090"
+ },
+ {
+  "q": "Pejabat yang diberi kewenangan oleh PA untuk mengambil keputusan dan/atau tindakan yang dapat mengakibatkan pengeluaran anggaran belanja adalah:",
+  "opsi": [
+   "Bendahara",
+   "PPK (Pejabat Pembuat Komitmen)",
+   "Auditor",
+   "Arsiparis"
+  ],
+  "jawaban": 1,
+  "pembahasan": "PPK bertugas membuat komitmen/perikatan yang berdampak pada pengeluaran anggaran, termasuk menetapkan HPS dan menandatangani kontrak.",
+  "kompetensi": "teknis",
+  "id": "TK-091"
+ },
+ {
+  "q": "E-government bertujuan utama untuk:",
+  "opsi": [
+   "Mengganti seluruh pegawai dengan mesin",
+   "Meningkatkan kualitas, efisiensi, dan transparansi pelayanan publik berbasis TIK",
+   "Menambah beban administrasi",
+   "Membatasi akses masyarakat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "E-government memanfaatkan TIK untuk meningkatkan efisiensi, transparansi, dan kualitas layanan pemerintah kepada masyarakat (SPBE).",
+  "kompetensi": "teknis",
+  "id": "TK-092"
+ },
+ {
+  "q": "SPBE (Sistem Pemerintahan Berbasis Elektronik) diatur dalam:",
+  "opsi": [
+   "Perpres 95 Tahun 2018",
+   "UU 14 Tahun 2008",
+   "PP 60 Tahun 2008",
+   "UU 11 Tahun 2008"
+  ],
+  "jawaban": 0,
+  "pembahasan": "SPBE diatur dalam Perpres No. 95 Tahun 2018, kerangka penyelenggaraan pemerintahan yang memanfaatkan TIK secara terpadu.",
+  "kompetensi": "teknis",
+  "id": "TK-093"
+ },
+ {
+  "q": "Manajemen risiko sektor publik bertujuan untuk:",
+  "opsi": [
+   "Menghapus seluruh risiko",
+   "Mengidentifikasi, menilai, dan mengendalikan risiko agar tujuan organisasi tercapai",
+   "Menambah pekerjaan",
+   "Menghindari semua kegiatan"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Manajemen risiko bukan menghilangkan risiko, melainkan mengelolanya (identifikasi, analisis, evaluasi, penanganan) agar sasaran tercapai.",
+  "kompetensi": "teknis",
+  "id": "TK-094"
+ },
+ {
+  "q": "Akuntabilitas kinerja instansi pemerintah dilaporkan melalui dokumen:",
+  "opsi": [
+   "LAKIP/LKjIP",
+   "SKP",
+   "DPA",
+   "TOR"
+  ],
+  "jawaban": 0,
+  "pembahasan": "LKjIP (dulu LAKIP) adalah laporan kinerja instansi pemerintah yang menyajikan capaian sasaran dibanding target dalam perjanjian kinerja.",
+  "kompetensi": "teknis",
+  "id": "TK-095"
+ },
+ {
+  "q": "Dalam akuntansi pemerintahan, basis akuntansi yang digunakan saat ini adalah:",
+  "opsi": [
+   "Basis kas murni",
+   "Basis akrual",
+   "Basis tunai tahunan",
+   "Basis manual"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Sesuai PP 71/2010, pemerintah menerapkan akuntansi berbasis akrual untuk pengakuan pendapatan dan beban.",
+  "kompetensi": "teknis",
+  "id": "TK-096"
+ },
+ {
+  "q": "Dokumen yang menjadi dasar pelaksanaan kegiatan dan pencairan anggaran satker adalah:",
+  "opsi": [
+   "DIPA",
+   "LAKIP",
+   "Renstra",
+   "SWOT"
+  ],
+  "jawaban": 0,
+  "pembahasan": "DIPA (Daftar Isian Pelaksanaan Anggaran) adalah dokumen pelaksanaan anggaran yang menjadi dasar pencairan dana/pengeluaran.",
+  "kompetensi": "teknis",
+  "id": "TK-097"
+ },
+ {
+  "q": "Whistleblowing system dalam instansi pemerintah berfungsi untuk:",
+  "opsi": [
+   "Menyebarkan rahasia negara",
+   "Menampung dan menindaklanjuti laporan dugaan pelanggaran/korupsi",
+   "Menilai kinerja harian",
+   "Mengatur jadwal kerja"
+  ],
+  "jawaban": 1,
+  "pembahasan": "WBS adalah mekanisme pelaporan dugaan pelanggaran (termasuk korupsi) yang menjamin perlindungan pelapor demi integritas organisasi.",
+  "kompetensi": "teknis",
+  "id": "TK-098"
+ },
+ {
+  "q": "Indikator Kinerja Utama (IKU) digunakan untuk:",
+  "opsi": [
+   "Mengukur keberhasilan pencapaian sasaran strategis organisasi",
+   "Menghitung gaji pegawai",
+   "Mengatur jam istirahat",
+   "Menentukan warna seragam"
+  ],
+  "jawaban": 0,
+  "pembahasan": "IKU adalah ukuran keberhasilan dari tujuan dan sasaran strategis organisasi, menjadi acuan penilaian kinerja instansi.",
+  "kompetensi": "teknis",
+  "id": "TK-099"
+ },
+ {
+  "q": "Penatausahaan Barang Milik Negara dilakukan melalui aplikasi:",
+  "opsi": [
+   "SIMAK-BMN",
+   "SIRUP",
+   "e-Monev",
+   "SAPK"
+  ],
+  "jawaban": 0,
+  "pembahasan": "SIMAK-BMN (Sistem Informasi Manajemen dan Akuntansi Barang Milik Negara) digunakan untuk penatausahaan aset/BMN.",
+  "kompetensi": "teknis",
+  "id": "TK-100"
+ },
+ {
+  "q": "Salah satu bentuk pelanggaran disiplin PNS menurut PP 94 Tahun 2021 adalah:",
+  "opsi": [
+   "Hadir tepat waktu",
+   "Tidak masuk kerja tanpa alasan sah",
+   "Mengikuti pelatihan",
+   "Menyusun SKP"
+  ],
+  "jawaban": 1,
+  "pembahasan": "PP 94/2021 mengatur disiplin PNS; tidak masuk kerja tanpa alasan yang sah merupakan pelanggaran yang dikenai hukuman disiplin sesuai akumulasi hari.",
+  "kompetensi": "teknis",
+  "id": "TK-101"
+ },
+ {
+  "q": "Tujuan utama penerapan Zona Integritas menuju WBK/WBBM adalah:",
+  "opsi": [
+   "Menambah anggaran",
+   "Membangun unit kerja yang bersih dari korupsi dan berkualitas dalam pelayanan",
+   "Mengurangi jam kerja",
+   "Memperbanyak rapat"
+  ],
+  "jawaban": 1,
+  "pembahasan": "Zona Integritas (WBK/WBBM) bertujuan mewujudkan unit kerja yang Bersih dari Korupsi dan Birokrasi Bersih Melayani melalui reformasi nyata.",
+  "kompetensi": "teknis",
+  "id": "TK-102"
+ }
+]
